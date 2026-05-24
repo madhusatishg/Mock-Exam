@@ -1,118 +1,1976 @@
 [
   {
     "id": "test-1",
-    "title": "Principles of Insurance — Test 1",
-    "description": "IC-01 Practice Test 1 — Covers core principles, risk management, and insurance concepts.",
+    "title": "Principles of Insurance \u2014 Test 1",
+    "description": "IC-01 Practice Test 1 \u2014 Covers core principles, risk management, and insurance concepts.",
     "category": "Insurance",
     "questions": [
-      {"id":"t1q1","question":"Select the incorrect option with regards to the following statement: 'Customers are happy when__________.'","options":["they are being empathised with","they feel cared for and helped","they or their feelings and views are not ignored","they are been recognised and respected","they feel like they are been taken advantage of"],"correctAnswer":"they feel like they are been taken advantage of","explanation":"Customers are happy when: they are recognised and respected, their feelings and views are not ignored, they do not feel like they are being taken advantage of, they feel cared for and helped, and they are being empathised with. Feeling taken advantage of makes customers unhappy, not happy."},
-      {"id":"t1q2","question":"Identify the correct statement from the following statements with respect to valued policies.","options":["Valued policies are also called floater policies","Valued policies are also called full Value policies","Valued policies are also called first loss policies","Valued policies are also called admitted value policies","Valued policies are also called declaration policies"],"correctAnswer":"Valued policies are also called admitted value policies","explanation":"Valued policies are also called agreed value or admitted value policies, where the insurer agrees to pay a certain amount in the event of a total loss without taking into account allowances for depreciation or appreciation. This is not relevant for partial losses."},
-      {"id":"t1q3","question":"All Web Aggregators shall have the word __________ in the name of the Insurance Broking Company.","options":["Surveyors","Corporate agents","Third party administrators","Brokers","Insurance web aggregators"],"correctAnswer":"Insurance web aggregators","explanation":"All Web Aggregators shall have the word 'Insurance Web Aggregator' or 'Insurance Web Aggregators' in the name of the Insurance Broking Company to reflect its line of activity and to enable the public to differentiate IRDA licensed insurance Web Aggregator from other non-licensed insurance related entities."},
-      {"id":"t1q4","question":"The Money Market Fund invests a major portion of the money in instruments such as __________ whereas a Debt Fund invests a major portion of the money in instruments such as __________.","options":["Government Bonds, Corporate Bonds, Fixed Deposit etc./ Shares and Debentures etc.","Government Bonds, Corporate Bonds, Fixed Deposits etc./ Hundis and Chit Funds etc.","Treasury Bills, Certificates of Deposit, Commercial Paper etc./ Shares and Debentures etc.","Treasury Bills, Certificates of Deposit, Commercial Paper etc./ Government Bonds, Corporate Bonds, Fixed Deposits etc.","Treasury Bills, Certificates of Deposit, Commercial Paper etc./ Hundis and Chit Funds etc."],"correctAnswer":"Treasury Bills, Certificates of Deposit, Commercial Paper etc./ Government Bonds, Corporate Bonds, Fixed Deposits etc.","explanation":"Money Market Fund invests a major portion of the money in instruments such as Treasury Bills, Certificates of Deposit, Commercial Paper etc. Debt fund invests major portion of the money in fixed income securities e.g., Government Bonds, Corporate Bonds, Fixed Deposits etc."},
-      {"id":"t1q5","question":"Conditions Precedent to Liability are those __________ whereas Condition Subsequent are those __________.","options":["which require the insured to disclose any material fact, to make sure the policy is valid; which require notification of changes while the policy is valid","which require notification of changes when the policy is valid; which require the insured to disclose any material facts to make sure the policy is valid","which require the insured to give notice of an event happening within a specified period of time and also comply with certain situations prior to the occurrence of the loss; which require a notification of changes while the policy is valid","which require the insured to disclose any material facts to make sure the policy is valid; which require the insured to give notice of an event happening within a specified period of time and also comply with certain situations prior to the occurrence of the loss","which require notification of changes while the policy is valid; Which require the insurer to give notice of any event happening, within a specified period of time and also comply with certain situations prior to the occurrence of the loss"],"correctAnswer":"which require the insured to give notice of an event happening within a specified period of time and also comply with certain situations prior to the occurrence of the loss; which require a notification of changes while the policy is valid","explanation":"Conditions Precedent to Liability require the insured to give notice of an event happening within a specified period of time and also comply with certain stipulations prior to the occurrence of the loss. The policy may cease to operate if these conditions are not met. Conditions Subsequent require notification of changes while the policy is valid."},
-      {"id":"t1q6","question":"Identify from the following, the correct option which is not a consequential loss.","options":["Insurance cost","Loss of rent","Loss of production","Expenses for cleaning up","Removal of debris"],"correctAnswer":"Insurance cost","explanation":"Examples of Consequential losses are: expenses for cleaning up and removal of debris, loss of rent, production, revenue and profits until normalcy is restored, and possible liability losses for third party injuries. Insurance cost is not a consequential loss."},
-      {"id":"t1q7","question":"Identify from following which is not a point-of-sale person.","options":["Broker trained persons for soliciting and marketing the insurance policies","Insurance sales persons of insurance marketing firm","Rural authorised persons of common service centre - special purpose vehicle","Authorised person of web aggregators who can solicit and market all types of insurance policies","All the above persons are point of sale persons"],"correctAnswer":"All the above persons are point of sale persons","explanation":"All listed persons are indeed point of sale persons. There shall be two types of persons who shall solicit and market insurance policies: Insurance agent or specified persons of corporate agent or broker trained persons or insurance sales persons of Insurance Marketing Firm or rural authorised persons of CSC-SPV or authorised person of web aggregators; and 'Point of Sales Person' who can solicit and market only certain pre-underwritten products approved by the Authority."},
-      {"id":"t1q8","question":"Which of the following could lead to adverse selection?","options":["Young students enrolling in a Students Accident Policy","Taxis getting insured with private cars at the same rates","Older employees getting covered under an Employee Health insurance","Houses in coastal areas getting insured","None of the above"],"correctAnswer":"Taxis getting insured with private cars at the same rates","explanation":"If Taxis which have a higher exposure than private cars are classified with Private Cars, it would lead to Adverse Selection."},
-      {"id":"t1q9","question":"In which claims does Pay and Recover Arise?","options":["Credit Insurance","Motor Third Party","Health Insurance","Employee Compensation","Mediclaim"],"correctAnswer":"Motor Third Party","explanation":"The 'Pay and Recover' principle primarily arises in Motor Third Party insurance claims. This principle allows the insurance company to pay the compensation amount to the third party and then recover the same from the insured vehicle owner."},
-      {"id":"t1q10","question":"Which of the following is not an exposure unit?","options":["Person covered in Life Insurance","Vehicle","Consignment","Group Policy","All of the above"],"correctAnswer":"Group Policy","explanation":"Group Policy is not an exposure unit. The number of exposure units covered in that Group is relevant."},
-      {"id":"t1q11","question":"In evaluating a risk, which of the following aspects is not relevant?","options":["The market share of the Customer","The Sum Insured","The location of the risk","Past loss experience","All of the above"],"correctAnswer":"The market share of the Customer","explanation":"In evaluating an individual risk, Market Share is not relevant."},
-      {"id":"t1q12","question":"What is Reinstatement in reinsurance?","options":["Reinstatement of the Premium in Proportional Treaties","Reinstatement of the Deductible","Reinstatement of the Premium in Non-Proportional Treaties","Reinstatement of the Cover Limit","Reinstatement of the premium due"],"correctAnswer":"Reinstatement of the Cover Limit","explanation":"It should also be noted that the Cover Limit could get exhausted with one or more catastrophe events. The Cover Limit could, however, be reinstated on payment of additional premium to the Reinsurer."},
-      {"id":"t1q13","question":"Why should an Insurer write a large volume of risks?","options":["To increase market share","To improve their share price","To have a better prediction of loss events","To pay better remuneration to their employees","To increase profit"],"correctAnswer":"To have a better prediction of loss events","explanation":"The Law of Large Numbers says that as the number of trials go up, the difference between actual outcome and expected outcome come down. Hence, writing a large number of risks gives more predictable outcomes."},
-      {"id":"t1q14","question":"If the Sum Insured for machinery in a factory is Rs.50,00,000 and the Value at risk is Rs.40,00,000 and there is a loss for Rs.10,00,000 what amount should be paid to the Insured?","options":["Rs. 8,00,000","Rs. 12,50,000","Rs. 10,00,000","Rs. 40,00,000","Rs. 34,00,000"],"correctAnswer":"Rs. 10,00,000","explanation":"In this problem, there is no underinsurance. Underinsurance applies only where the value at risk is more than the Sum Insured. In this case value at risk of Rs. 40,00,000 is less than the Sum Insured of Rs.50,00,000. Hence, underinsurance will not be applied, and the full loss amount of Rs.10,00,000 will be paid."},
-      {"id":"t1q15","question":"If the Insurer's Retention is 200 Crores and they have a Ten Line Surplus treaty, what is the Treaty capacity?","options":["2200 Crores","2000 Crores","1800 Crores","200 Crores","1200 Crores"],"correctAnswer":"2200 Crores","explanation":"Treaty capacity is the sum of Retention and committed Reinsurance. In the given example, the committed reinsurance is 200X10=2000 (Ten Line Surplus treaty). Therefore, sum of retention + committed reinsurance = 200+2000 = 2200 is the Treaty capacity."},
-      {"id":"t1q16","question":"Which of the following is not a Risk?","options":["Property","Flood","Liability","Life Insurance","None of the above"],"correctAnswer":"Flood","explanation":"While others are Risks, Flood is a Peril."},
-      {"id":"t1q17","question":"Kumar bought 100 bags of Cement at Rs. 1,000 per bag. He insured them for Rs.1,50,000. In a flood loss, 50 bags were destroyed. At the time of loss, Cement was selling at Rs.2,000 per bag. What is the amount of loss Kumar would get from his Insurers?","options":["Rs. 1,00,000","Rs. 50,000","Rs. 75,000","Rs. 1,50,000","Rs. 1,25,000"],"correctAnswer":"Rs. 75,000","explanation":"The value at Risk is Rs. 2,00,000 (100 bags at Rs.2,000 per bag). Sum Insured is Rs.1,50,000. Hence there is underinsurance. Loss is Rs.1,00,000 (50 bags at Rs.2,000 per bag). Applying underinsurance formula: Loss Assessed X (Sum Insured/Value at Risk) = 1,00,000 X (150,000/2,00,000) = Rs. 75,000."},
-      {"id":"t1q18","question":"A health insurance company wants to price its new product. BURNING COST: 1,500, PRE ACCEPTANCE MEDICAL COST: 300, ACQUISITION COST: 7%, OPERATING EXPENSES: 15%, PROFIT: 3%. What should be the price?","options":["2,400","2,000","3,333","2,250","3,345"],"correctAnswer":"2,400","explanation":"Net risk cost = 1,500 (burning cost) + 300 (medical cost) = 1,800. Total loadings = 7% + 15% + 3% = 25%. So, net risk cost is 75% of Gross Premium. Gross Premium = 1800/0.75 = 2400."},
-      {"id":"t1q19","question":"Which of the following Policies has an underinsurance Clause?","options":["Health Insurance","Fire Insurance","Motor Insurance","Liability Insurance","None of the above"],"correctAnswer":"Fire Insurance","explanation":"Underinsurance is a penalty for not insuring to the full extent of the exposure. Fire Insurance has an underinsurance Clause."},
-      {"id":"t1q20","question":"An Insurer has Insurable Interest in the property insured by them because:","options":["They own the property","They are the Contractors and the Reinsurer is the Principal","They stand to benefit by the property's existence and lose by its loss","They are bailees to the Insured Property","They rent the property"],"correctAnswer":"They stand to benefit by the property's existence and lose by its loss","explanation":"An Insurer stands to benefit by the continued existence of the property, as they have to pay for the loss of property if it is lost by an Insured Peril."},
-      {"id":"t1q21","question":"Which of the following is a group of hazards?","options":["Storage, Construction, Liability","Flood, Earthquake, Terrorism","Accident, Property, Liability","Age, Method of Packing, Usage","None of the above"],"correctAnswer":"Age, Method of Packing, Usage","explanation":"Other groupings have one or more elements which are not hazards. Age, Method of Packing, and Usage are the only grouping with all hazards."},
-      {"id":"t1q22","question":"A risk with a Sum Insured of Rs. 600 Crores is ceded to the Reinsurer under a 20% Quota Share with a Treaty Limit of 500 Crores (100%). If the loss is for Rs. 120 Crores, how much would the Reinsurer pay?","options":["Rs. 20 Crores","Rs. 24 Crores","Rs.100 Crores","Rs.120 Crores","Rs. 230 Crores"],"correctAnswer":"Rs. 20 Crores","explanation":"Since the Treaty Limit is Rs.500 Crores, the Insurer can cede only 20% of 500 Crores, which is 100 Crores. Total Sum Insured is 600 Crores, of which Reinsurer's share of the exposure is 100 Crores. Therefore they would be liable for 1/6 of the loss which is 120/6 = 20 Crores."},
-      {"id":"t1q23","question":"It is necessary to interpret contracts in case of __________.","options":["an agreement","a consensus","an ambiguity","an arbitration","a claim"],"correctAnswer":"an ambiguity","explanation":"Contracts should be written in a simple language which could be understood by the parties to the contract. But disputes do arise in insurance contracts on what is the intent of a particular phrase. Rules have evolved on how to interpret contracts in case there is an ambiguity in a particular clause."},
-      {"id":"t1q24","question":"What is the investment income of the company if Net earned premium = 19,600, Net incurred claims = 16,400, Net Commission = 700, Operating expenses = 4,300, Profit = 3,200? (all amounts in Rupees crores)","options":["Rs.5000 crores","Rs.200 crores","Rs.5100 crores","Rs.300 crores","Rs.1300 crores"],"correctAnswer":"Rs.5000 crores","explanation":"Investment Income = Profit + Net Incurred Claims + Net Commission + Operating Expenses - Net Earned Premium = 3200 + 16400 + 700 + 4300 - 19600 = 24600 - 19600 = 5000. Therefore, the investment income of the company is Rs.5000 crores."},
-      {"id":"t1q25","question":"Identify the CORRECT statement.","options":["Pricing of insurance products is an easy task","Costs are known even before risk is assumed in insurance","Costs could never be known in insurance","The price should be determined even before the costs are known in insurance","The insurer could ask the customers for more payment, when the claims are higher"],"correctAnswer":"The price should be determined even before the costs are known in insurance","explanation":"The price should be determined even before the costs are known in insurance. Pricing is complex, involving actuarial science, risk assessment, and statistical modelling. The actual costs (claims) are unknown when a policy is written. Insurance premiums must be set before the actual claims occur, based on estimated risk and expected costs."},
-      {"id":"t1q26","question":"Under __________, the victim has a right to seek compensation directly from the insurer.","options":["Employee Compensation Act","Motor Vehicle Act","Public liability","Product liability","Tort"],"correctAnswer":"Motor Vehicle Act","explanation":"In Motor Third Party Liability, the Person who makes a claim need not be a party to the contract. The claim under a Motor Third Party is made by the victim or the legal heirs of the victim. Such victims are entitled, under law, to directly sue the vehicle Insurer and seek compensation."},
-      {"id":"t1q27","question":"Price is defined as __________.","options":["Cost – Interest","Cost – Profit","Cost – Depreciation","Cost + Interest","Cost + Profit"],"correctAnswer":"Cost + Profit","explanation":"Price is typically defined as the amount a buyer pays for a product or service. It is calculated as the cost of producing or delivering the product/service plus the profit margin that the seller desires. This ensures that the business covers its expenses and earns a return on its investment."},
-      {"id":"t1q28","question":"Identify the situation that does not involve a risk.","options":["There is likelihood of a burglary tomorrow","The cargo ship may not reach the harbour","Madhav could fall ill tomorrow","It is likely to rain tomorrow","The sun is not likely to rise in the east tomorrow"],"correctAnswer":"The sun is not likely to rise in the east tomorrow","explanation":"Risk is the possibility of a deviation from an expected outcome. There is no risk that the sun will not rise in the east tomorrow. Day after day, year after year, the sun unfailingly rises in the east. In all the other situations, there is an expected outcome and there is a possibility of a deviation from the expected outcome."},
-      {"id":"t1q29","question":"__________ is the best risk financing method.","options":["Availing a subsidy","Building up capital","Seeking help from the government","Availing loans","Building up morale"],"correctAnswer":"Building up capital","explanation":"The enterprise should have adequate Risk Financing tools to finance losses arising out of retained risks. Building up capital is the best risk financing method. Increased capital would increase the enterprise's ability to tide over adversities. Developing access to credit is another method of risk financing. Alternative Risk Transfer instruments are also available in the market to fund losses from retained risks."},
-      {"id":"t1q30","question":"Given, an insurance company has a Gross direct premium of Rs.1800 cr. and it neither accepted nor placed reinsurance, then its net premium would be __________.","options":["Rs.3550 cr.","Rs.1800 cr.","Rs.700 cr.","Data provided is insufficient","Nil"],"correctAnswer":"Rs.1800 cr.","explanation":"Gross Direct Premium is the total premium collected directly from policyholders before any deductions for reinsurance. Since no reinsurance was accepted or placed, Reinsurance Accepted = 0 and Reinsurance Ceded = 0. Net Premium = Gross Direct Premium + 0 − 0 = Rs.1800 cr."},
-      {"id":"t1q31","question":"Interest should exist __________, in marine insurance.","options":["at the time of the proposal","at the time of the loss","at the time of both the proposal and also the loss","only when the journey ends","never"],"correctAnswer":"at the time of the loss","explanation":"In non-life insurance, other than Marine Insurance, Insurable Interest should exist at the time of Proposal, and also at the time of loss. In Marine Insurance, Insurable Interest need not exist at the time of the Proposal, but it should exist at the time of loss."},
-      {"id":"t1q32","question":"Identify the situation wherein underinsurance is applicable. (Value at risk is 60 crores)","options":["Sum insured under Policy X: 35 crores, Sum insured under Policy Y: 30 crores","Sum insured under Policy X: 35 crores, Sum insured under Policy Y: 25 crores","Sum insured under Policy X: 30 crores, Sum insured under Policy Y: 30 crores","Sum insured under Policy X: 30 crores, Sum insured under Policy Y: 25 crores","Sum insured under Policy X: 25 crores, Sum insured under Policy Y: 35 crores"],"correctAnswer":"Sum insured under Policy X: 30 crores, Sum insured under Policy Y: 25 crores","explanation":"Underinsurance is applicable when Value at risk (60 crores) is more than total sum insured. Policy X: 30 + Policy Y: 25 = 55 crores, which is less than 60 crores — hence underinsurance applies."},
-      {"id":"t1q33","question":"Identify the statement that is INCORRECT.","options":["Less information is required for smaller risks","Information required varies with the nature of risk","A risk with an exposure for a lower value is considered a small risk","A Proposal form is sufficient for smaller risks","Less information is required for larger risks"],"correctAnswer":"Less information is required for larger risks","explanation":"For smaller risks, minimum information is sufficient, whereas for larger risks, detailed information is necessary. So saying 'Less information is required for larger risks' is incorrect."},
-      {"id":"t1q34","question":"Net Commission is an income if __________.","options":["the commission on reinsurance ceded is more than the sum of commission on direct business and commission on reinsurance accepted","the commission on reinsurance accepted is more than the sum of commission on direct business and Commission on reinsurance ceded","the commission on reinsurance ceded is less than the commission on reinsurance accepted","there is no Commission in reinsurance business","the commission on direct business is more than the sum of Commission on reinsurance accepted and Commission on reinsurance ceded"],"correctAnswer":"the commission on reinsurance ceded is less than the commission on reinsurance accepted","explanation":"Total Commission = Commission on Direct Business + Commission on Reinsurance Accepted − Commission on Reinsurance Ceded. Net Commission becomes an income when the commission earned (on reinsurance accepted) exceeds the commission paid (on reinsurance ceded)."},
-      {"id":"t1q35","question":"Underinsurance is considered __________.","options":["an incentive","loss reduction","a benefit","a penalty","an indemnity"],"correctAnswer":"a penalty","explanation":"Underinsurance is a penalty for not insuring to the full extent of the exposure. In order to penalise people who are not paying adequate premium in relation to their exposure, underinsurance clause is applied."},
-      {"id":"t1q36","question":"A data table with lower volatility is preferred because __________.","options":["lower variation signifies better marketing","a wide variation is good for insurance","prediction is better with lower variation","lesser volatility signifies more market share","prediction is better with a wide variation"],"correctAnswer":"prediction is better with lower variation","explanation":"When data has lesser volatility (lower variation), it is more stable and consistent. This consistency makes it easier to identify patterns and trends, which in turn improves the accuracy of predictions. High volatility introduces unpredictability, making it harder to derive meaningful forecasts."},
-      {"id":"t1q37","question":"__________ is not considered to be a hazard for Marine cargo.","options":["Packing method","Age of the ship","Duration of voyage","Nature of cargo","Captain's age"],"correctAnswer":"Captain's age","explanation":"While the captain's experience and abilities are vital for the safety of the voyage, their age is not a direct hazard for marine cargo. The other factors — duration of voyage, method of packing, nature of cargo, and age of the ship — are all critical in determining risks."},
-      {"id":"t1q38","question":"__________ is the opposite of stability.","options":["Stable","Steady","Volatility","Firm","Strong"],"correctAnswer":"Volatility","explanation":"Insurance insulates the enterprise from volatilities caused by unforeseen losses. Without insurance, the results of an enterprise could have wild swings because of adverse events. Insurance, by compensating such losses, provides stability to the enterprise and its operations."},
-      {"id":"t1q39","question":"When the duty of care is __________ it gives rise to Tort.","options":["complied with","completed","followed","adhered to","breached"],"correctAnswer":"breached","explanation":"Tort is a civil wrong. Each person owes a duty of care to others. If that duty of care is breached, and another person is injured or another person's property is damaged, the negligent person has to compensate the loss suffered by that another person."},
-      {"id":"t1q40","question":"__________ of the Insurance Act deals with nondisclosure in life insurance policies.","options":["Section 27","Section 64 VB","Section 41","Section 45","Section 101"],"correctAnswer":"Section 45","explanation":"Section 45 of the Insurance Act, 1938 restricts the authority of the Insurer to declare a Policy void. Under Section 45, the Insurer, even in the case of a misrepresentation or fraud by the Insured, cannot question the Policy after three years from the commencement of insurance."},
-      {"id":"t1q41","question":"Identify the factors that result in adverse selection.","options":["clubbing good and bad risks","categorizing goods based on hazard","categorizing risks based on loss probabilities","categorizing buildings based on construction","categorizing risks based on hazards"],"correctAnswer":"clubbing good and bad risks","explanation":"Clubbing good and bad risks means treating both low-risk and high-risk individuals the same. This leads to mispricing: low-risk individuals are overcharged, and high-risk individuals are undercharged — this is classic adverse selection."},
-      {"id":"t1q42","question":"Identify the correct statement. a) All contracts are contracts of Utmost good faith  b) All contracts are contracts of good faith","options":["Neither are correct","Only b","Only a","Both are correct","Cannot decide"],"correctAnswer":"Only b","explanation":"All contracts are contracts of good faith. However, in ordinary contracts, the parties are not expected to disclose facts which are not asked. Insurance contracts are contracts of utmost good faith — the parties have a duty to disclose all material facts even without being asked. This is called the Duty of Disclosure."},
-      {"id":"t1q43","question":"__________ past would not be indicative of the future.","options":["Never","During peaceful times","Always","During upheavals","During normal times"],"correctAnswer":"During upheavals","explanation":"The Law of Large Numbers estimates could go seriously wrong if there is a disruption or upheaval. For instance, hospitalisations could go seriously wrong in a year of pandemic. Terrorism, Cyber Crime, Climate Change and such other emerging risks could also spring nasty surprises."},
-      {"id":"t1q44","question":"The __________ is required to prove that the loss is because of an Excluded Peril.","options":["surveyor","broker","insured","insurer","agent"],"correctAnswer":"insurer","explanation":"Generally, it is the Insured customer who has to prove that there is a loss. If the Insurer disagrees, then it is the Insurer's duty to prove that the loss has occurred due to the operation of an excluded Peril."},
-      {"id":"t1q45","question":"What is the condition that requires the customer to bear a portion of each and every admissible loss known as?","options":["crucible","under insurance","deductible","over insurance","direction"],"correctAnswer":"deductible","explanation":"Policies could have an absolute deductible or a deductible expressed as a percentage of the admissible loss. For example, the Policy could have an absolute deductible of say Rs.25,000 on each and every loss, or 5% of each and every claim. Such deductibles should be reduced from the amount payable."},
-      {"id":"t1q46","question":"__________ is not considered to be a random process.","options":["Raining","Accident","Rolling a dice","Tossing a coin","Sun rising in the East"],"correctAnswer":"Sun rising in the East","explanation":"'Sun rising in the East' is NOT Random because it is a deterministic and predictable natural phenomenon, it happens consistently due to Earth's rotation, and there is no uncertainty involved. Rolling a die, tossing a coin, an accident or rains are all trials of random processes."},
-      {"id":"t1q47","question":"Identify the feature of a Pure risk.","options":["only loss","voluntary","conscious","loss or gain","not insurable"],"correctAnswer":"only loss","explanation":"Pure Risks are those that cause a loss, and never a gain. A Pure Risk does not require a voluntary action on the part of the person to trigger a loss. Thus, Pure Risks are beyond the control of those who suffer from the losses they are exposed to."},
-      {"id":"t1q48","question":"Under the preview of which act does the premium paid for an insurance policy and the proceeds of claim fall under?","options":["The Insurance Act","The RBI Act","The FEMA Act","The Income Tax Act","The Wealth Tax Act"],"correctAnswer":"The Income Tax Act","explanation":"The premium paid for an insurance policy and the proceeds of a claim fall under the purview of The Income Tax Act. Various sections of the Income Tax Act provide for tax benefits on insurance premiums paid and exemptions on claim proceeds received."},
-      {"id":"t1q49","question":"When the premium is paid just once at the start of the policy, such policy is called __________.","options":["One premium policy","Limited premium policy","Single premium policy","Special premium policy","Bulk premium policy"],"correctAnswer":"Single premium policy","explanation":"When all the premiums are paid in the first year itself, at the start of the policy, it is called a Single Premium Policy."},
-      {"id":"t1q50","question":"__________ drafts the Institute of cargo clauses.","options":["Newyork underwriters","London underwriters","Tokyo underwriters","Marine underwriters","India underwriters"],"correctAnswer":"London underwriters","explanation":"Export/import shipments are covered under the terms of Institute Cargo Clauses of Institutes of London Underwriters, according to international practice. Local clauses are used for inland transit policies."}
+      {
+        "id": "t1q1",
+        "question": "Select the incorrect option with regards to the following statement: 'Customers are happy when__________.'",
+        "options": [
+          "they are being empathised with",
+          "they feel cared for and helped",
+          "they or their feelings and views are not ignored",
+          "they are been recognised and respected",
+          "they feel like they are been taken advantage of"
+        ],
+        "correctAnswer": "they feel like they are been taken advantage of",
+        "explanation": "Customers are happy when: they are recognised and respected, their feelings and views are not ignored, they do not feel like they are being taken advantage of, they feel cared for and helped, and they are being empathised with. Feeling taken advantage of makes customers unhappy, not happy."
+      },
+      {
+        "id": "t1q2",
+        "question": "Identify the correct statement from the following statements with respect to valued policies.",
+        "options": [
+          "Valued policies are also called floater policies",
+          "Valued policies are also called full Value policies",
+          "Valued policies are also called first loss policies",
+          "Valued policies are also called admitted value policies",
+          "Valued policies are also called declaration policies"
+        ],
+        "correctAnswer": "Valued policies are also called admitted value policies",
+        "explanation": "Valued policies are also called agreed value or admitted value policies, where the insurer agrees to pay a certain amount in the event of a total loss without taking into account allowances for depreciation or appreciation. This is not relevant for partial losses."
+      },
+      {
+        "id": "t1q3",
+        "question": "All Web Aggregators shall have the word __________ in the name of the Insurance Broking Company.",
+        "options": [
+          "Surveyors",
+          "Corporate agents",
+          "Third party administrators",
+          "Brokers",
+          "Insurance web aggregators"
+        ],
+        "correctAnswer": "Insurance web aggregators",
+        "explanation": "All Web Aggregators shall have the word 'Insurance Web Aggregator' or 'Insurance Web Aggregators' in the name of the Insurance Broking Company to reflect its line of activity and to enable the public to differentiate IRDA licensed insurance Web Aggregator from other non-licensed insurance related entities."
+      },
+      {
+        "id": "t1q4",
+        "question": "The Money Market Fund invests a major portion of the money in instruments such as __________ whereas a Debt Fund invests a major portion of the money in instruments such as __________.",
+        "options": [
+          "Government Bonds, Corporate Bonds, Fixed Deposit etc./ Shares and Debentures etc.",
+          "Government Bonds, Corporate Bonds, Fixed Deposits etc./ Hundis and Chit Funds etc.",
+          "Treasury Bills, Certificates of Deposit, Commercial Paper etc./ Shares and Debentures etc.",
+          "Treasury Bills, Certificates of Deposit, Commercial Paper etc./ Government Bonds, Corporate Bonds, Fixed Deposits etc.",
+          "Treasury Bills, Certificates of Deposit, Commercial Paper etc./ Hundis and Chit Funds etc."
+        ],
+        "correctAnswer": "Treasury Bills, Certificates of Deposit, Commercial Paper etc./ Government Bonds, Corporate Bonds, Fixed Deposits etc.",
+        "explanation": "Money Market Fund invests a major portion of the money in instruments such as Treasury Bills, Certificates of Deposit, Commercial Paper etc. Debt fund invests major portion of the money in fixed income securities e.g., Government Bonds, Corporate Bonds, Fixed Deposits etc."
+      },
+      {
+        "id": "t1q5",
+        "question": "Conditions Precedent to Liability are those __________ whereas Condition Subsequent are those __________.",
+        "options": [
+          "which require the insured to disclose any material fact, to make sure the policy is valid; which require notification of changes while the policy is valid",
+          "which require notification of changes when the policy is valid; which require the insured to disclose any material facts to make sure the policy is valid",
+          "which require the insured to give notice of an event happening within a specified period of time and also comply with certain situations prior to the occurrence of the loss; which require a notification of changes while the policy is valid",
+          "which require the insured to disclose any material facts to make sure the policy is valid; which require the insured to give notice of an event happening within a specified period of time and also comply with certain situations prior to the occurrence of the loss",
+          "which require notification of changes while the policy is valid; Which require the insurer to give notice of any event happening, within a specified period of time and also comply with certain situations prior to the occurrence of the loss"
+        ],
+        "correctAnswer": "which require the insured to give notice of an event happening within a specified period of time and also comply with certain situations prior to the occurrence of the loss; which require a notification of changes while the policy is valid",
+        "explanation": "Conditions Precedent to Liability require the insured to give notice of an event happening within a specified period of time and also comply with certain stipulations prior to the occurrence of the loss. The policy may cease to operate if these conditions are not met. Conditions Subsequent require notification of changes while the policy is valid."
+      },
+      {
+        "id": "t1q6",
+        "question": "Identify from the following, the correct option which is not a consequential loss.",
+        "options": [
+          "Insurance cost",
+          "Loss of rent",
+          "Loss of production",
+          "Expenses for cleaning up",
+          "Removal of debris"
+        ],
+        "correctAnswer": "Insurance cost",
+        "explanation": "Examples of Consequential losses are: expenses for cleaning up and removal of debris, loss of rent, production, revenue and profits until normalcy is restored, and possible liability losses for third party injuries. Insurance cost is not a consequential loss."
+      },
+      {
+        "id": "t1q7",
+        "question": "Identify from following which is not a point-of-sale person.",
+        "options": [
+          "Broker trained persons for soliciting and marketing the insurance policies",
+          "Insurance sales persons of insurance marketing firm",
+          "Rural authorised persons of common service centre - special purpose vehicle",
+          "Authorised person of web aggregators who can solicit and market all types of insurance policies",
+          "All the above persons are point of sale persons"
+        ],
+        "correctAnswer": "All the above persons are point of sale persons",
+        "explanation": "All listed persons are indeed point of sale persons. There shall be two types of persons who shall solicit and market insurance policies: Insurance agent or specified persons of corporate agent or broker trained persons or insurance sales persons of Insurance Marketing Firm or rural authorised persons of CSC-SPV or authorised person of web aggregators; and 'Point of Sales Person' who can solicit and market only certain pre-underwritten products approved by the Authority."
+      },
+      {
+        "id": "t1q8",
+        "question": "Which of the following could lead to adverse selection?",
+        "options": [
+          "Young students enrolling in a Students Accident Policy",
+          "Taxis getting insured with private cars at the same rates",
+          "Older employees getting covered under an Employee Health insurance",
+          "Houses in coastal areas getting insured",
+          "None of the above"
+        ],
+        "correctAnswer": "Taxis getting insured with private cars at the same rates",
+        "explanation": "If Taxis which have a higher exposure than private cars are classified with Private Cars, it would lead to Adverse Selection."
+      },
+      {
+        "id": "t1q9",
+        "question": "In which claims does Pay and Recover Arise?",
+        "options": [
+          "Credit Insurance",
+          "Motor Third Party",
+          "Health Insurance",
+          "Employee Compensation",
+          "Mediclaim"
+        ],
+        "correctAnswer": "Motor Third Party",
+        "explanation": "The 'Pay and Recover' principle primarily arises in Motor Third Party insurance claims. This principle allows the insurance company to pay the compensation amount to the third party and then recover the same from the insured vehicle owner."
+      },
+      {
+        "id": "t1q10",
+        "question": "Which of the following is not an exposure unit?",
+        "options": [
+          "Person covered in Life Insurance",
+          "Vehicle",
+          "Consignment",
+          "Group Policy",
+          "All of the above"
+        ],
+        "correctAnswer": "Group Policy",
+        "explanation": "Group Policy is not an exposure unit. The number of exposure units covered in that Group is relevant."
+      },
+      {
+        "id": "t1q11",
+        "question": "In evaluating a risk, which of the following aspects is not relevant?",
+        "options": [
+          "The market share of the Customer",
+          "The Sum Insured",
+          "The location of the risk",
+          "Past loss experience",
+          "All of the above"
+        ],
+        "correctAnswer": "The market share of the Customer",
+        "explanation": "In evaluating an individual risk, Market Share is not relevant."
+      },
+      {
+        "id": "t1q12",
+        "question": "What is Reinstatement in reinsurance?",
+        "options": [
+          "Reinstatement of the Premium in Proportional Treaties",
+          "Reinstatement of the Deductible",
+          "Reinstatement of the Premium in Non-Proportional Treaties",
+          "Reinstatement of the Cover Limit",
+          "Reinstatement of the premium due"
+        ],
+        "correctAnswer": "Reinstatement of the Cover Limit",
+        "explanation": "It should also be noted that the Cover Limit could get exhausted with one or more catastrophe events. The Cover Limit could, however, be reinstated on payment of additional premium to the Reinsurer."
+      },
+      {
+        "id": "t1q13",
+        "question": "Why should an Insurer write a large volume of risks?",
+        "options": [
+          "To increase market share",
+          "To improve their share price",
+          "To have a better prediction of loss events",
+          "To pay better remuneration to their employees",
+          "To increase profit"
+        ],
+        "correctAnswer": "To have a better prediction of loss events",
+        "explanation": "The Law of Large Numbers says that as the number of trials go up, the difference between actual outcome and expected outcome come down. Hence, writing a large number of risks gives more predictable outcomes."
+      },
+      {
+        "id": "t1q14",
+        "question": "If the Sum Insured for machinery in a factory is Rs.50,00,000 and the Value at risk is Rs.40,00,000 and there is a loss for Rs.10,00,000 what amount should be paid to the Insured?",
+        "options": [
+          "Rs. 8,00,000",
+          "Rs. 12,50,000",
+          "Rs. 10,00,000",
+          "Rs. 40,00,000",
+          "Rs. 34,00,000"
+        ],
+        "correctAnswer": "Rs. 10,00,000",
+        "explanation": "In this problem, there is no underinsurance. Underinsurance applies only where the value at risk is more than the Sum Insured. In this case value at risk of Rs. 40,00,000 is less than the Sum Insured of Rs.50,00,000. Hence, underinsurance will not be applied, and the full loss amount of Rs.10,00,000 will be paid."
+      },
+      {
+        "id": "t1q15",
+        "question": "If the Insurer's Retention is 200 Crores and they have a Ten Line Surplus treaty, what is the Treaty capacity?",
+        "options": [
+          "2200 Crores",
+          "2000 Crores",
+          "1800 Crores",
+          "200 Crores",
+          "1200 Crores"
+        ],
+        "correctAnswer": "2200 Crores",
+        "explanation": "Treaty capacity is the sum of Retention and committed Reinsurance. In the given example, the committed reinsurance is 200X10=2000 (Ten Line Surplus treaty). Therefore, sum of retention + committed reinsurance = 200+2000 = 2200 is the Treaty capacity."
+      },
+      {
+        "id": "t1q16",
+        "question": "Which of the following is not a Risk?",
+        "options": [
+          "Property",
+          "Flood",
+          "Liability",
+          "Life Insurance",
+          "None of the above"
+        ],
+        "correctAnswer": "Flood",
+        "explanation": "While others are Risks, Flood is a Peril."
+      },
+      {
+        "id": "t1q17",
+        "question": "Kumar bought 100 bags of Cement at Rs. 1,000 per bag. He insured them for Rs.1,50,000. In a flood loss, 50 bags were destroyed. At the time of loss, Cement was selling at Rs.2,000 per bag. What is the amount of loss Kumar would get from his Insurers?",
+        "options": [
+          "Rs. 1,00,000",
+          "Rs. 50,000",
+          "Rs. 75,000",
+          "Rs. 1,50,000",
+          "Rs. 1,25,000"
+        ],
+        "correctAnswer": "Rs. 75,000",
+        "explanation": "The value at Risk is Rs. 2,00,000 (100 bags at Rs.2,000 per bag). Sum Insured is Rs.1,50,000. Hence there is underinsurance. Loss is Rs.1,00,000 (50 bags at Rs.2,000 per bag). Applying underinsurance formula: Loss Assessed X (Sum Insured/Value at Risk) = 1,00,000 X (150,000/2,00,000) = Rs. 75,000."
+      },
+      {
+        "id": "t1q18",
+        "question": "A health insurance company wants to price its new product. BURNING COST: 1,500, PRE ACCEPTANCE MEDICAL COST: 300, ACQUISITION COST: 7%, OPERATING EXPENSES: 15%, PROFIT: 3%. What should be the price?",
+        "options": [
+          "2,400",
+          "2,000",
+          "3,333",
+          "2,250",
+          "3,345"
+        ],
+        "correctAnswer": "2,400",
+        "explanation": "Net risk cost = 1,500 (burning cost) + 300 (medical cost) = 1,800. Total loadings = 7% + 15% + 3% = 25%. So, net risk cost is 75% of Gross Premium. Gross Premium = 1800/0.75 = 2400."
+      },
+      {
+        "id": "t1q19",
+        "question": "Which of the following Policies has an underinsurance Clause?",
+        "options": [
+          "Health Insurance",
+          "Fire Insurance",
+          "Motor Insurance",
+          "Liability Insurance",
+          "None of the above"
+        ],
+        "correctAnswer": "Fire Insurance",
+        "explanation": "Underinsurance is a penalty for not insuring to the full extent of the exposure. Fire Insurance has an underinsurance Clause."
+      },
+      {
+        "id": "t1q20",
+        "question": "An Insurer has Insurable Interest in the property insured by them because:",
+        "options": [
+          "They own the property",
+          "They are the Contractors and the Reinsurer is the Principal",
+          "They stand to benefit by the property's existence and lose by its loss",
+          "They are bailees to the Insured Property",
+          "They rent the property"
+        ],
+        "correctAnswer": "They stand to benefit by the property's existence and lose by its loss",
+        "explanation": "An Insurer stands to benefit by the continued existence of the property, as they have to pay for the loss of property if it is lost by an Insured Peril."
+      },
+      {
+        "id": "t1q21",
+        "question": "Which of the following is a group of hazards?",
+        "options": [
+          "Storage, Construction, Liability",
+          "Flood, Earthquake, Terrorism",
+          "Accident, Property, Liability",
+          "Age, Method of Packing, Usage",
+          "None of the above"
+        ],
+        "correctAnswer": "Age, Method of Packing, Usage",
+        "explanation": "Other groupings have one or more elements which are not hazards. Age, Method of Packing, and Usage are the only grouping with all hazards."
+      },
+      {
+        "id": "t1q22",
+        "question": "A risk with a Sum Insured of Rs. 600 Crores is ceded to the Reinsurer under a 20% Quota Share with a Treaty Limit of 500 Crores (100%). If the loss is for Rs. 120 Crores, how much would the Reinsurer pay?",
+        "options": [
+          "Rs. 20 Crores",
+          "Rs. 24 Crores",
+          "Rs.100 Crores",
+          "Rs.120 Crores",
+          "Rs. 230 Crores"
+        ],
+        "correctAnswer": "Rs. 20 Crores",
+        "explanation": "Since the Treaty Limit is Rs.500 Crores, the Insurer can cede only 20% of 500 Crores, which is 100 Crores. Total Sum Insured is 600 Crores, of which Reinsurer's share of the exposure is 100 Crores. Therefore they would be liable for 1/6 of the loss which is 120/6 = 20 Crores."
+      },
+      {
+        "id": "t1q23",
+        "question": "It is necessary to interpret contracts in case of __________.",
+        "options": [
+          "an agreement",
+          "a consensus",
+          "an ambiguity",
+          "an arbitration",
+          "a claim"
+        ],
+        "correctAnswer": "an ambiguity",
+        "explanation": "Contracts should be written in a simple language which could be understood by the parties to the contract. But disputes do arise in insurance contracts on what is the intent of a particular phrase. Rules have evolved on how to interpret contracts in case there is an ambiguity in a particular clause."
+      },
+      {
+        "id": "t1q24",
+        "question": "What is the investment income of the company if Net earned premium = 19,600, Net incurred claims = 16,400, Net Commission = 700, Operating expenses = 4,300, Profit = 3,200? (all amounts in Rupees crores)",
+        "options": [
+          "Rs.5000 crores",
+          "Rs.200 crores",
+          "Rs.5100 crores",
+          "Rs.300 crores",
+          "Rs.1300 crores"
+        ],
+        "correctAnswer": "Rs.5000 crores",
+        "explanation": "Investment Income = Profit + Net Incurred Claims + Net Commission + Operating Expenses - Net Earned Premium = 3200 + 16400 + 700 + 4300 - 19600 = 24600 - 19600 = 5000. Therefore, the investment income of the company is Rs.5000 crores."
+      },
+      {
+        "id": "t1q25",
+        "question": "Identify the CORRECT statement.",
+        "options": [
+          "Pricing of insurance products is an easy task",
+          "Costs are known even before risk is assumed in insurance",
+          "Costs could never be known in insurance",
+          "The price should be determined even before the costs are known in insurance",
+          "The insurer could ask the customers for more payment, when the claims are higher"
+        ],
+        "correctAnswer": "The price should be determined even before the costs are known in insurance",
+        "explanation": "The price should be determined even before the costs are known in insurance. Pricing is complex, involving actuarial science, risk assessment, and statistical modelling. The actual costs (claims) are unknown when a policy is written. Insurance premiums must be set before the actual claims occur, based on estimated risk and expected costs."
+      },
+      {
+        "id": "t1q26",
+        "question": "Under __________, the victim has a right to seek compensation directly from the insurer.",
+        "options": [
+          "Employee Compensation Act",
+          "Motor Vehicle Act",
+          "Public liability",
+          "Product liability",
+          "Tort"
+        ],
+        "correctAnswer": "Motor Vehicle Act",
+        "explanation": "In Motor Third Party Liability, the Person who makes a claim need not be a party to the contract. The claim under a Motor Third Party is made by the victim or the legal heirs of the victim. Such victims are entitled, under law, to directly sue the vehicle Insurer and seek compensation."
+      },
+      {
+        "id": "t1q27",
+        "question": "Price is defined as __________.",
+        "options": [
+          "Cost \u2013 Interest",
+          "Cost \u2013 Profit",
+          "Cost \u2013 Depreciation",
+          "Cost + Interest",
+          "Cost + Profit"
+        ],
+        "correctAnswer": "Cost + Profit",
+        "explanation": "Price is typically defined as the amount a buyer pays for a product or service. It is calculated as the cost of producing or delivering the product/service plus the profit margin that the seller desires. This ensures that the business covers its expenses and earns a return on its investment."
+      },
+      {
+        "id": "t1q28",
+        "question": "Identify the situation that does not involve a risk.",
+        "options": [
+          "There is likelihood of a burglary tomorrow",
+          "The cargo ship may not reach the harbour",
+          "Madhav could fall ill tomorrow",
+          "It is likely to rain tomorrow",
+          "The sun is not likely to rise in the east tomorrow"
+        ],
+        "correctAnswer": "The sun is not likely to rise in the east tomorrow",
+        "explanation": "Risk is the possibility of a deviation from an expected outcome. There is no risk that the sun will not rise in the east tomorrow. Day after day, year after year, the sun unfailingly rises in the east. In all the other situations, there is an expected outcome and there is a possibility of a deviation from the expected outcome."
+      },
+      {
+        "id": "t1q29",
+        "question": "__________ is the best risk financing method.",
+        "options": [
+          "Availing a subsidy",
+          "Building up capital",
+          "Seeking help from the government",
+          "Availing loans",
+          "Building up morale"
+        ],
+        "correctAnswer": "Building up capital",
+        "explanation": "The enterprise should have adequate Risk Financing tools to finance losses arising out of retained risks. Building up capital is the best risk financing method. Increased capital would increase the enterprise's ability to tide over adversities. Developing access to credit is another method of risk financing. Alternative Risk Transfer instruments are also available in the market to fund losses from retained risks."
+      },
+      {
+        "id": "t1q30",
+        "question": "Given, an insurance company has a Gross direct premium of Rs.1800 cr. and it neither accepted nor placed reinsurance, then its net premium would be __________.",
+        "options": [
+          "Rs.3550 cr.",
+          "Rs.1800 cr.",
+          "Rs.700 cr.",
+          "Data provided is insufficient",
+          "Nil"
+        ],
+        "correctAnswer": "Rs.1800 cr.",
+        "explanation": "Gross Direct Premium is the total premium collected directly from policyholders before any deductions for reinsurance. Since no reinsurance was accepted or placed, Reinsurance Accepted = 0 and Reinsurance Ceded = 0. Net Premium = Gross Direct Premium + 0 \u2212 0 = Rs.1800 cr."
+      },
+      {
+        "id": "t1q31",
+        "question": "Interest should exist __________, in marine insurance.",
+        "options": [
+          "at the time of the proposal",
+          "at the time of the loss",
+          "at the time of both the proposal and also the loss",
+          "only when the journey ends",
+          "never"
+        ],
+        "correctAnswer": "at the time of the loss",
+        "explanation": "In non-life insurance, other than Marine Insurance, Insurable Interest should exist at the time of Proposal, and also at the time of loss. In Marine Insurance, Insurable Interest need not exist at the time of the Proposal, but it should exist at the time of loss."
+      },
+      {
+        "id": "t1q32",
+        "question": "Identify the situation wherein underinsurance is applicable. (Value at risk is 60 crores)",
+        "options": [
+          "Sum insured under Policy X: 35 crores, Sum insured under Policy Y: 30 crores",
+          "Sum insured under Policy X: 35 crores, Sum insured under Policy Y: 25 crores",
+          "Sum insured under Policy X: 30 crores, Sum insured under Policy Y: 30 crores",
+          "Sum insured under Policy X: 30 crores, Sum insured under Policy Y: 25 crores",
+          "Sum insured under Policy X: 25 crores, Sum insured under Policy Y: 35 crores"
+        ],
+        "correctAnswer": "Sum insured under Policy X: 30 crores, Sum insured under Policy Y: 25 crores",
+        "explanation": "Underinsurance is applicable when Value at risk (60 crores) is more than total sum insured. Policy X: 30 + Policy Y: 25 = 55 crores, which is less than 60 crores \u2014 hence underinsurance applies."
+      },
+      {
+        "id": "t1q33",
+        "question": "Identify the statement that is INCORRECT.",
+        "options": [
+          "Less information is required for smaller risks",
+          "Information required varies with the nature of risk",
+          "A risk with an exposure for a lower value is considered a small risk",
+          "A Proposal form is sufficient for smaller risks",
+          "Less information is required for larger risks"
+        ],
+        "correctAnswer": "Less information is required for larger risks",
+        "explanation": "For smaller risks, minimum information is sufficient, whereas for larger risks, detailed information is necessary. So saying 'Less information is required for larger risks' is incorrect."
+      },
+      {
+        "id": "t1q34",
+        "question": "Net Commission is an income if __________.",
+        "options": [
+          "the commission on reinsurance ceded is more than the sum of commission on direct business and commission on reinsurance accepted",
+          "the commission on reinsurance accepted is more than the sum of commission on direct business and Commission on reinsurance ceded",
+          "the commission on reinsurance ceded is less than the commission on reinsurance accepted",
+          "there is no Commission in reinsurance business",
+          "the commission on direct business is more than the sum of Commission on reinsurance accepted and Commission on reinsurance ceded"
+        ],
+        "correctAnswer": "the commission on reinsurance ceded is less than the commission on reinsurance accepted",
+        "explanation": "Total Commission = Commission on Direct Business + Commission on Reinsurance Accepted \u2212 Commission on Reinsurance Ceded. Net Commission becomes an income when the commission earned (on reinsurance accepted) exceeds the commission paid (on reinsurance ceded)."
+      },
+      {
+        "id": "t1q35",
+        "question": "Underinsurance is considered __________.",
+        "options": [
+          "an incentive",
+          "loss reduction",
+          "a benefit",
+          "a penalty",
+          "an indemnity"
+        ],
+        "correctAnswer": "a penalty",
+        "explanation": "Underinsurance is a penalty for not insuring to the full extent of the exposure. In order to penalise people who are not paying adequate premium in relation to their exposure, underinsurance clause is applied."
+      },
+      {
+        "id": "t1q36",
+        "question": "A data table with lower volatility is preferred because __________.",
+        "options": [
+          "lower variation signifies better marketing",
+          "a wide variation is good for insurance",
+          "prediction is better with lower variation",
+          "lesser volatility signifies more market share",
+          "prediction is better with a wide variation"
+        ],
+        "correctAnswer": "prediction is better with lower variation",
+        "explanation": "When data has lesser volatility (lower variation), it is more stable and consistent. This consistency makes it easier to identify patterns and trends, which in turn improves the accuracy of predictions. High volatility introduces unpredictability, making it harder to derive meaningful forecasts."
+      },
+      {
+        "id": "t1q37",
+        "question": "__________ is not considered to be a hazard for Marine cargo.",
+        "options": [
+          "Packing method",
+          "Age of the ship",
+          "Duration of voyage",
+          "Nature of cargo",
+          "Captain's age"
+        ],
+        "correctAnswer": "Captain's age",
+        "explanation": "While the captain's experience and abilities are vital for the safety of the voyage, their age is not a direct hazard for marine cargo. The other factors \u2014 duration of voyage, method of packing, nature of cargo, and age of the ship \u2014 are all critical in determining risks."
+      },
+      {
+        "id": "t1q38",
+        "question": "__________ is the opposite of stability.",
+        "options": [
+          "Stable",
+          "Steady",
+          "Volatility",
+          "Firm",
+          "Strong"
+        ],
+        "correctAnswer": "Volatility",
+        "explanation": "Insurance insulates the enterprise from volatilities caused by unforeseen losses. Without insurance, the results of an enterprise could have wild swings because of adverse events. Insurance, by compensating such losses, provides stability to the enterprise and its operations."
+      },
+      {
+        "id": "t1q39",
+        "question": "When the duty of care is __________ it gives rise to Tort.",
+        "options": [
+          "complied with",
+          "completed",
+          "followed",
+          "adhered to",
+          "breached"
+        ],
+        "correctAnswer": "breached",
+        "explanation": "Tort is a civil wrong. Each person owes a duty of care to others. If that duty of care is breached, and another person is injured or another person's property is damaged, the negligent person has to compensate the loss suffered by that another person."
+      },
+      {
+        "id": "t1q40",
+        "question": "__________ of the Insurance Act deals with nondisclosure in life insurance policies.",
+        "options": [
+          "Section 27",
+          "Section 64 VB",
+          "Section 41",
+          "Section 45",
+          "Section 101"
+        ],
+        "correctAnswer": "Section 45",
+        "explanation": "Section 45 of the Insurance Act, 1938 restricts the authority of the Insurer to declare a Policy void. Under Section 45, the Insurer, even in the case of a misrepresentation or fraud by the Insured, cannot question the Policy after three years from the commencement of insurance."
+      },
+      {
+        "id": "t1q41",
+        "question": "Identify the factors that result in adverse selection.",
+        "options": [
+          "clubbing good and bad risks",
+          "categorizing goods based on hazard",
+          "categorizing risks based on loss probabilities",
+          "categorizing buildings based on construction",
+          "categorizing risks based on hazards"
+        ],
+        "correctAnswer": "clubbing good and bad risks",
+        "explanation": "Clubbing good and bad risks means treating both low-risk and high-risk individuals the same. This leads to mispricing: low-risk individuals are overcharged, and high-risk individuals are undercharged \u2014 this is classic adverse selection."
+      },
+      {
+        "id": "t1q42",
+        "question": "Identify the correct statement. a) All contracts are contracts of Utmost good faith  b) All contracts are contracts of good faith",
+        "options": [
+          "Neither are correct",
+          "Only b",
+          "Only a",
+          "Both are correct",
+          "Cannot decide"
+        ],
+        "correctAnswer": "Only b",
+        "explanation": "All contracts are contracts of good faith. However, in ordinary contracts, the parties are not expected to disclose facts which are not asked. Insurance contracts are contracts of utmost good faith \u2014 the parties have a duty to disclose all material facts even without being asked. This is called the Duty of Disclosure."
+      },
+      {
+        "id": "t1q43",
+        "question": "__________ past would not be indicative of the future.",
+        "options": [
+          "Never",
+          "During peaceful times",
+          "Always",
+          "During upheavals",
+          "During normal times"
+        ],
+        "correctAnswer": "During upheavals",
+        "explanation": "The Law of Large Numbers estimates could go seriously wrong if there is a disruption or upheaval. For instance, hospitalisations could go seriously wrong in a year of pandemic. Terrorism, Cyber Crime, Climate Change and such other emerging risks could also spring nasty surprises."
+      },
+      {
+        "id": "t1q44",
+        "question": "The __________ is required to prove that the loss is because of an Excluded Peril.",
+        "options": [
+          "surveyor",
+          "broker",
+          "insured",
+          "insurer",
+          "agent"
+        ],
+        "correctAnswer": "insurer",
+        "explanation": "Generally, it is the Insured customer who has to prove that there is a loss. If the Insurer disagrees, then it is the Insurer's duty to prove that the loss has occurred due to the operation of an excluded Peril."
+      },
+      {
+        "id": "t1q45",
+        "question": "What is the condition that requires the customer to bear a portion of each and every admissible loss known as?",
+        "options": [
+          "crucible",
+          "under insurance",
+          "deductible",
+          "over insurance",
+          "direction"
+        ],
+        "correctAnswer": "deductible",
+        "explanation": "Policies could have an absolute deductible or a deductible expressed as a percentage of the admissible loss. For example, the Policy could have an absolute deductible of say Rs.25,000 on each and every loss, or 5% of each and every claim. Such deductibles should be reduced from the amount payable."
+      },
+      {
+        "id": "t1q46",
+        "question": "__________ is not considered to be a random process.",
+        "options": [
+          "Raining",
+          "Accident",
+          "Rolling a dice",
+          "Tossing a coin",
+          "Sun rising in the East"
+        ],
+        "correctAnswer": "Sun rising in the East",
+        "explanation": "'Sun rising in the East' is NOT Random because it is a deterministic and predictable natural phenomenon, it happens consistently due to Earth's rotation, and there is no uncertainty involved. Rolling a die, tossing a coin, an accident or rains are all trials of random processes."
+      },
+      {
+        "id": "t1q47",
+        "question": "Identify the feature of a Pure risk.",
+        "options": [
+          "only loss",
+          "voluntary",
+          "conscious",
+          "loss or gain",
+          "not insurable"
+        ],
+        "correctAnswer": "only loss",
+        "explanation": "Pure Risks are those that cause a loss, and never a gain. A Pure Risk does not require a voluntary action on the part of the person to trigger a loss. Thus, Pure Risks are beyond the control of those who suffer from the losses they are exposed to."
+      },
+      {
+        "id": "t1q48",
+        "question": "Under the preview of which act does the premium paid for an insurance policy and the proceeds of claim fall under?",
+        "options": [
+          "The Insurance Act",
+          "The RBI Act",
+          "The FEMA Act",
+          "The Income Tax Act",
+          "The Wealth Tax Act"
+        ],
+        "correctAnswer": "The Income Tax Act",
+        "explanation": "The premium paid for an insurance policy and the proceeds of a claim fall under the purview of The Income Tax Act. Various sections of the Income Tax Act provide for tax benefits on insurance premiums paid and exemptions on claim proceeds received."
+      },
+      {
+        "id": "t1q49",
+        "question": "When the premium is paid just once at the start of the policy, such policy is called __________.",
+        "options": [
+          "One premium policy",
+          "Limited premium policy",
+          "Single premium policy",
+          "Special premium policy",
+          "Bulk premium policy"
+        ],
+        "correctAnswer": "Single premium policy",
+        "explanation": "When all the premiums are paid in the first year itself, at the start of the policy, it is called a Single Premium Policy."
+      },
+      {
+        "id": "t1q50",
+        "question": "__________ drafts the Institute of cargo clauses.",
+        "options": [
+          "Newyork underwriters",
+          "London underwriters",
+          "Tokyo underwriters",
+          "Marine underwriters",
+          "India underwriters"
+        ],
+        "correctAnswer": "London underwriters",
+        "explanation": "Export/import shipments are covered under the terms of Institute Cargo Clauses of Institutes of London Underwriters, according to international practice. Local clauses are used for inland transit policies."
+      }
     ]
   },
   {
     "id": "test-2",
-    "title": "Principles of Insurance — Test 2",
-    "description": "IC-01 Practice Test 2 — Advanced concepts in insurance, reinsurance, claims, and regulation.",
+    "title": "Principles of Insurance \u2014 Test 2",
+    "description": "IC-01 Practice Test 2 \u2014 Advanced concepts in insurance, reinsurance, claims, and regulation.",
     "category": "Insurance",
     "questions": [
-      {"id":"t2q1","question":"Ms. Kavita has applied for a unit-linked insurance plan (ULIP) for herself. She is a care free woman and is willing to take high risks but she expects high returns as well. Which type of basic fund Ms. Kavita should invest in?","options":["Gilt Fund","Debt Fund","Equity Fund","Balanced Fund","Money Market Fund"],"correctAnswer":"Equity Fund","explanation":"Equity fund is for those investors who are willing to take high risk and are looking for high returns."},
-      {"id":"t2q2","question":"'Sometimes insurers pay a claim, even if the claim is not payable, under the terms of the policy called ex-gratia payments.' Evaluate the above statement and state whether it is true or false.","options":["False: Insurers never pay a claim, when the claim is not payable, under the terms of the policy","False: Sometimes insurers pay a claim, even if the claim is not payable, under the terms of the policy called non-gratia payments","True: Sometimes, insurers pay a claim even if the claim is not payable under the terms of the policy called ex-gratia payments","False: Sometimes insurers pay a claim, even if the claim is not payable, under the terms of the policy called gratia payments","False: Sometimes, insurance pay a claim, even if the claim is not payable, under the terms of the policy called charity payments"],"correctAnswer":"True: Sometimes, insurers pay a claim even if the claim is not payable under the terms of the policy called ex-gratia payments","explanation":"Sometimes insurers pay a claim even if the claim is not payable under the terms of the policy. These payments are called ex-gratia payments. This is usually done if the conditions of insurance have been substantially met and the insured has acted in good faith."},
-      {"id":"t2q3","question":"The first written insurance policy was __________.","options":["found in the Vedas","on a temple wall in south India","on a papyrus found in Harappa","on Babylonian obelisk monument","on clay tablets found in Sumerian"],"correctAnswer":"on Babylonian obelisk monument","explanation":"The first written insurance policy was on a Babylonian obelisk monument with the code of King Hammurabi. The Hammurabi Code was one of the first forms of written laws. The basic insurance gave the Babylonian traders protection against loss of cargo."},
-      {"id":"t2q4","question":"Read the following statement: 'It is important that the assumptions made when determining the premiums are regularly reviewed to ensure that the assumptions are still valid and the premium is appropriate.' Is this True or False?","options":["False, there are no Assumptions made, when determining the premiums","False, the Assumptions made when determining the premiums need not be Regularly Reviewed to ensure that the Assumptions are still valid and the premium is Appropriate","False, there are no guidelines to review the Assumptions made when determining the premium","False, Assumptions made when determining the premiums should not be changed in any circumstances","True, it is important that, the assumptions made when determining the premiums are regularly reviewed to ensure that the assumptions are still valid and the premium is appropriate"],"correctAnswer":"True, it is important that, the assumptions made when determining the premiums are regularly reviewed to ensure that the assumptions are still valid and the premium is appropriate","explanation":"It is important that the assumptions made when determining the premiums are regularly reviewed to ensure that the assumptions are still valid and the premium is appropriate."},
-      {"id":"t2q5","question":"Insurers invest in Indian Companies by __________.","options":["giving out the additional claim-money","offering the lower premium to the companies","giving them the loans and subscribing to their shares","investing in government approved infrastructure","investing in government approved corporate-responsibility initiatives"],"correctAnswer":"giving them the loans and subscribing to their shares","explanation":"Insurers also invest in Indian companies, by giving them loans and subscribing to their shares. There are strict limits placed on insurers by law and regulation limiting the amount they can invest in any one company. Share of insurers in the capital of companies, both equity and debt together, would not be 20% or more."},
-      {"id":"t2q6","question":"Which statement accurately reflects the functions of the Insurance Regulatory and Development Authority of India (I.R.D.A.)'s Grievance Redressal Mechanism?","options":["To efficiently and impartially resolve complaints arising from disputes between policyholders and insurers.","To create an environment where insured individuals can access proper procedures and redressal mechanisms established by insurers.","To provide premium statistics and claims statistics to the bureau, ensuring swift resolution of grievances faced by insured customers and to Mitigate their Problems, Involved in Redressal of Grievances","To offer key inputs to the government for policy-making and provide a range of insurance-related services to various stakeholders, including public police transport departments.","To support the insurance industry with sector-level data, facilitating data-based and scientific decision-making, including pricing and business strategy formulation."],"correctAnswer":"To create an environment where insured individuals can access proper procedures and redressal mechanisms established by insurers.","explanation":"IRDA has established Consumer Affairs Department to oversee compliance of insurers and protection of interests of policyholders and also to empower consumers by educating them on grievance redressal mechanisms. The department facilitates an environment where the insured can avail proper procedures and redressal mechanisms put in place by insurers."},
-      {"id":"t2q7","question":"As required by law, the funds to be held in reserve are determined after providing for the __________.","options":["Taxes","Dividend","Bad debts","Solvency margins","Administrative expenses"],"correctAnswer":"Solvency margins","explanation":"The costs (liabilities) are calculated according to the principles relating to the valuation of liabilities under insurance policies. The funds to be held in reserve are determined after providing for the solvency margins as required by law. Any profit available for distribution as dividends to shareholders or as bonus to policyholders, is determined after these provisions have been made."},
-      {"id":"t2q8","question":"The benefits of insurance often come in a period of __________.","options":["distress","pollution","education","happiness","weddings"],"correctAnswer":"distress","explanation":"In most cases, the customer needs to wait for some time, before the benefit of the insurance purchase can be experienced. During this time, customers may doubt the wisdom of their insurance purchase. The benefits of insurance often come in a period of distress for a customer and they may wish that the benefit they receive from insurance may not be necessary."},
-      {"id":"t2q9","question":"D's house was totally damaged in an earthquake. The life of the house is 50 years. The house is twenty years old at the time of loss. The cost of constructing a Similar house is Rs.50,00,000. What amount should D be paid?","options":["Rs.50,00,000","Rs.30,00,000","Rs.20,00,000","Rs.25,00,000","Rs.40,00,000"],"correctAnswer":"Rs.30,00,000","explanation":"The life of the Building is 50 years. Therefore, the rate of depreciation is 2% per annum (1/50*100). Since the Building is already 20 years old, depreciation for 20 years at 2% per annum has to be deducted: 2%*20 = 40%. The new value is Rs.50,00,000. Applying the depreciation of 40% on the new value, the depreciation amount to be deducted is Rs.20,00,000 (40%*50,00,000). Therefore, the loss payable is Rs.30,00,000 (50,00,000 - depreciation 20,00,000)."},
-      {"id":"t2q10","question":"Which of the following is not true for Common Law?","options":["Common Law is applicable only to India.","Common Law is the collective wisdom of the Courts.","The Judgements of the higher Courts are binding on the lower courts.","Many Insurance Principles are evolved from Common Law.","All of the above"],"correctAnswer":"Common Law is applicable only to India.","explanation":"Common Law is applicable not only to India, but to many countries in the world."},
-      {"id":"t2q11","question":"Which of the following Events does not result in a loss to the Insured?","options":["Fire accident in the Insured factory","Flood damaging insured goods in a warehouse","Theft of goods from the shop","Maturity of a Life Insurance Policy","None of the above"],"correctAnswer":"Maturity of a Life Insurance Policy","explanation":"Maturity of a Life Insurance Policy does not result in a loss to the Insured."},
-      {"id":"t2q12","question":"Sanjay insured his goods with Ratan Insurance for Rs. 20,00,000 and with Rashmi Insurance for Rs.30,00,000. On the date of loss, the total value of the goods at risk is RS. 75,00,000. If the loss to the goods is Rs.45,00,000 how much will Rashmi pay Sanjay?","options":["Rs.30,00,000","Rs.45,00,000","Rs.18,00,000","Rs.12,00,000","Rs.27,00,000"],"correctAnswer":"Rs.18,00,000","explanation":"Rashmi's share = (30,00,000/75,00,000) x 45,00,000 = 18,00,000."},
-      {"id":"t2q13","question":"In which of the following events will Subrogation not arise?","options":["Arun's vehicle is hit by a State Transport Bus which is not insured with any Insurance Company.","Ajay's consignment of imported goods is damaged during transit.","Ashok is killed by a State Transport Bus.","Anand's vehicle is stolen.","None of the above"],"correctAnswer":"Ashok is killed by a State Transport Bus.","explanation":"Subrogation arises when an insurer pays a claim to the insured and subsequently acquires the right to recover that amount from the third party responsible for the loss. This principle applies only to contracts of indemnity, such as motor, marine, and fire insurance, and not to life insurance. In the case of a death claim, since it is not a contract of indemnity, subrogation does not arise."},
-      {"id":"t2q14","question":"Which of the following is not a characteristic of an Insurable Risk?","options":["Homogeneity","Fortuity","Granularity","Economic Feasibility","None of the above"],"correctAnswer":"Granularity","explanation":"Granularity is not the characteristic of an Insurable Risk. Other characteristics like Homogeneity, Fortuity and Economic Feasibility are characteristics."},
-      {"id":"t2q15","question":"From the following data calculate the Profit for the Company: NET EARNED PREMIUM 8000, NET INCURRED CLAIMS 6600, NET COMMISSION 200, OPERATING EXPENSES 1900, INVESTMENT INCOME 900 (Rs. Crores)","options":["500 Crores Profit","200 Crores Profit","700 Crores Loss","200 Crores Loss","400 Crores Profit"],"correctAnswer":"200 Crores Profit","explanation":"Profit = (NET EARNED PREMIUM + INVESTMENT INCOME) - (NET INCURRED CLAIMS + NET COMMISSION + OPERATING EXPENSES) = (8000+900) - (6600+200+1900) = 8900 - 8700 = Rs. 200 Crores Profit."},
-      {"id":"t2q16","question":"Which of the following is not a Peril?","options":["Fire","Proximity to water bodies","Terrorism","Riot","All of the above"],"correctAnswer":"Proximity to water bodies","explanation":"Proximity to water bodies is a Hazard and not a Peril."},
-      {"id":"t2q17","question":"An entrepreneur does not export his goods in order to remain secure from losses due to foreign exchange fluctuations. Which Risk Management strategy is he adopting?","options":["Avoidance","Mitigation","Transfer","Retention","None of the above"],"correctAnswer":"Avoidance","explanation":"By choosing not to export, the entrepreneur is avoiding exposure to currency fluctuations."},
-      {"id":"t2q18","question":"Which line of insurance business is governed by a specific Act?","options":["Fire","Marine","Health","Product Liability","All of the above"],"correctAnswer":"Marine","explanation":"Marine Insurance is governed by the Marine Insurance Act, 1963."},
-      {"id":"t2q19","question":"What is IBNR?","options":["Incurred But Not Reported","Intimated But Not Reserved","Initiated But Not Received","Important But Not Relevant","None is correct"],"correctAnswer":"Incurred But Not Reported","explanation":"A Reserve is created by the Actuary for those loss events which had occurred during the financial year, but not intimated by the Insured during that financial year. This Reserve is called Reserve for Claims Incurred but Not Reported (IBNR)."},
-      {"id":"t2q20","question":"Which of the following laws does not make insurance compulsory?","options":["Motor Vehicles Act","Marine Insurance Act","Environment Protection Act","Real Estate Regulation Act","None of the above"],"correctAnswer":"Marine Insurance Act","explanation":"Marine Insurance Act only lays down the law on the conduct of Marine Insurance business, but it does not make Marine Insurance compulsory."},
-      {"id":"t2q21","question":"Which of the following is a random event?","options":["Rise of the sun","A terrorist act","Rusting of iron","Decay","All of the above"],"correctAnswer":"A terrorist act","explanation":"A terrorist act is a random event. Others are not random events as they are certain to occur."},
-      {"id":"t2q22","question":"From the following data, find the Net Earned Premium for the year 2023-24 of ABC Motor Insurance (Motor business only): GROSS DIRECT PREMIUM 2023-24: 6000, 2022-23: 4500 | REINSURANCE ACCEPTED: 100, 100 | REINSURANCE CEDED: 700, 400 (Crores Rs.)","options":["4800 Crores","5400 Crores","4650 Crores","4200 Crores","5700 Crores"],"correctAnswer":"4800 Crores","explanation":"Net Premium for current year = 6000+100-700 = 5400. Net Premium for previous year = 4500+100-400 = 4200. Reserve for Unexpired Risks Current Year = 2700 (50% of 5400). Reserve for Unexpired Risks Previous Year = 2100 (50% of 4200). Net Earned Premium = 5400 - 2700 + 2100 = 4800 Crores."},
-      {"id":"t2q23","question":"Why is fire fighting expenses reimbursed to the Insured?","options":["To encourage loss minimisation efforts","To prevent fire losses","To increase fire losses","To analyse cause of fire","To study fire losses"],"correctAnswer":"To encourage loss minimisation efforts","explanation":"The Insured should not be lax in their effort to minimise the loss. Hence firefighting expenses incurred by them are reimbursed."},
-      {"id":"t2q24","question":"In a Named Peril it is necessary to prove that __________.","options":["a loss has occurred which was not due to an excluded peril","a financial loss has occurred","a loss has occurred","an accidental loss has occurred","a loss has occurred which was due to an insured peril"],"correctAnswer":"a loss has occurred which was due to an insured peril","explanation":"It is important to know whether the loss has occurred due to an Insured Peril or not. In Named Peril Policies, the Insured has to prove that the loss occurred due to an Insured Peril. If she fails to prove that the loss has been caused by an Insured Peril, the Insurer could deny the claim."},
-      {"id":"t2q25","question":"Calculate the Gross direct premium, given net premium is Rs.2000 crores, reinsurance premium ceded is Rs.400 crores and reinsurance accepted is Rs.200 crores.","options":["Rs.2000 crores","Rs.2200 crores","Rs.1800 crores","Rs.600 crores","Rs.300 crores"],"correctAnswer":"Rs.2200 crores","explanation":"Net Premium = Gross Direct Premium + Reinsurance Premium Accepted - Reinsurance Premium Ceded. So, Gross Direct Premium = Net Premium - Reinsurance Premium Accepted + Reinsurance Premium Ceded = Rs.2000 - Rs.200 + Rs.400 = Rs. 2200 crores."},
-      {"id":"t2q26","question":"In a Proportional treaty __________.","options":["both premium and claims are proportionately shared","nothing is proportionately shared","just the commission is proportionately shared","just the premium is proportionately shared","just the claims are proportionately shared"],"correctAnswer":"both premium and claims are proportionately shared","explanation":"The most striking feature of Proportional Treaties is that risks, premium and losses are shared between the Insurer and Reinsurer in some proportion. Non-Proportional Treaties, in contrast, do not share risks, premium and losses in any proportion."},
-      {"id":"t2q27","question":"__________ is not an element of Price.","options":["Operating expenses","Commission","Profit","Risk","Claim's cost"],"correctAnswer":"Risk","explanation":"While risk influences pricing decisions, 'Risk' itself is not typically itemized as a direct additive component of the price calculation in the same way costs and profit are. It's a factor that shapes the strategy and the magnitude of other components like profit. Therefore, Risk is the element least likely to be considered a direct component added into the price calculation itself."},
-      {"id":"t2q28","question":"Underinsurance is applicable to which type of the following policies?","options":["Just for liability policies","For all insurance policies","Just for health policies","Not for benefit policies","Just for benefit policies"],"correctAnswer":"Not for benefit policies","explanation":"Underinsurance applies mainly to indemnity policies (like property insurance), where the insured value is less than the actual value of the asset. It does not apply to benefit policies such as life insurance or personal accident policies, because these policies pay a fixed benefit amount rather than indemnifying actual loss."},
-      {"id":"t2q29","question":"Identify the features that have a relationship to loss probability in Fire Insurance.","options":["Number of vehicles that the insured owns","Insured's age","Insured's marital status","Insured's income","Nature of goods in storage"],"correctAnswer":"Nature of goods in storage","explanation":"In fire insurance, the nature of goods in storage is a significant factor because certain types of goods are more prone to fire hazards than others. For example, flammable goods like chemicals, fuel, or even some types of stored paper or fabrics could increase the risk of fire, thereby influencing the loss probability. The other options (marital status, number of vehicles, age, and income of the insured) do not directly influence fire risk."},
-      {"id":"t2q30","question":"Identify the correct formula for calculation of the Incurred Claims for the Current Year.","options":["Claims paid during the year – Reserve for claims outstanding at the start of the year","Reserve for claims outstanding at the year-end - Reserve for claims outstanding at the start of the year","Reserve for claims outstanding at the start of the year - Reserve for claims outstanding at the year end","Claims paid during the year + Reserve for claims outstanding at the end of the year - Reserve for claims outstanding at the start of the year","Claims outstanding at the start of the year + Reserve for claims incurred but not reported"],"correctAnswer":"Claims paid during the year + Reserve for claims outstanding at the end of the year - Reserve for claims outstanding at the start of the year","explanation":"The correct formula for calculating the Incurred Claims for the Current Year is: Claims paid during the year + Reserve for claims outstanding at the end of the year - Reserve for claims outstanding at the start/beginning of the year. This formula is derived from the fact that 'Incurred Claims' include both the claims paid during the year and the change in reserves for claims that have not yet been settled (outstanding claims)."},
-      {"id":"t2q31","question":"When an Insurer predicts future losses it is __________.","options":["likely to be unexpected","perfect","likely to be close to the expected result","likely to be very different from the expected result","unlikely to be close to the expected result"],"correctAnswer":"likely to be close to the expected result","explanation":"If an Insurer studies records over a longer number of years, a better estimate of the probability of future losses could be obtained. The larger the number of records studied, the better is the likelihood that the % of actual number of losses in relation to the number of risks underwritten will be nearer the estimated % of losses. The longer the period over which such records are studied, the better would the estimate be."},
-      {"id":"t2q32","question":"Underinsurance is a penalty for which of the following?","options":["For not insuring to the full extent of the exposure","For non-disclosure","For insuring to the full extent of the exposure","For misrepresentation","For fraud"],"correctAnswer":"For not insuring to the full extent of the exposure","explanation":"Underinsurance is a penalty for not insuring to the full extent of the exposure. In most of the cases, the amount of loss would not be upto the Value at Risk. Therefore, people could be tempted to insure for a lesser value than the value at risk. But as the value at risk goes up, the probability for loss also goes up. Therefore the premium should also go up. In order to penalise people who are not paying adequate premium in relation to their exposure, underinsurance clause is applied."},
-      {"id":"t2q33","question":"__________ is not considered to be a material fact.","options":["The nature of goods in storage in Fire Insurance","The number of guards employed for security in Burglary insurance","The nature of use of the vehicle in Motor Insurance","The age of the life insured in Life insurance","The marital status of the insured in Liability insurance"],"correctAnswer":"The marital status of the insured in Liability insurance","explanation":"A material fact is any information that affects an insurer's decision on underwriting or pricing a policy. Factors like the nature of stored goods, security measures, vehicle use, and the insured's age significantly impact risk assessment. However, marital status generally doesn't influence liability insurance coverage, making it not a material fact."},
-      {"id":"t2q34","question":"Insurance Commission is a payment of compensation for commission __________.","options":["paid to brokers","paid to agents","on direct business and cost of administrating the policies","on direct business","paid to web aggregators"],"correctAnswer":"on direct business and cost of administrating the policies","explanation":"Insurance commission serves as compensation for intermediaries like agents, brokers, and other distribution channels, as well as the cost associated with administering the policies. It is not limited to direct business alone but also includes the administrative effort required to manage these policies effectively."},
-      {"id":"t2q35","question":"The insurer should try to retain more and more of the risks underwritten to __________.","options":["avoid reinsurers","increase profits","increase market share","reduce losses","reduce competition"],"correctAnswer":"increase profits","explanation":"Any Insurer would like to build their profitable portfolio and to retain profits to their Account. Hence, as the Insurer gains market share and volumes, they would prefer to retain more and more of the risks underwritten to their net Account. But there are occasions where the Insurer might not be able to meet the losses themselves."},
-      {"id":"t2q36","question":"Prerna Insurance Co. settled a claim of Akash Enterprises amounting to Rs.7 lakhs for a loss resulting from the dishonest conduct of their employee Lokesh. A security deposit of Rs.3 Lakhs was kept by Lokesh with Akash enterprises. The deposit rightfully belongs to __________.","options":["Other employees of Akash Enterprises","Lokesh","Lokesh's parents","Prerna Insurance Co","Akash Enterprises"],"correctAnswer":"Prerna Insurance Co","explanation":"Since Prerna Insurance Co. has settled the claim for Akash Enterprises, it now has the right to recover available funds related to the loss. This follows the principle of subrogation, where the insurer steps into the insured party's place after paying a claim and can collect compensation from responsible parties. The security deposit rightfully belongs to the insurer, helping to offset the claim settlement amount."},
-      {"id":"t2q37","question":"In automobiles having a zero depreciation clause, depreciation __________.","options":["is imposed on the vehicle's price","is imposed on cost of spares","is imposed on the vehicle's market value","is not imposed","imposed is 25%"],"correctAnswer":"is not imposed","explanation":"Automobile Policies with Zero Depreciation Clause provide that no deduction be made for depreciation. In such cases, depreciation is not imposed."},
-      {"id":"t2q38","question":"Calculate the loss payable, given sum insured is 15 crores, the value at risk is 25 crores and the loss is 8 crores.","options":["4.8 crores","15.4 crores","7 crores","2 crores","6.33 crores"],"correctAnswer":"4.8 crores","explanation":"Since Sum Insured (15 crores) is less than Value at Risk (25 crores), there is underinsurance. Proportion Insured = Sum Insured / Value at Risk = 15/25 = 0.6. Loss Payable = Loss * Proportion Insured = 8 crores * 0.6 = 4.8 crores."},
-      {"id":"t2q39","question":"Prediction of future probability would be considered to be valid only in the case of the data being studied for a __________.","options":["small volume","long period","large volume over a long period","short period","large volume"],"correctAnswer":"large volume over a long period","explanation":"To calculate the probability of a future loss from an exposure, it is not always possible to have a prior knowledge. Insurers estimate such probabilities by studying past data. But such an estimate would be valid only if the past data studied is for a large number of past exposures for a longer period."},
-      {"id":"t2q40","question":"Assuming insurable interest is not considered necessary, it would result in wide spread __________.","options":["losses","happiness","pandemic","peace","illness"],"correctAnswer":"losses","explanation":"Insurable interest is a fundamental principle of insurance. Without insurable interest, an insurance contract would essentially be a gambling contract. Anybody could insure any property, and could get insurance compensation even if he did not lose anything financially. In due course, these people could even be tempted to create losses to others' property, so that they could gain by their losses. Such a situation would lead to wide spread losses, arson, looting and in due course, to total breakdown of law and order."},
-      {"id":"t2q41","question":"__________ is not a Peril of the Sea.","options":["Iceberg","Collision","Machinery breakdown","Stranding","Piracy"],"correctAnswer":"Machinery breakdown","explanation":"In marine insurance, Perils of the Sea refer to fortuitous accidents or casualties of the sea — unexpected events that occur due to natural forces or accidents while at sea. Machinery breakdown is considered an internal issue, not a peril arising from external maritime conditions. Typically excluded unless covered by a special machinery breakdown clause."},
-      {"id":"t2q42","question":"Identify the consideration for the insured in an insurance contract.","options":["Perfection","Property","Premium","Promise","Plan"],"correctAnswer":"Premium","explanation":"Insurance is a contract, whereby the Insurer, for a consideration called premium, agrees to make good, the loss suffered by the Insured, arising out of an Insured Peril. The consideration (payment) made by the insured is the premium."},
-      {"id":"t2q43","question":"__________ is not a regularly traded asset.","options":["Pulses","Steel","Cotton","Machinery","Cement"],"correctAnswer":"Machinery","explanation":"Indemnity for machine totally lost due to an Insured Peril is by determining its value. Value of raw material could be easily ascertained because they are easily tradeable. But machinery is not a regularly traded asset. Each machinery of each factory could have its own value. This depends on various factors like the age of the machinery, make, working environment, number of shifts, periodic maintenance, availability of spares and such other factors."},
-      {"id":"t2q44","question":"If the customer leaves a question in the Proposal form blank and the insurer does not seek any answer to that question, then __________.","options":["the insurer is not required to settle the claim","the insurer is protected by the right of non-disclosure","the customer is responsible for misrepresentation","the customer is responsible for non-disclosure","non-disclosure cannot be used as a ground to reject the claim, by the insurer"],"correctAnswer":"non-disclosure cannot be used as a ground to reject the claim, by the insurer","explanation":"Proposals should be screened and scrutinized based on the answers in the Proposal. If answers are not provided, the Underwriter should seek them. If the customer does not answer a question, and the Insurer does not seek answer thereto, it would be considered that the Insurer had waived the question. Later, the Insurer cannot rely on the failure to answer a question to treat it as nondisclosure."},
-      {"id":"t2q45","question":"The correct formula for Premium = __________.","options":["Cost of issuing the policy","Burning cost + expenses","Burning cost / Fixed cost","Burning cost / (1 - % of cost elements)","Burning cost / Cost elements"],"correctAnswer":"Burning cost / (1 - % of cost elements)","explanation":"The right formula for determining the Premium from Burning Cost is: Premium = BURNING COST / (1-% of Cost Elements)."},
-      {"id":"t2q46","question":"What is the meaning of objectivity?","options":["tangibility","visibility","measurability","velocity","veracity"],"correctAnswer":"measurability","explanation":"Classification of risks should be based on objective criteria. Objectivity would mean measurability on some acceptable standard. Objectivity would also reduce Subjective considerations which could differ from underwriter to underwriter. Objectivity would also enable the market force to understand the criteria upon which the risks are rated, thereby facilitating identification of the different customer segments."},
-      {"id":"t2q47","question":"Identify the fact that an insurer cannot be deemed to know.","options":["The cargo handling facilities at a major port","The insured's health condition","The law regarding recovery from carriers","The season for cyclones in his area","The conventional nature of packing for major trade items"],"correctAnswer":"The insured's health condition","explanation":"Facts which an insurer is deemed to know are matters of common knowledge and matters which an insurer, in the ordinary course of their business, ought to know. However, an insurer cannot be deemed to know private or personal information unless it is disclosed to them. The health condition of the insured is a material fact that must be disclosed by the insured during the proposal stage."},
-      {"id":"t2q48","question":"Salvage is considered to be __________ value.","options":["reinstatement","depreciated","enhanced","book","residual"],"correctAnswer":"residual","explanation":"In a property loss, some amount could be saved from the damage. This amount depends on the nature of property insured, and the cause and extent of loss. In most cases, some value is recoverable as scrap. In some cases, the goods are partly damaged and have some residual value. The value that could be recovered from the damaged property is called salvage. When a claim is settled, the salvage value is reduced from the amount payable."},
-      {"id":"t2q49","question":"The actual loss arising out of a __________ includes costs of repair, replacement or reinstatement and consequential losses.","options":["risk","hazard","peril","accident","None of the above"],"correctAnswer":"peril","explanation":"The actual loss arising out of a peril striking includes costs of (a) repair, replacement or reinstatement and (b) consequential losses until repair, replacement or reinstatement."},
-      {"id":"t2q50","question":"Which of these options is not a method of Risk Retention?","options":["Security officers doing a thorough checking of employees and visitors entering the factories","A company has 10,000 employees so it decides to compensate losses to employees through small contribution from employees","A company decides to face losses due to uncertain events from the internal funds of the company","Creation of a special fund for events which may cause losses to office / factory premises","None of the above"],"correctAnswer":"Security officers doing a thorough checking of employees and visitors entering the factories","explanation":"Security officers doing thorough checking is a Risk Mitigation/Prevention strategy, not a Risk Retention method. Risk Retention involves accepting and financing the risk internally — through employee contributions, internal funds, or special reserve funds. Prevention measures like security checks aim to reduce the probability or severity of loss rather than retaining the financial consequence."}
+      {
+        "id": "t2q1",
+        "question": "Ms. Kavita has applied for a unit-linked insurance plan (ULIP) for herself. She is a care free woman and is willing to take high risks but she expects high returns as well. Which type of basic fund Ms. Kavita should invest in?",
+        "options": [
+          "Gilt Fund",
+          "Debt Fund",
+          "Equity Fund",
+          "Balanced Fund",
+          "Money Market Fund"
+        ],
+        "correctAnswer": "Equity Fund",
+        "explanation": "Equity fund is for those investors who are willing to take high risk and are looking for high returns."
+      },
+      {
+        "id": "t2q2",
+        "question": "'Sometimes insurers pay a claim, even if the claim is not payable, under the terms of the policy called ex-gratia payments.' Evaluate the above statement and state whether it is true or false.",
+        "options": [
+          "False: Insurers never pay a claim, when the claim is not payable, under the terms of the policy",
+          "False: Sometimes insurers pay a claim, even if the claim is not payable, under the terms of the policy called non-gratia payments",
+          "True: Sometimes, insurers pay a claim even if the claim is not payable under the terms of the policy called ex-gratia payments",
+          "False: Sometimes insurers pay a claim, even if the claim is not payable, under the terms of the policy called gratia payments",
+          "False: Sometimes, insurance pay a claim, even if the claim is not payable, under the terms of the policy called charity payments"
+        ],
+        "correctAnswer": "True: Sometimes, insurers pay a claim even if the claim is not payable under the terms of the policy called ex-gratia payments",
+        "explanation": "Sometimes insurers pay a claim even if the claim is not payable under the terms of the policy. These payments are called ex-gratia payments. This is usually done if the conditions of insurance have been substantially met and the insured has acted in good faith."
+      },
+      {
+        "id": "t2q3",
+        "question": "The first written insurance policy was __________.",
+        "options": [
+          "found in the Vedas",
+          "on a temple wall in south India",
+          "on a papyrus found in Harappa",
+          "on Babylonian obelisk monument",
+          "on clay tablets found in Sumerian"
+        ],
+        "correctAnswer": "on Babylonian obelisk monument",
+        "explanation": "The first written insurance policy was on a Babylonian obelisk monument with the code of King Hammurabi. The Hammurabi Code was one of the first forms of written laws. The basic insurance gave the Babylonian traders protection against loss of cargo."
+      },
+      {
+        "id": "t2q4",
+        "question": "Read the following statement: 'It is important that the assumptions made when determining the premiums are regularly reviewed to ensure that the assumptions are still valid and the premium is appropriate.' Is this True or False?",
+        "options": [
+          "False, there are no Assumptions made, when determining the premiums",
+          "False, the Assumptions made when determining the premiums need not be Regularly Reviewed to ensure that the Assumptions are still valid and the premium is Appropriate",
+          "False, there are no guidelines to review the Assumptions made when determining the premium",
+          "False, Assumptions made when determining the premiums should not be changed in any circumstances",
+          "True, it is important that, the assumptions made when determining the premiums are regularly reviewed to ensure that the assumptions are still valid and the premium is appropriate"
+        ],
+        "correctAnswer": "True, it is important that, the assumptions made when determining the premiums are regularly reviewed to ensure that the assumptions are still valid and the premium is appropriate",
+        "explanation": "It is important that the assumptions made when determining the premiums are regularly reviewed to ensure that the assumptions are still valid and the premium is appropriate."
+      },
+      {
+        "id": "t2q5",
+        "question": "Insurers invest in Indian Companies by __________.",
+        "options": [
+          "giving out the additional claim-money",
+          "offering the lower premium to the companies",
+          "giving them the loans and subscribing to their shares",
+          "investing in government approved infrastructure",
+          "investing in government approved corporate-responsibility initiatives"
+        ],
+        "correctAnswer": "giving them the loans and subscribing to their shares",
+        "explanation": "Insurers also invest in Indian companies, by giving them loans and subscribing to their shares. There are strict limits placed on insurers by law and regulation limiting the amount they can invest in any one company. Share of insurers in the capital of companies, both equity and debt together, would not be 20% or more."
+      },
+      {
+        "id": "t2q6",
+        "question": "Which statement accurately reflects the functions of the Insurance Regulatory and Development Authority of India (I.R.D.A.)'s Grievance Redressal Mechanism?",
+        "options": [
+          "To efficiently and impartially resolve complaints arising from disputes between policyholders and insurers.",
+          "To create an environment where insured individuals can access proper procedures and redressal mechanisms established by insurers.",
+          "To provide premium statistics and claims statistics to the bureau, ensuring swift resolution of grievances faced by insured customers and to Mitigate their Problems, Involved in Redressal of Grievances",
+          "To offer key inputs to the government for policy-making and provide a range of insurance-related services to various stakeholders, including public police transport departments.",
+          "To support the insurance industry with sector-level data, facilitating data-based and scientific decision-making, including pricing and business strategy formulation."
+        ],
+        "correctAnswer": "To create an environment where insured individuals can access proper procedures and redressal mechanisms established by insurers.",
+        "explanation": "IRDA has established Consumer Affairs Department to oversee compliance of insurers and protection of interests of policyholders and also to empower consumers by educating them on grievance redressal mechanisms. The department facilitates an environment where the insured can avail proper procedures and redressal mechanisms put in place by insurers."
+      },
+      {
+        "id": "t2q7",
+        "question": "As required by law, the funds to be held in reserve are determined after providing for the __________.",
+        "options": [
+          "Taxes",
+          "Dividend",
+          "Bad debts",
+          "Solvency margins",
+          "Administrative expenses"
+        ],
+        "correctAnswer": "Solvency margins",
+        "explanation": "The costs (liabilities) are calculated according to the principles relating to the valuation of liabilities under insurance policies. The funds to be held in reserve are determined after providing for the solvency margins as required by law. Any profit available for distribution as dividends to shareholders or as bonus to policyholders, is determined after these provisions have been made."
+      },
+      {
+        "id": "t2q8",
+        "question": "The benefits of insurance often come in a period of __________.",
+        "options": [
+          "distress",
+          "pollution",
+          "education",
+          "happiness",
+          "weddings"
+        ],
+        "correctAnswer": "distress",
+        "explanation": "In most cases, the customer needs to wait for some time, before the benefit of the insurance purchase can be experienced. During this time, customers may doubt the wisdom of their insurance purchase. The benefits of insurance often come in a period of distress for a customer and they may wish that the benefit they receive from insurance may not be necessary."
+      },
+      {
+        "id": "t2q9",
+        "question": "D's house was totally damaged in an earthquake. The life of the house is 50 years. The house is twenty years old at the time of loss. The cost of constructing a Similar house is Rs.50,00,000. What amount should D be paid?",
+        "options": [
+          "Rs.50,00,000",
+          "Rs.30,00,000",
+          "Rs.20,00,000",
+          "Rs.25,00,000",
+          "Rs.40,00,000"
+        ],
+        "correctAnswer": "Rs.30,00,000",
+        "explanation": "The life of the Building is 50 years. Therefore, the rate of depreciation is 2% per annum (1/50*100). Since the Building is already 20 years old, depreciation for 20 years at 2% per annum has to be deducted: 2%*20 = 40%. The new value is Rs.50,00,000. Applying the depreciation of 40% on the new value, the depreciation amount to be deducted is Rs.20,00,000 (40%*50,00,000). Therefore, the loss payable is Rs.30,00,000 (50,00,000 - depreciation 20,00,000)."
+      },
+      {
+        "id": "t2q10",
+        "question": "Which of the following is not true for Common Law?",
+        "options": [
+          "Common Law is applicable only to India.",
+          "Common Law is the collective wisdom of the Courts.",
+          "The Judgements of the higher Courts are binding on the lower courts.",
+          "Many Insurance Principles are evolved from Common Law.",
+          "All of the above"
+        ],
+        "correctAnswer": "Common Law is applicable only to India.",
+        "explanation": "Common Law is applicable not only to India, but to many countries in the world."
+      },
+      {
+        "id": "t2q11",
+        "question": "Which of the following Events does not result in a loss to the Insured?",
+        "options": [
+          "Fire accident in the Insured factory",
+          "Flood damaging insured goods in a warehouse",
+          "Theft of goods from the shop",
+          "Maturity of a Life Insurance Policy",
+          "None of the above"
+        ],
+        "correctAnswer": "Maturity of a Life Insurance Policy",
+        "explanation": "Maturity of a Life Insurance Policy does not result in a loss to the Insured."
+      },
+      {
+        "id": "t2q12",
+        "question": "Sanjay insured his goods with Ratan Insurance for Rs. 20,00,000 and with Rashmi Insurance for Rs.30,00,000. On the date of loss, the total value of the goods at risk is RS. 75,00,000. If the loss to the goods is Rs.45,00,000 how much will Rashmi pay Sanjay?",
+        "options": [
+          "Rs.30,00,000",
+          "Rs.45,00,000",
+          "Rs.18,00,000",
+          "Rs.12,00,000",
+          "Rs.27,00,000"
+        ],
+        "correctAnswer": "Rs.18,00,000",
+        "explanation": "Rashmi's share = (30,00,000/75,00,000) x 45,00,000 = 18,00,000."
+      },
+      {
+        "id": "t2q13",
+        "question": "In which of the following events will Subrogation not arise?",
+        "options": [
+          "Arun's vehicle is hit by a State Transport Bus which is not insured with any Insurance Company.",
+          "Ajay's consignment of imported goods is damaged during transit.",
+          "Ashok is killed by a State Transport Bus.",
+          "Anand's vehicle is stolen.",
+          "None of the above"
+        ],
+        "correctAnswer": "Ashok is killed by a State Transport Bus.",
+        "explanation": "Subrogation arises when an insurer pays a claim to the insured and subsequently acquires the right to recover that amount from the third party responsible for the loss. This principle applies only to contracts of indemnity, such as motor, marine, and fire insurance, and not to life insurance. In the case of a death claim, since it is not a contract of indemnity, subrogation does not arise."
+      },
+      {
+        "id": "t2q14",
+        "question": "Which of the following is not a characteristic of an Insurable Risk?",
+        "options": [
+          "Homogeneity",
+          "Fortuity",
+          "Granularity",
+          "Economic Feasibility",
+          "None of the above"
+        ],
+        "correctAnswer": "Granularity",
+        "explanation": "Granularity is not the characteristic of an Insurable Risk. Other characteristics like Homogeneity, Fortuity and Economic Feasibility are characteristics."
+      },
+      {
+        "id": "t2q15",
+        "question": "From the following data calculate the Profit for the Company: NET EARNED PREMIUM 8000, NET INCURRED CLAIMS 6600, NET COMMISSION 200, OPERATING EXPENSES 1900, INVESTMENT INCOME 900 (Rs. Crores)",
+        "options": [
+          "500 Crores Profit",
+          "200 Crores Profit",
+          "700 Crores Loss",
+          "200 Crores Loss",
+          "400 Crores Profit"
+        ],
+        "correctAnswer": "200 Crores Profit",
+        "explanation": "Profit = (NET EARNED PREMIUM + INVESTMENT INCOME) - (NET INCURRED CLAIMS + NET COMMISSION + OPERATING EXPENSES) = (8000+900) - (6600+200+1900) = 8900 - 8700 = Rs. 200 Crores Profit."
+      },
+      {
+        "id": "t2q16",
+        "question": "Which of the following is not a Peril?",
+        "options": [
+          "Fire",
+          "Proximity to water bodies",
+          "Terrorism",
+          "Riot",
+          "All of the above"
+        ],
+        "correctAnswer": "Proximity to water bodies",
+        "explanation": "Proximity to water bodies is a Hazard and not a Peril."
+      },
+      {
+        "id": "t2q17",
+        "question": "An entrepreneur does not export his goods in order to remain secure from losses due to foreign exchange fluctuations. Which Risk Management strategy is he adopting?",
+        "options": [
+          "Avoidance",
+          "Mitigation",
+          "Transfer",
+          "Retention",
+          "None of the above"
+        ],
+        "correctAnswer": "Avoidance",
+        "explanation": "By choosing not to export, the entrepreneur is avoiding exposure to currency fluctuations."
+      },
+      {
+        "id": "t2q18",
+        "question": "Which line of insurance business is governed by a specific Act?",
+        "options": [
+          "Fire",
+          "Marine",
+          "Health",
+          "Product Liability",
+          "All of the above"
+        ],
+        "correctAnswer": "Marine",
+        "explanation": "Marine Insurance is governed by the Marine Insurance Act, 1963."
+      },
+      {
+        "id": "t2q19",
+        "question": "What is IBNR?",
+        "options": [
+          "Incurred But Not Reported",
+          "Intimated But Not Reserved",
+          "Initiated But Not Received",
+          "Important But Not Relevant",
+          "None is correct"
+        ],
+        "correctAnswer": "Incurred But Not Reported",
+        "explanation": "A Reserve is created by the Actuary for those loss events which had occurred during the financial year, but not intimated by the Insured during that financial year. This Reserve is called Reserve for Claims Incurred but Not Reported (IBNR)."
+      },
+      {
+        "id": "t2q20",
+        "question": "Which of the following laws does not make insurance compulsory?",
+        "options": [
+          "Motor Vehicles Act",
+          "Marine Insurance Act",
+          "Environment Protection Act",
+          "Real Estate Regulation Act",
+          "None of the above"
+        ],
+        "correctAnswer": "Marine Insurance Act",
+        "explanation": "Marine Insurance Act only lays down the law on the conduct of Marine Insurance business, but it does not make Marine Insurance compulsory."
+      },
+      {
+        "id": "t2q21",
+        "question": "Which of the following is a random event?",
+        "options": [
+          "Rise of the sun",
+          "A terrorist act",
+          "Rusting of iron",
+          "Decay",
+          "All of the above"
+        ],
+        "correctAnswer": "A terrorist act",
+        "explanation": "A terrorist act is a random event. Others are not random events as they are certain to occur."
+      },
+      {
+        "id": "t2q22",
+        "question": "From the following data, find the Net Earned Premium for the year 2023-24 of ABC Motor Insurance (Motor business only): GROSS DIRECT PREMIUM 2023-24: 6000, 2022-23: 4500 | REINSURANCE ACCEPTED: 100, 100 | REINSURANCE CEDED: 700, 400 (Crores Rs.)",
+        "options": [
+          "4800 Crores",
+          "5400 Crores",
+          "4650 Crores",
+          "4200 Crores",
+          "5700 Crores"
+        ],
+        "correctAnswer": "4800 Crores",
+        "explanation": "Net Premium for current year = 6000+100-700 = 5400. Net Premium for previous year = 4500+100-400 = 4200. Reserve for Unexpired Risks Current Year = 2700 (50% of 5400). Reserve for Unexpired Risks Previous Year = 2100 (50% of 4200). Net Earned Premium = 5400 - 2700 + 2100 = 4800 Crores."
+      },
+      {
+        "id": "t2q23",
+        "question": "Why is fire fighting expenses reimbursed to the Insured?",
+        "options": [
+          "To encourage loss minimisation efforts",
+          "To prevent fire losses",
+          "To increase fire losses",
+          "To analyse cause of fire",
+          "To study fire losses"
+        ],
+        "correctAnswer": "To encourage loss minimisation efforts",
+        "explanation": "The Insured should not be lax in their effort to minimise the loss. Hence firefighting expenses incurred by them are reimbursed."
+      },
+      {
+        "id": "t2q24",
+        "question": "In a Named Peril it is necessary to prove that __________.",
+        "options": [
+          "a loss has occurred which was not due to an excluded peril",
+          "a financial loss has occurred",
+          "a loss has occurred",
+          "an accidental loss has occurred",
+          "a loss has occurred which was due to an insured peril"
+        ],
+        "correctAnswer": "a loss has occurred which was due to an insured peril",
+        "explanation": "It is important to know whether the loss has occurred due to an Insured Peril or not. In Named Peril Policies, the Insured has to prove that the loss occurred due to an Insured Peril. If she fails to prove that the loss has been caused by an Insured Peril, the Insurer could deny the claim."
+      },
+      {
+        "id": "t2q25",
+        "question": "Calculate the Gross direct premium, given net premium is Rs.2000 crores, reinsurance premium ceded is Rs.400 crores and reinsurance accepted is Rs.200 crores.",
+        "options": [
+          "Rs.2000 crores",
+          "Rs.2200 crores",
+          "Rs.1800 crores",
+          "Rs.600 crores",
+          "Rs.300 crores"
+        ],
+        "correctAnswer": "Rs.2200 crores",
+        "explanation": "Net Premium = Gross Direct Premium + Reinsurance Premium Accepted - Reinsurance Premium Ceded. So, Gross Direct Premium = Net Premium - Reinsurance Premium Accepted + Reinsurance Premium Ceded = Rs.2000 - Rs.200 + Rs.400 = Rs. 2200 crores."
+      },
+      {
+        "id": "t2q26",
+        "question": "In a Proportional treaty __________.",
+        "options": [
+          "both premium and claims are proportionately shared",
+          "nothing is proportionately shared",
+          "just the commission is proportionately shared",
+          "just the premium is proportionately shared",
+          "just the claims are proportionately shared"
+        ],
+        "correctAnswer": "both premium and claims are proportionately shared",
+        "explanation": "The most striking feature of Proportional Treaties is that risks, premium and losses are shared between the Insurer and Reinsurer in some proportion. Non-Proportional Treaties, in contrast, do not share risks, premium and losses in any proportion."
+      },
+      {
+        "id": "t2q27",
+        "question": "__________ is not an element of Price.",
+        "options": [
+          "Operating expenses",
+          "Commission",
+          "Profit",
+          "Risk",
+          "Claim's cost"
+        ],
+        "correctAnswer": "Risk",
+        "explanation": "While risk influences pricing decisions, 'Risk' itself is not typically itemized as a direct additive component of the price calculation in the same way costs and profit are. It's a factor that shapes the strategy and the magnitude of other components like profit. Therefore, Risk is the element least likely to be considered a direct component added into the price calculation itself."
+      },
+      {
+        "id": "t2q28",
+        "question": "Underinsurance is applicable to which type of the following policies?",
+        "options": [
+          "Just for liability policies",
+          "For all insurance policies",
+          "Just for health policies",
+          "Not for benefit policies",
+          "Just for benefit policies"
+        ],
+        "correctAnswer": "Not for benefit policies",
+        "explanation": "Underinsurance applies mainly to indemnity policies (like property insurance), where the insured value is less than the actual value of the asset. It does not apply to benefit policies such as life insurance or personal accident policies, because these policies pay a fixed benefit amount rather than indemnifying actual loss."
+      },
+      {
+        "id": "t2q29",
+        "question": "Identify the features that have a relationship to loss probability in Fire Insurance.",
+        "options": [
+          "Number of vehicles that the insured owns",
+          "Insured's age",
+          "Insured's marital status",
+          "Insured's income",
+          "Nature of goods in storage"
+        ],
+        "correctAnswer": "Nature of goods in storage",
+        "explanation": "In fire insurance, the nature of goods in storage is a significant factor because certain types of goods are more prone to fire hazards than others. For example, flammable goods like chemicals, fuel, or even some types of stored paper or fabrics could increase the risk of fire, thereby influencing the loss probability. The other options (marital status, number of vehicles, age, and income of the insured) do not directly influence fire risk."
+      },
+      {
+        "id": "t2q30",
+        "question": "Identify the correct formula for calculation of the Incurred Claims for the Current Year.",
+        "options": [
+          "Claims paid during the year \u2013 Reserve for claims outstanding at the start of the year",
+          "Reserve for claims outstanding at the year-end - Reserve for claims outstanding at the start of the year",
+          "Reserve for claims outstanding at the start of the year - Reserve for claims outstanding at the year end",
+          "Claims paid during the year + Reserve for claims outstanding at the end of the year - Reserve for claims outstanding at the start of the year",
+          "Claims outstanding at the start of the year + Reserve for claims incurred but not reported"
+        ],
+        "correctAnswer": "Claims paid during the year + Reserve for claims outstanding at the end of the year - Reserve for claims outstanding at the start of the year",
+        "explanation": "The correct formula for calculating the Incurred Claims for the Current Year is: Claims paid during the year + Reserve for claims outstanding at the end of the year - Reserve for claims outstanding at the start/beginning of the year. This formula is derived from the fact that 'Incurred Claims' include both the claims paid during the year and the change in reserves for claims that have not yet been settled (outstanding claims)."
+      },
+      {
+        "id": "t2q31",
+        "question": "When an Insurer predicts future losses it is __________.",
+        "options": [
+          "likely to be unexpected",
+          "perfect",
+          "likely to be close to the expected result",
+          "likely to be very different from the expected result",
+          "unlikely to be close to the expected result"
+        ],
+        "correctAnswer": "likely to be close to the expected result",
+        "explanation": "If an Insurer studies records over a longer number of years, a better estimate of the probability of future losses could be obtained. The larger the number of records studied, the better is the likelihood that the % of actual number of losses in relation to the number of risks underwritten will be nearer the estimated % of losses. The longer the period over which such records are studied, the better would the estimate be."
+      },
+      {
+        "id": "t2q32",
+        "question": "Underinsurance is a penalty for which of the following?",
+        "options": [
+          "For not insuring to the full extent of the exposure",
+          "For non-disclosure",
+          "For insuring to the full extent of the exposure",
+          "For misrepresentation",
+          "For fraud"
+        ],
+        "correctAnswer": "For not insuring to the full extent of the exposure",
+        "explanation": "Underinsurance is a penalty for not insuring to the full extent of the exposure. In most of the cases, the amount of loss would not be upto the Value at Risk. Therefore, people could be tempted to insure for a lesser value than the value at risk. But as the value at risk goes up, the probability for loss also goes up. Therefore the premium should also go up. In order to penalise people who are not paying adequate premium in relation to their exposure, underinsurance clause is applied."
+      },
+      {
+        "id": "t2q33",
+        "question": "__________ is not considered to be a material fact.",
+        "options": [
+          "The nature of goods in storage in Fire Insurance",
+          "The number of guards employed for security in Burglary insurance",
+          "The nature of use of the vehicle in Motor Insurance",
+          "The age of the life insured in Life insurance",
+          "The marital status of the insured in Liability insurance"
+        ],
+        "correctAnswer": "The marital status of the insured in Liability insurance",
+        "explanation": "A material fact is any information that affects an insurer's decision on underwriting or pricing a policy. Factors like the nature of stored goods, security measures, vehicle use, and the insured's age significantly impact risk assessment. However, marital status generally doesn't influence liability insurance coverage, making it not a material fact."
+      },
+      {
+        "id": "t2q34",
+        "question": "Insurance Commission is a payment of compensation for commission __________.",
+        "options": [
+          "paid to brokers",
+          "paid to agents",
+          "on direct business and cost of administrating the policies",
+          "on direct business",
+          "paid to web aggregators"
+        ],
+        "correctAnswer": "on direct business and cost of administrating the policies",
+        "explanation": "Insurance commission serves as compensation for intermediaries like agents, brokers, and other distribution channels, as well as the cost associated with administering the policies. It is not limited to direct business alone but also includes the administrative effort required to manage these policies effectively."
+      },
+      {
+        "id": "t2q35",
+        "question": "The insurer should try to retain more and more of the risks underwritten to __________.",
+        "options": [
+          "avoid reinsurers",
+          "increase profits",
+          "increase market share",
+          "reduce losses",
+          "reduce competition"
+        ],
+        "correctAnswer": "increase profits",
+        "explanation": "Any Insurer would like to build their profitable portfolio and to retain profits to their Account. Hence, as the Insurer gains market share and volumes, they would prefer to retain more and more of the risks underwritten to their net Account. But there are occasions where the Insurer might not be able to meet the losses themselves."
+      },
+      {
+        "id": "t2q36",
+        "question": "Prerna Insurance Co. settled a claim of Akash Enterprises amounting to Rs.7 lakhs for a loss resulting from the dishonest conduct of their employee Lokesh. A security deposit of Rs.3 Lakhs was kept by Lokesh with Akash enterprises. The deposit rightfully belongs to __________.",
+        "options": [
+          "Other employees of Akash Enterprises",
+          "Lokesh",
+          "Lokesh's parents",
+          "Prerna Insurance Co",
+          "Akash Enterprises"
+        ],
+        "correctAnswer": "Prerna Insurance Co",
+        "explanation": "Since Prerna Insurance Co. has settled the claim for Akash Enterprises, it now has the right to recover available funds related to the loss. This follows the principle of subrogation, where the insurer steps into the insured party's place after paying a claim and can collect compensation from responsible parties. The security deposit rightfully belongs to the insurer, helping to offset the claim settlement amount."
+      },
+      {
+        "id": "t2q37",
+        "question": "In automobiles having a zero depreciation clause, depreciation __________.",
+        "options": [
+          "is imposed on the vehicle's price",
+          "is imposed on cost of spares",
+          "is imposed on the vehicle's market value",
+          "is not imposed",
+          "imposed is 25%"
+        ],
+        "correctAnswer": "is not imposed",
+        "explanation": "Automobile Policies with Zero Depreciation Clause provide that no deduction be made for depreciation. In such cases, depreciation is not imposed."
+      },
+      {
+        "id": "t2q38",
+        "question": "Calculate the loss payable, given sum insured is 15 crores, the value at risk is 25 crores and the loss is 8 crores.",
+        "options": [
+          "4.8 crores",
+          "15.4 crores",
+          "7 crores",
+          "2 crores",
+          "6.33 crores"
+        ],
+        "correctAnswer": "4.8 crores",
+        "explanation": "Since Sum Insured (15 crores) is less than Value at Risk (25 crores), there is underinsurance. Proportion Insured = Sum Insured / Value at Risk = 15/25 = 0.6. Loss Payable = Loss * Proportion Insured = 8 crores * 0.6 = 4.8 crores."
+      },
+      {
+        "id": "t2q39",
+        "question": "Prediction of future probability would be considered to be valid only in the case of the data being studied for a __________.",
+        "options": [
+          "small volume",
+          "long period",
+          "large volume over a long period",
+          "short period",
+          "large volume"
+        ],
+        "correctAnswer": "large volume over a long period",
+        "explanation": "To calculate the probability of a future loss from an exposure, it is not always possible to have a prior knowledge. Insurers estimate such probabilities by studying past data. But such an estimate would be valid only if the past data studied is for a large number of past exposures for a longer period."
+      },
+      {
+        "id": "t2q40",
+        "question": "Assuming insurable interest is not considered necessary, it would result in wide spread __________.",
+        "options": [
+          "losses",
+          "happiness",
+          "pandemic",
+          "peace",
+          "illness"
+        ],
+        "correctAnswer": "losses",
+        "explanation": "Insurable interest is a fundamental principle of insurance. Without insurable interest, an insurance contract would essentially be a gambling contract. Anybody could insure any property, and could get insurance compensation even if he did not lose anything financially. In due course, these people could even be tempted to create losses to others' property, so that they could gain by their losses. Such a situation would lead to wide spread losses, arson, looting and in due course, to total breakdown of law and order."
+      },
+      {
+        "id": "t2q41",
+        "question": "__________ is not a Peril of the Sea.",
+        "options": [
+          "Iceberg",
+          "Collision",
+          "Machinery breakdown",
+          "Stranding",
+          "Piracy"
+        ],
+        "correctAnswer": "Machinery breakdown",
+        "explanation": "In marine insurance, Perils of the Sea refer to fortuitous accidents or casualties of the sea \u2014 unexpected events that occur due to natural forces or accidents while at sea. Machinery breakdown is considered an internal issue, not a peril arising from external maritime conditions. Typically excluded unless covered by a special machinery breakdown clause."
+      },
+      {
+        "id": "t2q42",
+        "question": "Identify the consideration for the insured in an insurance contract.",
+        "options": [
+          "Perfection",
+          "Property",
+          "Premium",
+          "Promise",
+          "Plan"
+        ],
+        "correctAnswer": "Premium",
+        "explanation": "Insurance is a contract, whereby the Insurer, for a consideration called premium, agrees to make good, the loss suffered by the Insured, arising out of an Insured Peril. The consideration (payment) made by the insured is the premium."
+      },
+      {
+        "id": "t2q43",
+        "question": "__________ is not a regularly traded asset.",
+        "options": [
+          "Pulses",
+          "Steel",
+          "Cotton",
+          "Machinery",
+          "Cement"
+        ],
+        "correctAnswer": "Machinery",
+        "explanation": "Indemnity for machine totally lost due to an Insured Peril is by determining its value. Value of raw material could be easily ascertained because they are easily tradeable. But machinery is not a regularly traded asset. Each machinery of each factory could have its own value. This depends on various factors like the age of the machinery, make, working environment, number of shifts, periodic maintenance, availability of spares and such other factors."
+      },
+      {
+        "id": "t2q44",
+        "question": "If the customer leaves a question in the Proposal form blank and the insurer does not seek any answer to that question, then __________.",
+        "options": [
+          "the insurer is not required to settle the claim",
+          "the insurer is protected by the right of non-disclosure",
+          "the customer is responsible for misrepresentation",
+          "the customer is responsible for non-disclosure",
+          "non-disclosure cannot be used as a ground to reject the claim, by the insurer"
+        ],
+        "correctAnswer": "non-disclosure cannot be used as a ground to reject the claim, by the insurer",
+        "explanation": "Proposals should be screened and scrutinized based on the answers in the Proposal. If answers are not provided, the Underwriter should seek them. If the customer does not answer a question, and the Insurer does not seek answer thereto, it would be considered that the Insurer had waived the question. Later, the Insurer cannot rely on the failure to answer a question to treat it as nondisclosure."
+      },
+      {
+        "id": "t2q45",
+        "question": "The correct formula for Premium = __________.",
+        "options": [
+          "Cost of issuing the policy",
+          "Burning cost + expenses",
+          "Burning cost / Fixed cost",
+          "Burning cost / (1 - % of cost elements)",
+          "Burning cost / Cost elements"
+        ],
+        "correctAnswer": "Burning cost / (1 - % of cost elements)",
+        "explanation": "The right formula for determining the Premium from Burning Cost is: Premium = BURNING COST / (1-% of Cost Elements)."
+      },
+      {
+        "id": "t2q46",
+        "question": "What is the meaning of objectivity?",
+        "options": [
+          "tangibility",
+          "visibility",
+          "measurability",
+          "velocity",
+          "veracity"
+        ],
+        "correctAnswer": "measurability",
+        "explanation": "Classification of risks should be based on objective criteria. Objectivity would mean measurability on some acceptable standard. Objectivity would also reduce Subjective considerations which could differ from underwriter to underwriter. Objectivity would also enable the market force to understand the criteria upon which the risks are rated, thereby facilitating identification of the different customer segments."
+      },
+      {
+        "id": "t2q47",
+        "question": "Identify the fact that an insurer cannot be deemed to know.",
+        "options": [
+          "The cargo handling facilities at a major port",
+          "The insured's health condition",
+          "The law regarding recovery from carriers",
+          "The season for cyclones in his area",
+          "The conventional nature of packing for major trade items"
+        ],
+        "correctAnswer": "The insured's health condition",
+        "explanation": "Facts which an insurer is deemed to know are matters of common knowledge and matters which an insurer, in the ordinary course of their business, ought to know. However, an insurer cannot be deemed to know private or personal information unless it is disclosed to them. The health condition of the insured is a material fact that must be disclosed by the insured during the proposal stage."
+      },
+      {
+        "id": "t2q48",
+        "question": "Salvage is considered to be __________ value.",
+        "options": [
+          "reinstatement",
+          "depreciated",
+          "enhanced",
+          "book",
+          "residual"
+        ],
+        "correctAnswer": "residual",
+        "explanation": "In a property loss, some amount could be saved from the damage. This amount depends on the nature of property insured, and the cause and extent of loss. In most cases, some value is recoverable as scrap. In some cases, the goods are partly damaged and have some residual value. The value that could be recovered from the damaged property is called salvage. When a claim is settled, the salvage value is reduced from the amount payable."
+      },
+      {
+        "id": "t2q49",
+        "question": "The actual loss arising out of a __________ includes costs of repair, replacement or reinstatement and consequential losses.",
+        "options": [
+          "risk",
+          "hazard",
+          "peril",
+          "accident",
+          "None of the above"
+        ],
+        "correctAnswer": "peril",
+        "explanation": "The actual loss arising out of a peril striking includes costs of (a) repair, replacement or reinstatement and (b) consequential losses until repair, replacement or reinstatement."
+      },
+      {
+        "id": "t2q50",
+        "question": "Which of these options is not a method of Risk Retention?",
+        "options": [
+          "Security officers doing a thorough checking of employees and visitors entering the factories",
+          "A company has 10,000 employees so it decides to compensate losses to employees through small contribution from employees",
+          "A company decides to face losses due to uncertain events from the internal funds of the company",
+          "Creation of a special fund for events which may cause losses to office / factory premises",
+          "None of the above"
+        ],
+        "correctAnswer": "Security officers doing a thorough checking of employees and visitors entering the factories",
+        "explanation": "Security officers doing thorough checking is a Risk Mitigation/Prevention strategy, not a Risk Retention method. Risk Retention involves accepting and financing the risk internally \u2014 through employee contributions, internal funds, or special reserve funds. Prevention measures like security checks aim to reduce the probability or severity of loss rather than retaining the financial consequence."
+      }
+    ]
+  },
+  {
+    "id": "test-3",
+    "title": "Principles of Insurance \u2014 Test 3",
+    "description": "IC-01 Practice Test 3 \u2014 Covers underwriting, reinsurance, claims, legal principles and insurance contracts.",
+    "category": "Insurance",
+    "questions": [
+      {
+        "id": "t3q1",
+        "question": "The Insurance Contract is described as:",
+        "options": [
+          "The insurance company agrees to pay to the policy holder, a certain sum of money, if the insured event does not occur, provided premiums have been paid",
+          "The insurance company agrees to pay to the policy holder a certain sum of money, if the insured event occur, provided at least 50% premiums have been paid",
+          "The policy holder agrees to pay to the insurance company a certain sum of money if the insured event occurs provided premiums have been paid",
+          "The insurance company agrees to pay to the policy holder a certain sum of money if the insured event occurs, provided the policyholder have been paying the premiums",
+          "The Insurance company agrees to pay to the policy holder, a certain sum of money if the insured event occurs, provided at least 75% premiums have been paid"
+        ],
+        "correctAnswer": "The insurance company agrees to pay to the policy holder a certain sum of money if the insured event occurs, provided the policyholder have been paying the premiums",
+        "explanation": "Insurance is a contract between two parties: the insurance company and the policyholder. According to the insurance contract: the insurance company agrees to pay the policyholder a certain sum of money (sum assured) if the event (death or peril e.g. fire, earthquake etc.) specified in the insurance contract happens, provided the policyholder has been paying the premium(s) as specified in the insurance contract."
+      },
+      {
+        "id": "t3q2",
+        "question": "What is it known as, when the re-insurer has the right to decide, whether they should accept the risk or not?",
+        "options": [
+          "Ceding",
+          "Quota share",
+          "Retrocession",
+          "Surplus reinsurance",
+          "Facultative re-Insurance"
+        ],
+        "correctAnswer": "Facultative re-Insurance",
+        "explanation": "Facultative reinsurance is when the reinsurer has the right to decide whether they should accept the risk or not. In other words, the reinsurer negotiates with each risk, whether to take it on or not. This may happen in treaty cases also, where risk is not within the terms of the treaty."
+      },
+      {
+        "id": "t3q3",
+        "question": "Insurance can be defined as a co-operative arrangement to spread the ______ caused by a particular ______ over a large number of people who are exposed to it, in exchange for a small sum of money.",
+        "options": [
+          "Loss; Risk",
+          "Gain; Risk",
+          "Profit; Gain",
+          "Risk; Gain",
+          "Risk; Loss"
+        ],
+        "correctAnswer": "Loss; Risk",
+        "explanation": "Insurance can also be defined as a co-operative arrangement to spread the loss caused by a particular risk over a large number of people who are exposed to it, in exchange for a small sum of money."
+      },
+      {
+        "id": "t3q4",
+        "question": "Identify the type of insurance available, to cover emergency medical situations or accidents that can occur due to movement of human across the world.",
+        "options": [
+          "International Insurance",
+          "Globe Insurance",
+          "World Insurance",
+          "Earth Insurance",
+          "Overseas Medical Insurance"
+        ],
+        "correctAnswer": "Overseas Medical Insurance",
+        "explanation": "Overseas Medical Insurance covers medical expenses incurred while travelling abroad. Hospital bills are paid by the insurer's representatives directly. The policy also covers loss of baggage or passport during overseas travel. This policy is meant for Indian residents travelling abroad for specified purposes like business, studies, holiday or employment."
+      },
+      {
+        "id": "t3q5",
+        "question": "__________ is not a catastrophic risk.",
+        "options": [
+          "Job loss",
+          "Cyclone",
+          "Flood",
+          "Tsunami",
+          "Earthquake"
+        ],
+        "correctAnswer": "Job loss",
+        "explanation": "Critical or catastrophic risks are risks where a single event of major magnitude leads to a significantly higher than usual number and/or amount of claims on an insurer. Catastrophic risks are big enough to cause bankruptcy of the owner or even the insurer. Job loss affects an individual but is not a catastrophic risk that causes widespread simultaneous claims."
+      },
+      {
+        "id": "t3q6",
+        "question": "Which of the following option is INCORRECT with regards to the given statement: Customers are happy when __________.",
+        "options": [
+          "They feel cared for and helped",
+          "They are being empathised with",
+          "They are recognised and respected",
+          "They or their feeling and views are not ignored",
+          "They feel like they are being taken advantages of"
+        ],
+        "correctAnswer": "They feel like they are being taken advantages of",
+        "explanation": "Customers are happy when: they are recognised and respected, their feelings and views are not ignored, they do not feel like they are being taken advantage of, they feel cared for and helped, and they are being empathised with. Feeling taken advantage of makes customers unhappy, not happy."
+      },
+      {
+        "id": "t3q7",
+        "question": "What is the concept of being ethical in business?",
+        "options": [
+          "It means doing the right thing, such as, not lying or stealing, but being honest",
+          "It means providing comfort and support to help ensure that publicity is positive",
+          "It means understanding the importance of being customer-centric",
+          "It means being technically correct and trained in customer-service or customer orientation",
+          "It means making sure that, the customer is not attracted to another insurance company"
+        ],
+        "correctAnswer": "It means doing the right thing, such as, not lying or stealing, but being honest",
+        "explanation": "Being ethical in business is about doing the right thing, such as not lying or stealing, but being honest. A lot of attention is focussed on ethics in today's business world as there have been numerous reports of unethical behaviour and practices in companies."
+      },
+      {
+        "id": "t3q8",
+        "question": "What is the combined figure of loss-ratio plus expense-ratio which reflects the over-all underwriting-profitability is known as?",
+        "options": [
+          "Combined Ratio",
+          "Underwriting-Ratio",
+          "Profit-Ratio",
+          "Incurred Claims Ratio",
+          "Incurred-Liability Ratio"
+        ],
+        "correctAnswer": "Combined Ratio",
+        "explanation": "The combined figure of loss ratio plus expense ratio is called the combined ratio and this figure reflects the overall underwriting profitability."
+      },
+      {
+        "id": "t3q9",
+        "question": "Why is Subrogation not applicable to Benefit Contracts?",
+        "options": [
+          "Human life cannot be valued.",
+          "The victim was killed and should get all money he is entitled to.",
+          "The one who killed the victim is criminally liable.",
+          "To save the dependent's family from filing a case against the Third Party responsible.",
+          "All options are incorrect"
+        ],
+        "correctAnswer": "Human life cannot be valued.",
+        "explanation": "Human Life cannot be valued. Therefore the Insurers cannot limit their liability and share the loss. They have to pay the amounts they had insured."
+      },
+      {
+        "id": "t3q10",
+        "question": "Which of the following statements is correct?",
+        "options": [
+          "Risk XL is triggered only if the loss affects more than one risk.",
+          "Risk XL is triggered only if the Annual Loss exceeds a stated limit.",
+          "Risk XL is triggered only if the loss exceeds the Deductible.",
+          "Risk XL is triggered only if the loss exceeds the Cover Limit.",
+          "None of the above"
+        ],
+        "correctAnswer": "Risk XL is triggered only if the loss exceeds the Deductible.",
+        "explanation": "Risk XL is a type of reinsurance where the reinsurer pays for losses that exceed a specified deductible amount. This deductible is the primary insurer's retention, and once the losses go beyond this amount, the reinsurer steps in to cover the excess."
+      },
+      {
+        "id": "t3q11",
+        "question": "In which of the following lines of business, Insurable Interest need not exist at the time of loss?",
+        "options": [
+          "Life Insurance",
+          "Marine Insurance",
+          "Motor Insurance",
+          "Property Insurance",
+          "All of the above"
+        ],
+        "correctAnswer": "Life Insurance",
+        "explanation": "In Life Insurance, Insurable Interest should exist at the time of Proposal, but not at the time of loss."
+      },
+      {
+        "id": "t3q12",
+        "question": "Which of the following is not a Benefit Policy?",
+        "options": [
+          "Personal Accident",
+          "Life Insurance",
+          "Critical Care Benefit Insurance",
+          "Marine Insurance",
+          "All of the above"
+        ],
+        "correctAnswer": "Marine Insurance",
+        "explanation": "In the Benefit Policy, the stated sum is paid on the occurrence of the event. Marine Insurance is not a Benefit Policy."
+      },
+      {
+        "id": "t3q13",
+        "question": "Which of the following is not an element of a Contract?",
+        "options": [
+          "Consensus Ad Idem.",
+          "Consideration.",
+          "Competence.",
+          "Free Consent.",
+          "Lawful Object."
+        ],
+        "correctAnswer": "Competence.",
+        "explanation": "A Contract should have all the following seven elements: Offer and Acceptance, Consensus Ad Idem, Consideration, Capacity, Free Consent, Lawful Object, and Possibility of Performance. Competence is not one of the elements of a Contract."
+      },
+      {
+        "id": "t3q14",
+        "question": "The total amount of claims cost for a company with five groups of employees of the same age group, with 1,000 employees per group, is Rs. 30,00,000. What is the Burning Cost per employee?",
+        "options": [
+          "Rs. 3000",
+          "Rs. 6,00,000",
+          "Rs. 300",
+          "Rs. 600",
+          "None of the above"
+        ],
+        "correctAnswer": "Rs. 600",
+        "explanation": "Since all employees are of the same age group, there are totally 5000 employees. Therefore, there are 5000 exposure units. Total Amount of Loss is Rs. 30,00,000. Therefore, Burning cost per employee = 30,00,000/5,000 = Rs. 600."
+      },
+      {
+        "id": "t3q15",
+        "question": "Which of the following may not be a relevant factor in pricing?",
+        "options": [
+          "Competition",
+          "Change of CEO",
+          "Recent Judgements having an impact on the coverage",
+          "Rate Increase by Reinsurers",
+          "All of the above"
+        ],
+        "correctAnswer": "Change of CEO",
+        "explanation": "Change of CEO will not be directly relevant to determining the price."
+      },
+      {
+        "id": "t3q16",
+        "question": "Which of the following is not a material fact?",
+        "options": [
+          "The colour of the car for motor third party insurance.",
+          "The age of the Insured for Health Insurance.",
+          "The nature of goods stored for Fire Insurance.",
+          "The mode of packing for Marine Transit Insurance.",
+          "None of the above"
+        ],
+        "correctAnswer": "The colour of the car for motor third party insurance.",
+        "explanation": "Motor Third Party Insurance is compulsory, and no insurer can refuse third party insurance to a vehicle. Hence colour of the car is not a material fact to the Insurer, as he cannot refuse Third Party insurance to any customer based on the colour of the car, nor in India is colour a rating factor."
+      },
+      {
+        "id": "t3q17",
+        "question": "In a Surplus Treaty, the risk and losses are shared between the Insurer and the Reinsurer __________.",
+        "options": [
+          "Non Proportionally",
+          "In the Proportion of Surplus to Retention",
+          "In the Proportion of Retention to Surplus",
+          "In a fixed percentage",
+          "Equally"
+        ],
+        "correctAnswer": "In the Proportion of Retention to Surplus",
+        "explanation": "In a Surplus Treaty, the risk and losses are shared between the Insurer and the Reinsurer in the Proportion of Retention to Surplus."
+      },
+      {
+        "id": "t3q18",
+        "question": "In a Reinsurance, Risk is transferred from __________.",
+        "options": [
+          "Direct Customer to Reinsurer",
+          "Direct Customer to Insurer",
+          "Insurer to Reinsurer",
+          "Reinsurer to Insurer",
+          "None of the above"
+        ],
+        "correctAnswer": "Insurer to Reinsurer",
+        "explanation": "In a Reinsurance Contract, risk is transferred from Insurer to Reinsurer."
+      },
+      {
+        "id": "t3q19",
+        "question": "Why is Underwriting Audit necessary?",
+        "options": [
+          "To monitor the performance of Underwriting",
+          "To cancel policies wrongly underwritten",
+          "To enable better Reinsurance protection",
+          "To enable better loss prediction",
+          "To monitor the reinsurance capacity"
+        ],
+        "correctAnswer": "To monitor the performance of Underwriting",
+        "explanation": "The Underwriting Framework also includes an Audit mechanism to check whether the Underwriting functions at the operating levels are as per the respective authorities provided to them. The efficacy of the Underwriting System should be periodically evaluated."
+      },
+      {
+        "id": "t3q20",
+        "question": "Uberrimae fidei means:",
+        "options": [
+          "Duty of Disclosure",
+          "Contract of Bailment",
+          "Utmost Good Faith",
+          "Fiduciary Relationship",
+          "Contract of Insurance"
+        ],
+        "correctAnswer": "Utmost Good Faith",
+        "explanation": "Uberrimae Fidei is a Latin phrase which means Utmost Good Faith."
+      },
+      {
+        "id": "t3q21",
+        "question": "On a Burning Cost of Rs.3000, if loading has to be made for 10% Acquisition Cost, 20% Operating Expenses and 10% Profit Margin, what should be the Price?",
+        "options": [
+          "Rs.5000",
+          "Rs.4200",
+          "Rs.1800",
+          "Rs.3000",
+          "None of the above"
+        ],
+        "correctAnswer": "Rs.5000",
+        "explanation": "Premium = BURNING COST / (1 - % of Cost Elements). Total loadings = 10% + 20% + 10% = 40%. Premium = 3000/(1-40%) = 3000/60% = Rs.5000."
+      },
+      {
+        "id": "t3q22",
+        "question": "Which line of business has a law expressly declaring the Principles of Insurance?",
+        "options": [
+          "Fire Insurance",
+          "Motor Insurance",
+          "Life Insurance",
+          "Marine Insurance",
+          "None of the above"
+        ],
+        "correctAnswer": "Marine Insurance",
+        "explanation": "The Marine Insurance Act, 1963 expressly defines the Principles of Insurance."
+      },
+      {
+        "id": "t3q23",
+        "question": "Who is an Actuary?",
+        "options": [
+          "A professional who estimates the probabilities of future losses",
+          "A mathematician",
+          "A professional who predicts the future",
+          "A professional who invents the formula for calculating future losses",
+          "None of the above"
+        ],
+        "correctAnswer": "A professional who estimates the probabilities of future losses",
+        "explanation": "Actuaries estimate probability of future losses. They cannot predict the future."
+      },
+      {
+        "id": "t3q24",
+        "question": "Complete the statement regarding prediction of future losses: The prediction is __________.",
+        "options": [
+          "always incorrect as statistical laws do not work",
+          "likely to be closer to the actual outcome when adequately large amount of data is studied",
+          "perfect as it is based on statistical law",
+          "always incorrect due to new forces",
+          "accurate as it is based on physical law"
+        ],
+        "correctAnswer": "likely to be closer to the actual outcome when adequately large amount of data is studied",
+        "explanation": "Even with the right price, a low base could upset predictions of future losses, which best work under adequately large numbers. At the same time, if large numbers are obtained by sacrificing price realisation, the pool of money collected might not be adequate to cover expected claims and other costs."
+      },
+      {
+        "id": "t3q25",
+        "question": "Grouping of heterogeneous risks would lead to __________ selection.",
+        "options": [
+          "converse",
+          "inverse",
+          "adverse",
+          "diverse",
+          "acute"
+        ],
+        "correctAnswer": "adverse",
+        "explanation": "If the risks are heterogeneous, bundling them together under one class would result in bad risks being priced at the same rate as good risks. This would lead to adverse selection."
+      },
+      {
+        "id": "t3q26",
+        "question": "A Liability Policy that covers a liability reported even after the policy has expired is called __________.",
+        "options": [
+          "occurrence basis",
+          "claims made basis",
+          "reactive",
+          "retrospective",
+          "retroactive"
+        ],
+        "correctAnswer": "occurrence basis",
+        "explanation": "An occurrence basis liability policy covers incidents that happen during the policy period, even if the claim is reported after the policy has expired. This means the policy will cover incidents that occur during the policy period, regardless of when the claim is made."
+      },
+      {
+        "id": "t3q27",
+        "question": "In case there are two causes acting concurrently but independently, with one of the causes being an insured peril, the claim is__________.",
+        "options": [
+          "not payable",
+          "payable to the extent of the loss due to the insured peril",
+          "payable up to seventy five percent",
+          "payable to the extent of the loss due to the uninsured peril",
+          "payable up to fifty percent"
+        ],
+        "correctAnswer": "payable to the extent of the loss due to the insured peril",
+        "explanation": "Concurrent Causes acting independently means there are two or more causes acting independent of each other. In this case, where there are concurrent Perils acting independently, the loss, to the extent caused by the Insured Peril is payable, and any other loss caused by an excluded Peril or by an uninsured Peril is not payable."
+      },
+      {
+        "id": "t3q28",
+        "question": "Identify the Appellate forum for the orders of the State consumer disputes redressal commission.",
+        "options": [
+          "Supreme Court",
+          "High Court",
+          "Full bench of the State Consumer Forum",
+          "National Consumer Disputes Redressal Commission",
+          "Arbitration"
+        ],
+        "correctAnswer": "National Consumer Disputes Redressal Commission",
+        "explanation": "The National Consumer Disputes Redressal Commission (NCDRC) is the appellate forum for orders passed by the State Consumer Disputes Redressal Commission. If a party is dissatisfied with the decision of the State Commission, they can appeal to the NCDRC. The NCDRC handles appeals at the national level for cases that have been heard at the state level."
+      },
+      {
+        "id": "t3q29",
+        "question": "__________ is the odd one in this group.",
+        "options": [
+          "Corporate agents",
+          "Agents",
+          "Web Aggregators",
+          "Brokers",
+          "Third party administrators"
+        ],
+        "correctAnswer": "Third party administrators",
+        "explanation": "Agents, Brokers, Web Aggregators and Corporate agents are all insurance intermediaries involved in selling insurance. Whereas Third Party Administrators (TPAs) are independent entities that manage insurance claims and related processes on behalf of insurers, without being directly involved in selling policies."
+      },
+      {
+        "id": "t3q30",
+        "question": "__________ risks are identified using Risk identification.",
+        "options": [
+          "Pure",
+          "Speculative",
+          "All",
+          "Unknown",
+          "Catastrophic"
+        ],
+        "correctAnswer": "All",
+        "explanation": "Risk Identification is an involved activity, where each and every risk the enterprise faces is carefully identified and documented. History of past losses and near misses of the enterprise are analysed. Past losses of other enterprises similarly placed are studied. A Risk Register is maintained to record all the risks the enterprise faces. Every conceivable risk which has the potential to create an economic loss is diligently identified."
+      },
+      {
+        "id": "t3q31",
+        "question": "In case of two concurrent but interdependent causes, wherein one of the causes is an insured peril and the other is an uninsured peril, the claim is __________.",
+        "options": [
+          "payable upto the extent of the loss due to the insured peril",
+          "payable upto the extent of the loss due to the excluded peril",
+          "not payable",
+          "payable",
+          "payable upto fifty percent"
+        ],
+        "correctAnswer": "payable",
+        "explanation": "In the case of Concurrent Causes acting Interdependently, acting Interdependently means that the loss occurred by the operation of both the Perils, but would not have occurred if only one Peril had operated. In such cases of Concurrent Causes acting Interdependently, the loss is not payable if any of the Cause is an excluded Peril. But the loss is payable if the loss is caused by the operation of an Insured Peril and an Uninsured Peril, but not by an excluded Peril."
+      },
+      {
+        "id": "t3q32",
+        "question": "No health insurance policy can be questioned after ________ years.",
+        "options": [
+          "six",
+          "three",
+          "four",
+          "eight",
+          "seven"
+        ],
+        "correctAnswer": "eight",
+        "explanation": "No health insurance policy can be questioned after eight years of continuous coverage. Even if there has been a nondisclosure or misrepresentation, the Policy cannot be contested on these grounds, if the Policy has continuous coverage of eight years. This is called Moratorium."
+      },
+      {
+        "id": "t3q33",
+        "question": "There is __________ relationship between large number of trials and the difference between actual and expected outcome.",
+        "options": [
+          "an adverse",
+          "a converse",
+          "a direct",
+          "an inverse",
+          "an indirect"
+        ],
+        "correctAnswer": "an inverse",
+        "explanation": "As per the Law of Large Numbers, when the number of trials is higher, the difference between the actual outcome and the expected outcome gets lower."
+      },
+      {
+        "id": "t3q34",
+        "question": "Underwriting is not considered just a binary activity since __________.",
+        "options": [
+          "there are further options to underwriting other than accepting and rejecting",
+          "binary is relevant only in the digital world",
+          "it has 3 functions",
+          "it is a crucial activity, it is not a binary activity",
+          "it leads to profits"
+        ],
+        "correctAnswer": "there are further options to underwriting other than accepting and rejecting",
+        "explanation": "Underwriting is not just a binary activity. The Underwriter's role is not just to say Yes and No, in accepting or rejecting a risk. There are various other options too, such as accepting with higher deductibles and lower limits, strategic retreats when competitors are aggressive, or ceding more to reinsurer if new to a line of business."
+      },
+      {
+        "id": "t3q35",
+        "question": "Ownership results in insurable interest __________.",
+        "options": [
+          "since the owner loves the property",
+          "since the ownership for the property rests with the owner",
+          "since the owner has a sentimental value attached to the property",
+          "since the owner stands to benefit by the property's existence",
+          "since the owner takes pride about his position"
+        ],
+        "correctAnswer": "since the owner stands to benefit by the property's existence",
+        "explanation": "Insurable Interest arises out of ownership. If R owns a property, and if that property is lost, R does incur a financial loss \u2014 the loss of the owned property. Ownership definitely fits the definition of a relationship between the person and the property, whereby that person benefits by the continued existence of the property and loses by its destruction."
+      },
+      {
+        "id": "t3q36",
+        "question": "The __________ has better knowledge of the risk proposed for insurance.",
+        "options": [
+          "broker",
+          "insured",
+          "reinsurer",
+          "insurer",
+          "agent"
+        ],
+        "correctAnswer": "insured",
+        "explanation": "An insurer receives hundreds of proposals from the public to cover their risks. The insurer does not know any detail about any of these risks. It is also not feasible for the insurer to inspect each and every risk before accepting it for insurance. But, the customer who makes the proposal, is expected to have intimate knowledge on the features of the risk proposed to be insured. The insurer, therefore, trusts the insured customer to disclose all facts material to the risk being proposed for insurance."
+      },
+      {
+        "id": "t3q37",
+        "question": "In addition to premium, __________ is the other major source of income for an insurance company.",
+        "options": [
+          "reserve for unearned premium",
+          "revenue",
+          "investment income",
+          "depreciation",
+          "commission"
+        ],
+        "correctAnswer": "investment income",
+        "explanation": "In Insurance, Premium is received even before the risk commences. The Insurance Company collects the premium and retains it for quite some time till claims are paid. This retained money is not kept idle. It is invested in securities and other instruments that earn a considerable income to the Insurance Company. This income is a major source of revenue for the Insurance Company and is reckoned in determining the Profit of the Company."
+      },
+      {
+        "id": "t3q38",
+        "question": "How is a risk evaluated?",
+        "options": [
+          "In terms of loss of profits",
+          "In terms of loss of reputation",
+          "In terms of loss of earnings",
+          "In terms of loss of market",
+          "In terms of potential to cause losses"
+        ],
+        "correctAnswer": "In terms of potential to cause losses",
+        "explanation": "After identifying a risk, it is evaluated in terms of its potential to cause losses. These are measured on two important dimensions: Frequency and Severity. Frequency is the number of times a given risk could result in a loss in a given period. Severity is the average amount of these losses."
+      },
+      {
+        "id": "t3q39",
+        "question": "__________ reinsurance covers on the basis 'each and every risk, each and every occurrence'.",
+        "options": [
+          "Stop loss",
+          "Cat XL",
+          "Surplus",
+          "Risk XL",
+          "Quota Share"
+        ],
+        "correctAnswer": "Risk XL",
+        "explanation": "Risk XL provides reinsurance for one Risk. The reinsurance cover under Risk XL is for each and every risk for each and every occurrence. Risk XL usually covers all Perils that the underlying insurance covers. Thus, if the direct insurance is for a Policy covering Fire, Flood and Earthquake risks, the Reinsurance under Risk XL would also cover Fire, Flood and Earthquake risks."
+      },
+      {
+        "id": "t3q40",
+        "question": "A __________ could not have an insurable interest in the life of the insured.",
+        "options": [
+          "father",
+          "mother",
+          "child",
+          "friend",
+          "spouse"
+        ],
+        "correctAnswer": "friend",
+        "explanation": "In Life Insurance Policies, Insurable Interest exists in the following circumstances: a person has an Insurable Interest in his own life; a husband/wife has Insurable Interest in spouse's life to the extent of financial dependency; minor children have Insurable Interest in life of father or mother to the extent of financial dependency; a father or mother could also have Insurable Interest in the life of son or daughter. While all these circumstances entail an Insurable Interest, a friend could not have an insurable interest in the life of the insured."
+      },
+      {
+        "id": "t3q41",
+        "question": "In a train of events being broken by a new independent force, __________ is the Proximate cause.",
+        "options": [
+          "the 1st force",
+          "the 2nd force",
+          "no cause",
+          "the excluded peril",
+          "the new independent force"
+        ],
+        "correctAnswer": "the new independent force",
+        "explanation": "In a Sequence of causes, the first cause is the Proximate Cause, provided the train of events is not broken by a new cause. But the moment the train is broken by a new independent force working actively, the new force becomes the Proximate Cause."
+      },
+      {
+        "id": "t3q42",
+        "question": "In a Discovery basis policy, identify the event that should occur during the period of the policy.",
+        "options": [
+          "The intimation",
+          "The payment",
+          "The surveyor appointment",
+          "The crime",
+          "The discovery"
+        ],
+        "correctAnswer": "The discovery",
+        "explanation": "A Discovery basis policy is commonly used in Fidelity Guarantee Insurance and Crime Insurance. The key trigger for coverage is the discovery of the loss or crime, not when the crime actually occurred. As long as the discovery of the loss happens during the policy period (or within an extended discovery period, if applicable), the claim is considered valid \u2014 even if the actual crime occurred earlier."
+      },
+      {
+        "id": "t3q43",
+        "question": "__________ will result in Adverse selection.",
+        "options": [
+          "Proper risk classification",
+          "Grouping of homogeneous risks",
+          "Improper risk classification",
+          "Proper underwriting",
+          "Proper risk evaluation"
+        ],
+        "correctAnswer": "Improper risk classification",
+        "explanation": "Just as the Underwriter chooses the risk, the risk chooses the Underwriter. If a risk is not properly classified and rated at a price that is commensurate with the loss probabilities, it could be under priced. When a risk is under priced, it means it is bad business. Insurance is a pooled mechanism. If bad risks throng to an Insurer, the resultant adverse loss experience would increase the premium for good risks too. This would result in adverse selection."
+      },
+      {
+        "id": "t3q44",
+        "question": "Identify the type of reinsurance arrangement in which the insurer and reinsurer have the same probability of loss.",
+        "options": [
+          "Surplus",
+          "Risk XL",
+          "Stop loss",
+          "Cat XL",
+          "Quota share"
+        ],
+        "correctAnswer": "Quota share",
+        "explanation": "A Quota Share Treaty is an arrangement whereby the Insurer and the Reinsurer Share the premium and the claims in a specified proportion. In a Quota Share arrangement, the Insurer and the Reinsurer are exposed to the same loss probability for their respective shares of the business."
+      },
+      {
+        "id": "t3q45",
+        "question": "__________ is considered to be most important for an insurance company.",
+        "options": [
+          "High market share",
+          "Risk aversion",
+          "Competence to predict losses",
+          "High visibility",
+          "Risk appetite"
+        ],
+        "correctAnswer": "Competence to predict losses",
+        "explanation": "The business model of an insurance company rests entirely on its competence to predict future losses as correctly as possible. A risk classification which fails to classify risks on their loss probabilities, or which is not rooted on sound actuarial analysis could result in compromising the predictive stability of the system."
+      },
+      {
+        "id": "t3q46",
+        "question": "Periodicity concept is important as it__________.",
+        "options": [
+          "gives dividends to shareholders",
+          "enables performance measurement for a particular period",
+          "pays interest on loan",
+          "helps to periodically update accounting",
+          "issues bonus shares to shareholders"
+        ],
+        "correctAnswer": "enables performance measurement for a particular period",
+        "explanation": "Periodicity Concept enables measurement of performance for a particular period. In accounting, generally the performance of an enterprise is measured for a period of twelve months. This measurement is not only necessary for the enterprise to evaluate its performance in financial parameters, but also a requirement under various laws like Companies Act, and Income Tax Act. The Periodicity Concept means all transactions during that particular period are taken into account."
+      },
+      {
+        "id": "t3q47",
+        "question": "When the deductible is Rs.150 crores with the cover limit being Rs.250 crores and the loss being Rs.80 crores, calculate the amount that will be recovered from the Excess of Loss Reinsurers.",
+        "options": [
+          "Rs.100 crores",
+          "Rs.150 crores",
+          "Rs.80 crores",
+          "Rs.250 crores",
+          "Nil"
+        ],
+        "correctAnswer": "Nil",
+        "explanation": "In an Excess of Loss (XL) Reinsurance arrangement: the ceding insurer retains losses up to the deductible, and the reinsurer pays only the portion of the loss that exceeds the deductible, up to the cover limit. Since the loss (Rs.80 crores) is less than the deductible (Rs.150 crores), amount recoverable from reinsurers is Nil. The entire loss is within the insurer's retention, so the reinsurers are not liable to pay anything."
+      },
+      {
+        "id": "t3q48",
+        "question": "What could be the effect of change in insured's behavior on future losses?",
+        "options": [
+          "Always negative",
+          "Either positive or negative",
+          "Only positive",
+          "Neither positive nor negative",
+          "Only negative"
+        ],
+        "correctAnswer": "Either positive or negative",
+        "explanation": "A change in the insured's behaviour can affect future losses in either direction, depending on whether the behaviour becomes more risk-conscious or more careless. Positive effect (reduced risk): installing fire alarms or CCTV, following traffic rules more strictly, improving health habits. Negative effect (increased risk): becoming careless after getting insured (moral hazard), driving recklessly knowing insurance will pay, ignoring maintenance of insured property."
+      },
+      {
+        "id": "t3q49",
+        "question": "Which of these options shows the CORRECT outlook towards insurance?",
+        "options": [
+          "Life insurance is just another avenue for savings",
+          "Insurance is a very good product for tax saving",
+          "An insured person can be less serious about packaging goods",
+          "Life insurance and general insurance improve the quality of life and reduce destitution",
+          "Financial authors in newspaper discuss life insurance issues like an investment product"
+        ],
+        "correctAnswer": "Life insurance and general insurance improve the quality of life and reduce destitution",
+        "explanation": "Life insurance and general insurance schemes prevent families from being a burden on the society. Destitution i.e. poverty can be avoided by adequate insurance."
+      },
+      {
+        "id": "t3q50",
+        "question": "__________ is the process used to determine entry to the group and it includes assessing the risk to determine the exposure of the group and to determine the premium charged.",
+        "options": [
+          "Scrutinising",
+          "Financing",
+          "Sanctioning",
+          "Checking",
+          "Underwriting"
+        ],
+        "correctAnswer": "Underwriting",
+        "explanation": "Underwriting is the process used to determine entry into the group. Underwriting includes assessing the risk to determine the exposure of the group and determining the premium to be charged based on the risk."
+      }
     ]
   }
 ]
