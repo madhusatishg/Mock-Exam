@@ -2738,6 +2738,1313 @@
         "explanation": "In any claim, if the Sum Insured is less than the value at risk, there is underinsurance. The amount payable after underinsurance could be calculated by the formula: Amount Payable after Underinsurance = Loss Assessed × Sum Insured / Value at Risk."
       }
     ]
+  },
+  {
+    "id": "test-5",
+    "title": "Principles of Insurance — Test 5",
+    "description": "IC-01 Practice Test 5 — Covers core principles, risk management, underwriting, reinsurance, and insurance concepts.",
+    "category": "Insurance",
+    "questions": [
+      {
+        "id": "t5q1",
+        "question": "Identify if the following statement is correct or not: 'Life insurance sector is open for business to private players.'",
+        "options": [
+          "Incorrect - The life insurance sector is yet to open for business to private players",
+          "Incorrect - The life insurance sector was never open for business to private players",
+          "Incorrect - Life insurance sector will open for business to private players from the year 2022",
+          "Incorrect - The life insurance sector will open for business to private players from the year 2023",
+          "Correct - In 1999 the relevant laws were amended and the life insurance sector was open for business to private players"
+        ],
+        "correctAnswer": "Correct - In 1999 the relevant laws were amended and the life insurance sector was open for business to private players",
+        "explanation": "Till 1999, LIC had the exclusive right over life insurance business in India. In 1999, the relevant laws were amended and the life insurance sector was opened for business to private players."
+      },
+      {
+        "id": "t5q2",
+        "question": "XYZ Ltd. has scheduled a cargo shipment with SEAS Shipping Company which is at the port of Chennai. XYZ Ltd. has given various details to the insurer such as: Goods contained, Value of the goods, Weight of the goods, Date of departure of the ship carrying the goods etc. Later it was revealed that all the disclosures were true except for the date of departure of the ship. Identify from the following, the type of representation made in this case about the date of departure.",
+        "options": [
+          "Fraudulent misrepresentation",
+          "Representations based on Ignorance",
+          "Representations based on Fact",
+          "Representations based on Belief",
+          "Representations based on Faith"
+        ],
+        "correctAnswer": "Representations based on Belief",
+        "explanation": "A statement (which has a bearing on the risk), regardless of whether made in writing or verbal, by the person requesting insurance is called a representation. Representations can be based on fact or can be based on belief (the ship will sail some day during next week not exactly known). When representations are based on fact, they have to be true and if based on belief, they may be substantially true."
+      },
+      {
+        "id": "t5q3",
+        "question": "Select from below, the disadvantages associated with the Retention of Risk.",
+        "options": [
+          "Costs are not affected by the adverse claims-experience of others. Multiple small claims can have the effect of one major or catastrophic claim.",
+          "There is a financial incentive to control the loss. There are no disputes with the insurers in the event of a claim.",
+          "Costs are not affected by the adverse claims-experience of others. There is a financial incentive to control the loss.",
+          "Costs are not affected by the adverse claims experience of others. There is no dispute with the insurers in the event of a claim.",
+          "Any catastrophic incident may have an adverse effect on the financial position. Multiple small claims can have the effect of one major or catastrophic claim."
+        ],
+        "correctAnswer": "Any catastrophic incident may have an adverse effect on the financial position. Multiple small claims can have the effect of one major or catastrophic claim.",
+        "explanation": "There are disadvantages associated with retention of risk. These are: Any catastrophic incident may have an adverse effect on the financial position. Multiple small claims can have the effect of one major or catastrophic claim. The money set aside to cover such losses is capital that cannot be used elsewhere."
+      },
+      {
+        "id": "t5q4",
+        "question": "Which of the following items is included in the net worth?",
+        "options": [
+          "Paid-up share capital",
+          "Right back of amalgamation",
+          "Write back of depreciation",
+          "Reserves created out of revaluation of assets",
+          "None of the items are included in net worth"
+        ],
+        "correctAnswer": "Paid-up share capital",
+        "explanation": "Net worth includes equity share capital and all reserves (excluding revaluation reserve) less expenses not written off. It is that part of the company which belongs to the shareholders."
+      },
+      {
+        "id": "t5q5",
+        "question": "Identify from below, the insurance companies that are not owned by the central government.",
+        "options": [
+          "New India assurance Co Ltd",
+          "Export credit and guarantee Corporation of India",
+          "Universal Sampo General insurance Company Limited",
+          "Oriental insurance Company Limited",
+          "Agriculture insurance Company Limited"
+        ],
+        "correctAnswer": "Universal Sampo General insurance Company Limited",
+        "explanation": "Life Insurance Corporation of India and General Insurance Corporation of India are owned by the Central Government and are established by Acts of Parliament. All other insurance companies are incorporated under the Indian Companies Act. Export Credit and Guarantee Corporation of India, United India Insurance Company Limited, the Oriental Insurance Company Limited, the New India Assurance Company Limited and the National Insurance Company Limited and Agriculture Insurance Company Limited are owned by the Central Government and the other insurers are private companies."
+      },
+      {
+        "id": "t5q6",
+        "question": "ABC Ltd. has a group insurance policy on the health of all the members of its organisation and their families right from the clerk to the CEO. However, Mohan who was an employee of the company does not have a family and so does not need cover for the family and wishes to avail benefits under the policy. He has applied to the CEO for increase in the sum assured for him in lieu of the risk avoided attributable to the lack of a family. Discuss whether Mohan's application will be approved, with reasons to back your answer.",
+        "options": [
+          "Yes, because he has applied for the alteration to the CEO.",
+          "Yes, because the risk attributable to a family is reduced so in a way the insurance company's risk is reduced.",
+          "No, because if Mohan gets married and has a family of his own it cannot be changed back as alterations to the policy can be made just once.",
+          "No, as this alteration was not incorporated when the policy was taken and now the Policy cannot be altered once the cover starts.",
+          "No, as in a group insurance policy the benefits for the members of the group are decided on a uniform basis and individuals will not have the option of choosing what is the benefit should be."
+        ],
+        "correctAnswer": "No, as in a group insurance policy the benefits for the members of the group are decided on a uniform basis and individuals will not have the option of choosing what is the benefit should be.",
+        "explanation": "In a group policy, the benefits for the members of the group are decided on a uniform basis. Individuals will not have the option of choosing what the benefit should be, such as, the coverage amount and the various facilities that come with the master policy. The benefit may be fixed as a multiple of income or based on rank/level in the organisation or any other consideration that can be uniformly applicable to all persons covered."
+      },
+      {
+        "id": "t5q7",
+        "question": "Mr. Ram who is an accountant had approached MIT insurance company for his life insurance. After routine medical tests by the insurance company Mr. Ram was found in very good health and MIT planned a minimum level premium for him. However, Mr. Ram discloses that his sugar level is showing normal because he is under medication for diabetes. After knowing this, the insurance company increased his premiums immediately. From the above scenario, identify which of the following Principles has been followed by Mr. Ram.",
+        "options": [
+          "Principle of Indemnity",
+          "Principle of Contribution",
+          "Principle of Large Numbers",
+          "Principle of Subrogation",
+          "Principle of Utmost Good Faith"
+        ],
+        "correctAnswer": "Principle of Utmost Good Faith",
+        "explanation": "According to the principle of utmost good faith, the proposer is obliged to declare all relevant facts that are material to the assessment of the risk, at the time of making the proposal. There are two ways in which the principle of Utmost Good Faith is breached: Non-Disclosure (not disclosing material facts) and Misrepresentation (giving wrong information)."
+      },
+      {
+        "id": "t5q8",
+        "question": "Select from below, the correct option which do not offer life assurance.",
+        "options": [
+          "Exide",
+          "Bajaj Allianz",
+          "Kotak Mahindra",
+          "Reliance",
+          "Agriculture Insurance Company of India Ltd."
+        ],
+        "correctAnswer": "Agriculture Insurance Company of India Ltd.",
+        "explanation": "Agriculture Insurance Company of India Ltd. is a non-life insurance company in India."
+      },
+      {
+        "id": "t5q9",
+        "question": "Identify from the following, one of the disadvantages associated with the Retention of Risk.",
+        "options": [
+          "The possibility of risk occurring seems high",
+          "Any catastrophic incident may have an adverse effect on the financial position",
+          "There are disputes with insurers in the event of a claim",
+          "There is a financial incentive to control the loss",
+          "There would be adverse impact on profit should the risk occur"
+        ],
+        "correctAnswer": "Any catastrophic incident may have an adverse effect on the financial position",
+        "explanation": "There are disadvantages associated with retention of risk: Any catastrophic incident may have an adverse effect on the financial position. Multiple small claims can have the effect of one major or catastrophic claim. The money set aside to cover such losses is capital that cannot be used elsewhere."
+      },
+      {
+        "id": "t5q10",
+        "question": "M/S Tilak had a fire at its warehouse last week but fortunately there was no damage at all. The company already has an effective fire insurance policy. Suggest if the company can claim the compensation for fire.",
+        "options": [
+          "The company can claim 20% compensation",
+          "The company can claim 50% compensation",
+          "The company can claim 75% compensation",
+          "The company can claim full compensation",
+          "The company cannot claim any compensation"
+        ],
+        "correctAnswer": "The company cannot claim any compensation",
+        "explanation": "Insurance is not taken to prevent the peril or to pay compensation if the peril happens. Insurance is taken against the likely damage or the loss that the peril may cause. If the peril has occurred, but there is no damage or no loss, there will be no compensation paid by the insurance company. The insurance company will pay compensation only when there is accidental fire (peril) in the office and financial loss arises due to the fire."
+      },
+      {
+        "id": "t5q11",
+        "question": "Judge the below statement if it is correct or not: 'Insurance companies can be certain as to when the claims would occur but cannot be certain as to how big the claims would be.'",
+        "options": [
+          "Incorrect - Insurance companies cannot be certain as to when claims would occur and how big the claims would be",
+          "Incorrect - Insurance companies can be certain as to when claims would occur but how big the claims would be",
+          "Incorrect - Insurance companies cannot be certain as to when claims would occur but can be certain as to how big the claims would be",
+          "Incorrect - Insurance companies can be only 50% certain as to when claims would occur and how big the claims would be",
+          "Correct - Insurance companies can be certain as to when claims would occur but cannot be certain as to how big the claims would be"
+        ],
+        "correctAnswer": "Correct - Insurance companies can be certain as to when claims would occur but cannot be certain as to how big the claims would be",
+        "explanation": "Insurance companies have to pay claims as they occur. They cannot be certain as to when claims would occur and how big the claims would be. They have estimates based on probabilities, but there can be huge variances between the estimates and the actual amount of claims as there can be no certainty regarding perils."
+      },
+      {
+        "id": "t5q12",
+        "question": "What is inter-relationship of the departments (i.e., the work output of one department being an input for another department in the same organisation) referred to as?",
+        "options": [
+          "Internal customer",
+          "External customer",
+          "Department politics",
+          "Inter-company politics",
+          "Organisational transparency"
+        ],
+        "correctAnswer": "Internal customer",
+        "explanation": "The term 'internal customer' is one which is commonly used in management. This expression refers to the interrelationship of the departments, i.e., the work output of one department being an input for another department in the same organisation. Although there is no purchase of goods or service, the department providing the output needs to keep in mind the interests and concerns of its internal customer."
+      },
+      {
+        "id": "t5q13",
+        "question": "An insurer must be _________________, to ensure stability and continuation of the insurance industry.",
+        "options": [
+          "NGO",
+          "Partnership Firm",
+          "Non-Profit Organisation",
+          "Proprietary Firms",
+          "Corporation or a Company"
+        ],
+        "correctAnswer": "Corporation or a Company",
+        "explanation": "To ensure stability and continuation of the insurance industry, an insurer must be a corporation or a company incorporated under the law, as corporations and companies, unlike proprietary or partnership firms can continue to exist even after the death of the owners."
+      },
+      {
+        "id": "t5q14",
+        "question": "Complete the following statement with correct options: Insurance agents can work__________ or __________.",
+        "options": [
+          "Full time or Part time",
+          "In India or In Bhutan",
+          "In India or In any SAARC country",
+          "In India or In Sri Lanka",
+          "In India or In Nepal"
+        ],
+        "correctAnswer": "Full time or Part time",
+        "explanation": "For some agents, insurance business is a full-time activity while for others; it is a part-time activity that they pursue in addition to other activities."
+      },
+      {
+        "id": "t5q15",
+        "question": "Choose the correct option from below which explains mis-selling.",
+        "options": [
+          "Mis-selling is doing the right thing such as not lying or stealing but being honest",
+          "Mis-selling is not doing the right thing such as not lying or stealing but being honest",
+          "Mis-selling is when incorrect information is given to potential policyholders in an attempt to get them to buy insurance",
+          "Mis-selling is when correct information is given to potential policyholders in an attempt to get them to buy insurance",
+          "Mis-selling is not being customer centric and customer oriented"
+        ],
+        "correctAnswer": "Mis-selling is when incorrect information is given to potential policyholders in an attempt to get them to buy insurance",
+        "explanation": "The business of insurance is based on trust. Propriety and ethical issues are important in insurance. These issues relate to trust and a breach of trust amounts to cheating. Things go wrong when incorrect information is given to potential policyholders in an attempt to get them to buy insurance. This is also known as mis-selling."
+      },
+      {
+        "id": "t5q16",
+        "question": "Ms. Martha is in the process of purchasing a Unit Linked Insurance Plan (ULIP) for herself and has to choose the funds where her premium will be invested. Ms. Martha is willing to take high risk as she expects high returns as well. Suggest the type of basic funds she should invest in.",
+        "options": [
+          "Debt fund",
+          "Equity fund",
+          "Growth fund",
+          "Balanced fund",
+          "Money market fund"
+        ],
+        "correctAnswer": "Equity fund",
+        "explanation": "Equity Fund, Debt Fund, Balanced Fund and Money Market Fund are the basic funds offered by insurance companies. Equity fund is for those investors who are willing to take high risk and are looking for high returns."
+      },
+      {
+        "id": "t5q17",
+        "question": "Differentiate between a broker and an actuary.",
+        "options": [
+          "An Actuary is an intermediary who solicits and markets for insurance products which require very little underwriting and minimal intervention whereas a Broker is a person who assesses the proposal and decides whether the insurance can be given or not.",
+          "A Broker is an individual, a company, a society or a firm wholly engaged in sourcing the insurance business for various insurance companies whereas an Actuary is a person qualified in the technicalities of insurance with an understanding of statistics, economics, finance and investments and is generally responsible for calculating and certifying that the insurance premium rates are viable.",
+          "A Broker is an intermediary who solicits and markets, the insurance products which require very little underwriting and minimal intervention whereas an Actuary is a person qualified in the technicalities of insurance with an understanding of statistics, economics, finance and investments and is generally responsible for calculating and certifying that the insurance premium rates are viable.",
+          "A Broker is one that canvases and procure the insurance business for three life assurance companies, three general insurance companies and three health insurance companies at any point of time whereas an Actuary is a person who assesses the proposal and decides whether insurance can be given or not.",
+          "An actuary is an intermediary who solicits and markets the insurance products which require very little underwriting and minimal intervention whereas a Broker is a person qualified in the technicalities of insurance with an understanding of statistics, economics, finance and investments and is generally responsible for calculating and certifying that the insurers premium rates are viable."
+        ],
+        "correctAnswer": "A Broker is an individual, a company, a society or a firm wholly engaged in sourcing the insurance business for various insurance companies whereas an Actuary is a person qualified in the technicalities of insurance with an understanding of statistics, economics, finance and investments and is generally responsible for calculating and certifying that the insurance premium rates are viable.",
+        "explanation": "An insurance broker is an individual, a company, a society or a firm, wholly engaged in sourcing insurance business for various insurance companies. A person known as an actuary is generally responsible for calculating and certifying that the insurer's premium rates are viable. An actuary is qualified in the technicalities of insurance with an understanding of statistics (which deal with probabilities), economics, finance and investments."
+      },
+      {
+        "id": "t5q18",
+        "question": "As per application of indemnity in the case of Marine Hull insurance, judge the following options and select the correct one.",
+        "options": [
+          "Agreed value policies are issued where the declared value represents the manufacturer's production price of the ship",
+          "Accepted value policies are issued where the claim amount is the insured's propose value of the hull.",
+          "In case the ship is completely damaged, insured declared value is paid after adding the Value of savage.",
+          "Agreed value policies are issued where the claim amount is insured's declared value of the ship",
+          "Agreed value policies are issued and fair value of ships, irrespective of their age, is fixed between the insurance company and the insured."
+        ],
+        "correctAnswer": "Agreed value policies are issued and fair value of ships, irrespective of their age, is fixed between the insurance company and the insured.",
+        "explanation": "In case of marine hull insurance, agreed value policies are issued. Fair value of ships, irrespective of their age, is fixed between the insurance company and the insured."
+      },
+      {
+        "id": "t5q19",
+        "question": "The average mindset of a person who is buying an insurance policy can be explained as:",
+        "options": [
+          "Happy that he or she put the money to good use",
+          "Reluctance to set aside the money",
+          "Happy to set aside the money",
+          "Regret that he or she did not put the money to better use",
+          "None of these"
+        ],
+        "correctAnswer": "Reluctance to set aside the money",
+        "explanation": "The mindset of the person who buys the policy may be one of reluctance to set aside money which they could spend on other things that would provide more immediate enjoyment. They may also doubt the wisdom of their choice at the start of the policy."
+      },
+      {
+        "id": "t5q20",
+        "question": "Identify if the following statement is correct: 'Not all risks are insurable and therefore need to be managed.'",
+        "options": [
+          "Correct - Not all the risks are insurable and therefore need to be managed",
+          "Incorrect - All risks are insurable and therefore need not be managed",
+          "Incorrect – All risks are non-insurable up to only 30% and therefore 30% need to be managed",
+          "Incorrect - Risks are non-insurable upto only 10% and therefore 10% need to be managed",
+          "Incorrect - Risks are not insurable upto only 50% and therefore 50% need to be managed"
+        ],
+        "correctAnswer": "Correct - Not all the risks are insurable and therefore need to be managed",
+        "explanation": "Insurance is the process of transferring risk and an insurer finds other people to share the risk as an individual is unlikely to find other people who may want to share risk. Although insurers find other people to share the risk, not all risks are insurable and therefore need to be managed. The advantage of transferring the risk is that the risk is spread over many people who are exposed to a similar risk."
+      },
+      {
+        "id": "t5q21",
+        "question": "Complete the following sentence with correct option: 'Death is certain, but the _________________ is uncertain.'",
+        "options": [
+          "Loss due to Death",
+          "Extent of Death",
+          "Impact of Death",
+          "Time of Death",
+          "Consequence of Death"
+        ],
+        "correctAnswer": "Time of Death",
+        "explanation": "In the case of a human being, death is certain, but the time of death is uncertain. So, life insurance companies cover the risk of loss due to death even though death is certain, but the timing of death is uncertain."
+      },
+      {
+        "id": "t5q22",
+        "question": "What insure shipowner's liability for cargo, crew and damage to the ships in collisions?",
+        "options": [
+          "Lloyds",
+          "Protection and insurance associations",
+          "Protection and Indemnity associations",
+          "Institute of actuaries",
+          "Association of actuaries"
+        ],
+        "correctAnswer": "Protection and Indemnity associations",
+        "explanation": "Protection and Indemnity Associations (P&I Clubs) insure ship owner's liability for cargo, crew and damage to ships in collisions."
+      },
+      {
+        "id": "t5q23",
+        "question": "Read the given statement carefully and identify whether it is True or False. 'If a peril strikes, the actual loss can range from nothing (zero) to total loss of subject matter of insurance.'",
+        "options": [
+          "False; if a peril strikes the actual loss is the total loss of subject matter of insurance",
+          "False; if peril strikes the actual loss is 72% of the total loss of the subject matter of insurance",
+          "False; if a peril strikes the actual loss is 42% of the total loss of the subject matter of insurance",
+          "True; if a peril strikes, the actual loss can range from nothing (zero) to total loss of subject matter of insurance",
+          "False; if a peril strikes, the actual loss is 20% of the total loss of the subject matter of insurance"
+        ],
+        "correctAnswer": "True; if a peril strikes, the actual loss can range from nothing (zero) to total loss of subject matter of insurance",
+        "explanation": "The purpose of risk management is to identify and eliminate, or at least reduce risks. Risks are possibilities, not certainties and are measured by the loss that may happen if a peril strikes. The actual loss can range from nothing (zero) to total loss of the subject matter of insurance."
+      },
+      {
+        "id": "t5q24",
+        "question": "Fill in the blanks with correct options from below: Collection and transfer of premium to insurers, when so authorized by the insurers, with only Reserve Bank of India (RBI) licenced payment gateway is a function of a _______ towards the _______.",
+        "options": [
+          "Insurer; RBI",
+          "RBI; insurer",
+          "RBI; web aggregator",
+          "Web aggregator; insurer",
+          "Insurer; web aggregator"
+        ],
+        "correctAnswer": "Web aggregator; insurer",
+        "explanation": "The function of collecting and transferring premiums to insurers, when authorized by the insurers, using only a Reserve Bank of India (RBI) licensed payment gateway, falls under the purview of a web aggregator towards the insurer."
+      },
+      {
+        "id": "t5q25",
+        "question": "Which section of the Insurance Laws (Amendment) Act 2015 specifies the persons/entities included as 'Intermediary' or 'Insurance-intermediary'?",
+        "options": [
+          "Section 2(b)",
+          "Section 3(a)",
+          "Section 2(a)",
+          "Section 2(f)",
+          "Section 3(f)"
+        ],
+        "correctAnswer": "Section 2(b)",
+        "explanation": "The section of the Insurance Laws (Amendment) Act 2015 that defines the term 'Intermediary' or 'Insurance-intermediary' is Section 2(b)."
+      },
+      {
+        "id": "t5q26",
+        "question": "Which of the following statement is INCORRECT with respect to cashless treatment?",
+        "options": [
+          "Third party administrators (TPA) tie up with hospitals across country and include them in their network for cashless facilities",
+          "If the insured get admitted to a non-network hospital, then there will be no cashless facility, they have to pay the hospital bill and claim the amount from the insurance company on a reimbursement basis",
+          "Insurance companies issue cash-less cards to the insured which does not require them to pay for treatment of allowed costs when admitted to one of the network hospitals",
+          "Insurance companies issue cash-less cards to the insured, which does not require them to pay without any condition for treatment at any of the government hospitals",
+          "All of the above options are correct"
+        ],
+        "correctAnswer": "Insurance companies issue cash-less cards to the insured, which does not require them to pay without any condition for treatment at any of the government hospitals",
+        "explanation": "Health insurance covers treatment costs which require hospitalisation. Insurance companies issue cashless cards to the insured which does not require them to pay for treatment (allowed costs) when admitted to one of the networks hospitals. If the insured gets admitted to a non-network hospital, then they have to pay the hospital bill and claim the amount from the insurance company on a reimbursement basis."
+      },
+      {
+        "id": "t5q27",
+        "question": "What is the objective behind creating an Insurance Repository?",
+        "options": [
+          "To offer a Cash-less Treatment Facility using Third-Party Administrators' (T.P.A.s) Hospital Networks, rather than building a network from scratch.",
+          "To undertake Survey and Loss-Assessment work by leveraging Licensed Surveyors and Loss-Assessors.",
+          "To facilitate the Insurance Business from across the country, allowing the establishment of offices and recruitment of Insurance Sales Persons based in the District of Registration.",
+          "To provide policyholders with an electronic facility to keep their insurance policies and efficiently manage changes, modifications and revisions with speed and accuracy.",
+          "To handle the Back-Office Activities of insurers, as permitted by guidelines for outsourcing activities by insurance companies."
+        ],
+        "correctAnswer": "To provide policyholders with an electronic facility to keep their insurance policies and efficiently manage changes, modifications and revisions with speed and accuracy.",
+        "explanation": "The objective behind creating an Insurance Repository is to provide policyholders with a facility to keep insurance policies in electronic form and to undertake changes, modifications, and revisions in the insurance policy with speed and accuracy."
+      },
+      {
+        "id": "t5q28",
+        "question": "While comparing between CTL and ATL in the following example, identify the correct option: Mr. Narang's car (Value Rs.210000) fell into a river which could not be lifted out. The sum insured was Rs.200000. The cost of pulling the car from the lake and bringing to garage for repairs was Rs.300000. The insurance company offered Rs. 200000/- as Actual Total Loss.",
+        "options": [
+          "Actual Total Loss (ATL) was Rs. 300,000",
+          "CTL is Rs. 300,000 and ATL is Rs. 210,000",
+          "ATL was Rs. 210,000 and CTL was Rs. 100,000",
+          "ATL and CTL was Rs. 210000",
+          "Construction Total Loss (CTL) was Rs. 100000"
+        ],
+        "correctAnswer": "ATL was Rs. 210,000 and CTL was Rs. 100,000",
+        "explanation": "Actual total loss is where the subject matter of insurance is destroyed beyond repair. Constructive total loss occurs when the actual loss appears inevitable or the prevention of the actual loss would require expenditure that would exceed the saved value of goods."
+      },
+      {
+        "id": "t5q29",
+        "question": "N.F.H.S. is the abbreviation of _____________________.",
+        "options": [
+          "National Family Health Survey",
+          "National Family Health Society",
+          "National Financial & Health Survey",
+          "National Financial & Health Society",
+          "None of the above"
+        ],
+        "correctAnswer": "National Family Health Survey",
+        "explanation": "N.F.H.S is the abbreviation of National Family Health Survey. The NFHS is a large-scale, multi-round survey conducted in a representative sample of households throughout India."
+      },
+      {
+        "id": "t5q30",
+        "question": "What is the definition of an insurer?",
+        "options": [
+          "The person, who applies for insurance-protection",
+          "An amount of money or consideration that has to be paid in exchange for cover",
+          "A person qualified in the technicalities of insurance with an understanding of statistics, economics, finance, and investments",
+          "A company who provides protection, by entering into a contract with the person seeking protection for their assets",
+          "A contractual process wherein a person protects their physical assets as well as life from certain events or peris, by transferring the risk to an insurer"
+        ],
+        "correctAnswer": "A company who provides protection, by entering into a contract with the person seeking protection for their assets",
+        "explanation": "An insurance company (referred to usually as the insurer) promises to pay to the owner (insured) or beneficiary of the asset, a certain sum of money (sum assured), if a loss occurs, so that they may try to ensure continuance of the financial benefits. The insured pays a certain amount (consideration) to the insurance company for bearing the risk, which is known as premium."
+      },
+      {
+        "id": "t5q31",
+        "question": "Which of the following statements is NOT correct with respect to an insurance council?",
+        "options": [
+          "Insurance councils are constituted under the Insurance act 1938",
+          "All insurers transacting life assurance business are members of the Life Insurance Council",
+          "The council issue licenses to insurers, as well as to intermediaries like agents, brokers third- party administrators",
+          "The councils are envisaged as self-regulatory mechanism for the insurance industry.",
+          "All insurers transacting general insurance business are members of the General Insurance Council"
+        ],
+        "correctAnswer": "The council issue licenses to insurers, as well as to intermediaries like agents, brokers third- party administrators",
+        "explanation": "Insurance Councils are constituted under the Insurance Act. All insurers transacting life insurance business are members of the Life Insurance Council and all insurers transacting general insurance business are members of the General Insurance Council. Both these councils are envisaged as self-regulatory mechanisms for the insurance industry."
+      },
+      {
+        "id": "t5q32",
+        "question": "What do brokers generally handle?",
+        "options": [
+          "Small Businesses",
+          "Big Businesses",
+          "IRDAI Business",
+          "Overseas Business",
+          "Government Business"
+        ],
+        "correctAnswer": "Big Businesses",
+        "explanation": "A insurance broker is an individual, a company, a society or a firm, wholly engaged in sourcing insurance business for various insurance companies. Brokers generally handle big businesses and advice customers on the best insurance arrangements. They may also negotiate with insurers to obtain the best insurance terms for their clients."
+      },
+      {
+        "id": "t5q33",
+        "question": "The abbreviation P.A.C. stands for ___________________.",
+        "options": [
+          "Policy Appropriation Charge",
+          "Premium Allocation Charge",
+          "Premium Appropriation Charge",
+          "Policy Allocation Charge",
+          "None of these"
+        ],
+        "correctAnswer": "Policy Allocation Charge",
+        "explanation": "A portion of the premium goes towards meeting the expenses of issuing a policy like agent's commission, policy set up costs, administrative costs and statutory levies. This amount is also known as 'Policy Allocation Charge (PAC)'."
+      },
+      {
+        "id": "t5q34",
+        "question": "Choose the correct option: Reinsurance brokers act as ______________ and find a re-insurer willing to accept the risk.",
+        "options": [
+          "Brokers",
+          "Intermediaries",
+          "Subsidiaries",
+          "Underwriters",
+          "Reinsurers"
+        ],
+        "correctAnswer": "Intermediaries",
+        "explanation": "Reinsurance is not a simple business; it is complex and can be arranged in numerous ways. One of which is: Reinsurance brokers act as intermediaries and find a reinsurer willing to accept the risk."
+      },
+      {
+        "id": "t5q35",
+        "question": "Which of the following statements is INCORRECT, with respect to Proximate Cause?",
+        "options": [
+          "The concept of proximate-cause is used to determine, whether the cause of loss is an insured-peril or an excluded peril",
+          "When there is a series of events that lead to a loss and if all the events are insured-perils then there is no need to identify the proximate-cause",
+          "An event is said to be the proximate-cause, if it affects the decision of the underwriter, to accept or reject the risks, or to determine the rates, terms and conditions, if the risks is accepted",
+          "The dominant, effective, operative cause of an event, is known as proximate- cause",
+          "Proximate-Cause is an active and efficient cause, that sets-in-motion, a chain of events, which brings about a result, without the intervention of any force, started and working actively from a new and in-dependent source"
+        ],
+        "correctAnswer": "An event is said to be the proximate-cause, if it affects the decision of the underwriter, to accept or reject the risks, or to determine the rates, terms and conditions, if the risks is accepted",
+        "explanation": "Proximate cause is defined as the active and efficient cause that sets in motion a chain of events which brings about a result, without the intervention of any force started and working actively from a new and independent source. The dominant, effective or operative cause of an event is known as the proximate cause."
+      },
+      {
+        "id": "t5q36",
+        "question": "Which of the following options are offered by the life assurance companies to the policyholders to pay the premium?",
+        "options": [
+          "Yearly by cheque",
+          "Monthly by cash",
+          "Half-yearly by credit-card",
+          "As a single premium through electronic clearing service (ECS)",
+          "Monthly, quarterly, half yearly or as a single premium and payment by way of cash, cheque, electronic clearing service (ECS)"
+        ],
+        "correctAnswer": "Monthly, quarterly, half yearly or as a single premium and payment by way of cash, cheque, electronic clearing service (ECS)",
+        "explanation": "Life insurance companies offer the policyholder the option to pay the premium monthly, quarterly, half yearly, yearly or as a single premium. The policyholder can pay the premium by cash, cheque, electronic clearing service (ECS) or credit card."
+      },
+      {
+        "id": "t5q37",
+        "question": "What is the difference between insurance agents and insurance brokers?",
+        "options": [
+          "Brokers are persons appointed by insurance companies through whom insurance is largely sold, whereas an agent is an individual, a company, a society, or a firm, wholly engaged in sourcing insurance business for various insurance companies",
+          "Agents are persons appointed by insurance companies through whom insurance is largely sold, whereas a broker is an individual, a company, a society, or a firm, wholly engaged in sourcing insurance business for various insurance companies",
+          "Agents are persons appointed by insurance buyers through whom insurance is largely sold, whereas a broker is an individual, a company, a society, or a firm, wholly engaged in sourcing insurance business for various insurance companies",
+          "Brokers persons who collect the information about the insurance policies of various insurance companies, from data-base, such as, insurance company web-sites and compile this data and provide it in a presentable way to any potential insurance policy buyers on a website whereas agents are persons appointed by insurance companies through whom insurance is largely sold",
+          "Agents are persons who collect the information about the insurance policies of various insurance companies from data bases, such as insurance company websites and compile this data and provide it in a presentable way to any potential insurance policy buyers on a website whereas agents are persons appointed by insurance companies through whom insurance is largely sold"
+        ],
+        "correctAnswer": "Agents are persons appointed by insurance companies through whom insurance is largely sold, whereas a broker is an individual, a company, a society, or a firm, wholly engaged in sourcing insurance business for various insurance companies",
+        "explanation": "Agents: Insurance is largely sold through agents, who are appointed by insurance companies. Brokers: A insurance broker is an individual, a company, a society or a firm, wholly engaged in sourcing insurance business for various insurance companies."
+      },
+      {
+        "id": "t5q38",
+        "question": "What is the difference between health insurance and life insurance, based on basic types of policies under each insurance branch?",
+        "options": [
+          "Health insurance includes policies such as Employees Compensation Policies and Liability Insurance Policy; whereas Life Assurance includes policies such as whole-life assurance plan and money-back assurance plan.",
+          "Health-Insurance includes policies such as Individual Policies, family-floater policies, and group policies, whereas life assurance includes policies such as term assurance plans and pure endowment assurance plan",
+          "Health Insurance includes policies such as Term Assurance Plans and Pure Endowment Assurance Plans; whereas Life Assurance includes policies such as Whole-Life-Assurance plans and Money-Back Assurance Plan",
+          "Health Insurance includes policies such as Individual Policies and Family-Floater Policies, whereas Life Assurance includes policies such as Term assurance Plans and Pure Endowment Assurance Plan",
+          "Health Insurance includes policies such as Individual Policies, Family-Floater Policies, and Group Policies; whereas Life Assurance includes policies such as Whole Life Assurance Plans and Money-Back, Assurance Plan"
+        ],
+        "correctAnswer": "Health-Insurance includes policies such as Individual Policies, family-floater policies, and group policies, whereas life assurance includes policies such as term assurance plans and pure endowment assurance plan",
+        "explanation": "Health Insurance includes Individual Policies, family-floater policies, and group policies. Life Assurance includes term assurance plans, whole-life assurance plans, money-back assurance plans, and pure endowment assurance plans."
+      },
+      {
+        "id": "t5q39",
+        "question": "Explain the concept of mis-selling.",
+        "options": [
+          "Mis-selling is not being customer centric and customer oriented",
+          "It is doing the right thing such as not lying or stealing, but being honest",
+          "It is not doing the right thing, such as, not lying or stealing, but being honest",
+          "Mis-selling is when correct information is given to potential policy-holders, is an attempt to get them to buy insurance",
+          "Mis-selling is when incorrect information is given to potential policy holders in an attempt to get them to buy insurance"
+        ],
+        "correctAnswer": "Mis-selling is when incorrect information is given to potential policy holders in an attempt to get them to buy insurance",
+        "explanation": "The business of insurance is based on trust. Policyholders entrust their savings to an insurer, trusting it to look after these funds and to look after their interests. Things go wrong when incorrect information is given to potential policyholders in an attempt to get them to buy insurance. This is also known as mis-selling."
+      },
+      {
+        "id": "t5q40",
+        "question": "Aarti and Tarun are civil partners living together since past 8 years and together have a 5 years old daughter. If Aarti wants to buy insurance for Tarun, state whether she can do so.",
+        "options": [
+          "Yes, because they have been living together for more than five years and thus are deemed by law to have an insurance interest in each other",
+          "Yes, because they have a child together and thus, are deemed by law to have an insurable interest in each other",
+          "No, because their child is not above 12 years of age, and thus are deemed by law to not have an insurable interest in each other.",
+          "No, because they do not have any legal relationship as they are not legally married and thus are deemed to not have insurable interest in each other.",
+          "No, because they have not been living together for more than five years and thus, are deemed by law to not have an insurance interest in each other."
+        ],
+        "correctAnswer": "Yes, because they have a child together and thus, are deemed by law to have an insurable interest in each other",
+        "explanation": "A person is said to have an 'insurable interest' when they stand to gain or benefit from the continued existence (safety) and well-being of the person or property insured. Aarti and Tarun are civil partners, which establishes a legal relationship. They have a child together, which further strengthens their insurable interest in each other."
+      },
+      {
+        "id": "t5q41",
+        "question": "Probable Maximum Loss is calculated as:",
+        "options": [
+          "Maximum Possible Loss x Number of Perils Striking",
+          "Maximum Possible Loss - Number of Perils Striking",
+          "Maximum Possible Loss x Probability of Peril Striking",
+          "Maximum Possible Gain - Probability of Peril Striking",
+          "Maximum possible Gain x Probability of Peril Striking"
+        ],
+        "correctAnswer": "Maximum Possible Loss x Probability of Peril Striking",
+        "explanation": "The total loss that can happen is referred to as the Maximum Possible Loss (MPL). The risk exposure is the MPL multiplied by the probability of the peril striking. This is called the Probable Maximum Loss (PML). MPL x Probability of Peril Striking = Probable Maximum Loss (PML)."
+      },
+      {
+        "id": "t5q42",
+        "question": "What is the definition of Sum Assured?",
+        "options": [
+          "Sum assured is an application in writing made by the insurer",
+          "Sum assured is the value of the subject matter of insurance and becomes the basis for the payments made by the insurer in the event of a claim.",
+          "Sum assured is a contractual process wherein a person protects their physical assets as well as life from certain events or perils by transferring the Risk",
+          "Sum assured is an application in writing made by the person who wants to take insurance",
+          "None of the above"
+        ],
+        "correctAnswer": "Sum assured is the value of the subject matter of insurance and becomes the basis for the payments made by the insurer in the event of a claim.",
+        "explanation": "The sum assured is the value of the subject matter of insurance and becomes the basis for payments made by the insurer in the event of a claim. The sum assured is the maximum amount of the insurer's liability under the policy."
+      },
+      {
+        "id": "t5q43",
+        "question": "Fill in the blanks with the correct options: The policyholder, who transfers the rights and liabilities, is known as the _______ and the person to whom they were assigned is known as the _________.",
+        "options": [
+          "Insurer; Insured",
+          "Assignee; Assignor",
+          "Insured; Insurer",
+          "Assignor; Assignee",
+          "Nominee; Nominor"
+        ],
+        "correctAnswer": "Assignor; Assignee",
+        "explanation": "An assignment is the transfer of rights and liabilities of the policyholder to someone else. The policyholder who transfers the rights and liabilities is known as the assignor, and the person to whom they were assigned is known as the assignee."
+      },
+      {
+        "id": "t5q44",
+        "question": "The Insurance Regulatory and Development Authority of India (I.R.D.A.I) made provisions for an intermediary to handle the solicitation and marketing of insurance products that require minimal underwriting and intervention. This intermediary can be easily trained and examined to a lesser degree. Who is this intermediary?",
+        "options": [
+          "Surveyor",
+          "Broker",
+          "Web Aggregator",
+          "Point of Sale Persons",
+          "Insurance marketing firm"
+        ],
+        "correctAnswer": "Point of Sale Persons",
+        "explanation": "Point of Sales Person (POSP): The I.R.D.A.I has observed that there are number of persons who are involved in undertaking simple and routine activities pertaining to solicitation and marketing of insurance policies. These happen to be largely pre-underwritten products wherein based on the information provided by the prospect, the insurance policy is automatically generated by the system. The intervention required for such a product is minimal and the training and examination for such persons could be of a lesser degree."
+      },
+      {
+        "id": "t5q45",
+        "question": "By law, Indian insurers have an obligation to provide insurance benefits to which of the following?",
+        "options": [
+          "The employees of insurance company and their families",
+          "The citizens of the Andaman and Nicobar Islands",
+          "The employees of the government and the public sector",
+          "The police force and the defense forces such as the army, navy and air forces",
+          "Low income-earners of the weaker sections of the society and the un-organised sector"
+        ],
+        "correctAnswer": "Low income-earners of the weaker sections of the society and the un-organised sector",
+        "explanation": "Insurers have an obligation by law to provide insurance benefits to low-income earners of the weaker sections of the society and the unorganised sector. Life insurance, pension products and annuities for people who live long make it possible for them to live comfortably without being a burden on the Government for allowances and medical costs."
+      },
+      {
+        "id": "t5q46",
+        "question": "A Third-Party Administrator (TPA) is a specialised health service provider rendering various services related to health insurance. Which of the following services are provided by a TPA?",
+        "options": [
+          "Claim Processing",
+          "Claim Settlement",
+          "Networking with hospitals",
+          "All of the above",
+          "None of the above"
+        ],
+        "correctAnswer": "All of the above",
+        "explanation": "A Third-Party Administrator (TPA) is a specialised health service provider rendering various services related to health insurance. These services include networking with hospitals, claim processing and settlement. Both the insured as well as the insurer benefit from the services of the TPA."
+      },
+      {
+        "id": "t5q47",
+        "question": "__________________ policy caters to the medical needs of a family.",
+        "options": [
+          "Group Policy",
+          "Individual Floater",
+          "Family Floater",
+          "Personal Family",
+          "Group Floater"
+        ],
+        "correctAnswer": "Family Floater",
+        "explanation": "Family Floater Policy: This type of health insurance policy caters to the medical needs of a family. In family floater policies, normally insurance companies allow coverage for up to two adults and two children in a family. The sum insured can be shared by the family members covered in the policy."
+      },
+      {
+        "id": "t5q48",
+        "question": "Insurance is best described as a group __________.",
+        "options": [
+          "of people averse to risk",
+          "exposed to the same type of risk",
+          "of people who are poor",
+          "from various territories",
+          "exposed to various risks"
+        ],
+        "correctAnswer": "exposed to the same type of risk",
+        "explanation": "Insurance is a part of our lives. If out of hundred people insured, five people meet with a loss, the losses of these five people are met through the contribution made by all the hundred people who are exposed to the same risk. Insurance, thus, is a collection of people who are exposed to the same kind of risk."
+      },
+      {
+        "id": "t5q49",
+        "question": "Material facts are dependent upon which of the following factors?",
+        "options": [
+          "The premium charged",
+          "The insured's understanding",
+          "The broker's insight",
+          "The circumstances of each case",
+          "The insurer's mood"
+        ],
+        "correctAnswer": "The circumstances of each case",
+        "explanation": "What facts are material depend upon the circumstances of each case. A material fact could be defined as a fact which would enable the insurer to decide whether to accept a risk or not, and if accepting a risk, on what rates and terms. Any question seeking an answer from the Proposer is considered as relating to a material fact."
+      },
+      {
+        "id": "t5q50",
+        "question": "Under a 'knock for knock' agreement, __________________.",
+        "options": [
+          "accidents are avoided.",
+          "recovery of money from other insurers is possible",
+          "unnecessary litigation is avoided",
+          "claim settlements are avoided",
+          "litigation is facilitated"
+        ],
+        "correctAnswer": "unnecessary litigation is avoided",
+        "explanation": "To avoid endless litigation, Indian Insurers have entered into an agreement with each other. This agreement is called a Knock for Knock Agreement. Under this agreement, one Insurer does not file a case against the owner of the negligent vehicle which is insured with another Insurer."
+      },
+      {
+        "id": "t5q51",
+        "question": "Identify the reinsurance arrangement under which the insurer recovers at least a portion of the loss.",
+        "options": [
+          "A Cat XL Treaty",
+          "A Stop Loss Treaty",
+          "A Risk XL Treaty",
+          "A Surplus Treaty",
+          "A Quota Share Treaty"
+        ],
+        "correctAnswer": "A Quota Share Treaty",
+        "explanation": "A Quota Share Treaty is an arrangement whereby the Insurer and the Reinsurer share the premium and the claims in a specified proportion. Thus in a 20% Quota Share Treaty, the Insurer pays the Reinsurer 20% of the premium for each and every risk. The Reinsurer, in turn, pays the Insurer 20% of each and every loss."
+      },
+      {
+        "id": "t5q52",
+        "question": "Calculate the loss payable, if the sum insured is 150 crores and the Value at Risk is 230 crores, with the loss given as 230 crores.",
+        "options": [
+          "110crores",
+          "260 crores",
+          "150 crores",
+          "78 crores",
+          "460 crores"
+        ],
+        "correctAnswer": "150 crores",
+        "explanation": "To calculate the loss payable, we use the principle of underinsurance (Average Clause). Loss payable = Loss × (Sum Insured / Value at Risk) = 230 × 150/230 = 150. Rs.150 crores (maximum liability under the insurance contract)."
+      },
+      {
+        "id": "t5q53",
+        "question": "_________________ is the only insured event that does not result in a loss to the insured.",
+        "options": [
+          "Maturity",
+          "Burglary",
+          "Death",
+          "Accident",
+          "Injury"
+        ],
+        "correctAnswer": "Maturity",
+        "explanation": "A claim occurs when an Insured Event occurs. It invariably results in a loss to the Insured, except in the case of maturity of the Life Insurance Policy. In Life Insurance, even the maturity of the Policy would be an Insured Event, as on maturity, the Insurer agrees to pay the Sum Assured."
+      },
+      {
+        "id": "t5q54",
+        "question": "In the case of ______________ the exact date of loss may not be known.",
+        "options": [
+          "transit damage",
+          "explosion",
+          "hospitalisation",
+          "fire",
+          "terrorism"
+        ],
+        "correctAnswer": "transit damage",
+        "explanation": "In Marine Transit Policies, the exact date of loss might not be known. The cargo is transported through multiple modes and involves lot of handling. In such cases, the date of loss such as damage or leakage could not be exactly ascertained."
+      },
+      {
+        "id": "t5q55",
+        "question": "IBNR is defined as '___________________________'.",
+        "options": [
+          "Interested But Not Reviewed",
+          "Invested But Not Recovered",
+          "Incurred But Not Reported",
+          "Intimated But Not Reported",
+          "Intimated But Not Recovered"
+        ],
+        "correctAnswer": "Incurred But Not Reported",
+        "explanation": "Claims could be classified into three types A, B and C depending on when they are reported and when they are settled. C type claims are not even known as they are not reported to the Insurance Company. These type of claims are called 'Incurred But Not Reported' (IBNR)."
+      },
+      {
+        "id": "t5q56",
+        "question": "Formula for Burning cost is ______________.",
+        "options": [
+          "frequency / severity",
+          "frequency x severity",
+          "frequency x incidence",
+          "severity x average loss",
+          "severity / frequency"
+        ],
+        "correctAnswer": "frequency x severity",
+        "explanation": "There are two elements to calculating Burning Cost. The first is Frequency and the next is Severity. Burning Cost is derived by multiplying Frequency and Severity. Burning Cost = Frequency x Severity."
+      },
+      {
+        "id": "t5q57",
+        "question": "If the Value at Risk (VAR) is less than the total of the sum insured under both the policies in case of a loss occurring for a property insured by two insurers, then the loss will be paid by which of the following?",
+        "options": [
+          "By neither insurer",
+          "By both the insurers without application of underinsurance or contribution",
+          "By both insurers after application of underinsurance",
+          "By only one insurer",
+          "By both the insurers proportionately to their sum insured"
+        ],
+        "correctAnswer": "By both the insurers proportionately to their sum insured",
+        "explanation": "When a property is insured under two policies and the Value at Risk (VAR) is less than the total sum insured, it implies over insurance. However, insurers are liable only up to the actual loss, and the principle of contribution applies. Each insurer pays a proportion of the loss based on their share of the total sum insured."
+      },
+      {
+        "id": "t5q58",
+        "question": "Why does subrogation not apply to benefit contracts?",
+        "options": [
+          "As the financial loss of the insured event is not possible to be measured",
+          "As the insurer should not make more profits",
+          "As the insured is poor",
+          "As the family of the deceased requires support",
+          "As the insurer charges adequate premium"
+        ],
+        "correctAnswer": "As the financial loss of the insured event is not possible to be measured",
+        "explanation": "Subrogation arises only in Indemnity Contracts. It does not arise in Benefit Contracts. Subrogation is not applicable for Benefit Contracts because benefits are mostly paid for specific events like loss of life, loss of limb or diagnosis of a Critical illness. The financial loss arising out of these events could not be exactly quantified."
+      },
+      {
+        "id": "t5q59",
+        "question": "Identify the factors not relevant to fixing the sum insured in life insurance.",
+        "options": [
+          "size of the ancestral home",
+          "size of the family",
+          "income",
+          "age",
+          "occupation"
+        ],
+        "correctAnswer": "size of the ancestral home",
+        "explanation": "In life insurance, the sum insured is fixed considering: size of the family (more dependents means higher cover), income (cover based on income replacement), age (affects need and insurability), and occupation (risk factor). However, size of the ancestral home is not relevant as property size doesn't determine life cover needed."
+      },
+      {
+        "id": "t5q60",
+        "question": "What does Uberrimae fidei mean?",
+        "options": [
+          "Good faith",
+          "Ubiquitous fidelity",
+          "United fidelity",
+          "Utmost good faith",
+          "Unnecessary fidelity"
+        ],
+        "correctAnswer": "Utmost good faith",
+        "explanation": "Insurance contracts are contracts of utmost good faith. The parties to the contract have a duty to disclose all material facts even without being asked. This is called the Duty of Disclosure. Uberrimae fidei is a Latin phrase, meaning Utmost Good Faith."
+      },
+      {
+        "id": "t5q61",
+        "question": "__________________ is not considered an Accumulation.",
+        "options": [
+          "Many risks in many cities",
+          "Many risks in a single city",
+          "Interconnected computer systems",
+          "Many risks in a single complex",
+          "Cargo discharged at the same port"
+        ],
+        "correctAnswer": "Many risks in many cities",
+        "explanation": "In insurance, accumulation means exposure of many risks to a single event or cause of loss. Many risks in many cities is not considered an accumulation as risk is diversified when spread across cities."
+      },
+      {
+        "id": "t5q62",
+        "question": "When does the Insurer have the burden to prove that the loss is due to an excluded Peril?",
+        "options": [
+          "For claims in All Risks Policies",
+          "If the Insurer denies the claim on the ground that it was caused by an excluded Peril",
+          "For claims in Named Peril Policies",
+          "For claims in all Policies",
+          "None of the above scenarios"
+        ],
+        "correctAnswer": "If the Insurer denies the claim on the ground that it was caused by an excluded Peril",
+        "explanation": "The burden of proving the loss usually rests with the Insured. But if the Insurer denies the claim alleging that the loss had happened due to an Excluded Peril, then they have the burden to prove that the loss occurred due to an Excluded Peril."
+      },
+      {
+        "id": "t5q63",
+        "question": "How are Risks Classified?",
+        "options": [
+          "Based on Competition",
+          "Based on Marketing Strategy",
+          "Based on Hazards",
+          "Based on Amount of Loss",
+          "Based on Location"
+        ],
+        "correctAnswer": "Based on Hazards",
+        "explanation": "Risks are generally classified based on the degree of hazard they are exposed to."
+      },
+      {
+        "id": "t5q64",
+        "question": "Which of the following is not a requirement for Risk Classification?",
+        "options": [
+          "Simplicity",
+          "Complexity",
+          "Objectivity",
+          "Fairness",
+          "All of the above"
+        ],
+        "correctAnswer": "Complexity",
+        "explanation": "Complexity will make the Risk Classification difficult to use."
+      },
+      {
+        "id": "t5q65",
+        "question": "Which of the following is Acceptance Limit based on?",
+        "options": [
+          "Market Share",
+          "Competition",
+          "Rating and Pricing",
+          "Capital and Reinsurance",
+          "None of the above"
+        ],
+        "correctAnswer": "Capital and Reinsurance",
+        "explanation": "Acceptance Limit is based on Capital and Reinsurance support available."
+      },
+      {
+        "id": "t5q66",
+        "question": "Which of the following is accumulation?",
+        "options": [
+          "Writing a small volume of business in each line.",
+          "Writing a small volume of business in each territory.",
+          "Writing a large volume of business from one channel.",
+          "Writing a large volume of business from one city.",
+          "None of the above"
+        ],
+        "correctAnswer": "Writing a large volume of business from one city.",
+        "explanation": "Accumulation happens when many risks are written in the same geography, or when risks are interdependent. Writing a large volume of business from one city is an example of accumulation."
+      },
+      {
+        "id": "t5q67",
+        "question": "Which of the following statements is false?",
+        "options": [
+          "In Insurance Contracts, it is usually the customer who invokes the Arbitration Clause",
+          "If the Insurer agrees, a sole Arbitrator could resolve the dispute",
+          "The Award of the Arbitral Tribunal is binding on the Insurer, but not on the Insured",
+          "Generally, disputes on rejection of a claim by the Insurer cannot be taken up for Arbitration",
+          "All are true"
+        ],
+        "correctAnswer": "The Award of the Arbitral Tribunal is binding on the Insurer, but not on the Insured",
+        "explanation": "The Award of the Arbitral Tribunal is binding on both the Insurer and the Insured."
+      },
+      {
+        "id": "t5q68",
+        "question": "From the following data calculate the Net Incurred Claims: Incurred Claims on Direct Business Rs. 4800 Crores, Incurred Claims on Reinsurance Accepted Rs. 200 Crores, Incurred Claims on Reinsurance Ceded Rs.1000 Crores.",
+        "options": [
+          "Rs. 6000 Crores",
+          "Rs. 4000 Crores",
+          "Rs. 5600 Crores",
+          "Rs. 5000 Crores",
+          "Rs. 4600 Crores"
+        ],
+        "correctAnswer": "Rs. 4000 Crores",
+        "explanation": "Net Incurred Claims = Incurred Claims on Direct Business + Incurred Claims on Reinsurance Accepted - Incurred Claims on Reinsurance Ceded = Rs. 4800 Crores + Rs. 200 Crores - Rs.1000 Crores = Rs. 4000 Crores."
+      },
+      {
+        "id": "t5q69",
+        "question": "Which of the following does not result in Accumulation?",
+        "options": [
+          "Goods stored in the same warehouse at the port of discharge",
+          "Different factories in the same compound",
+          "Different vehicles insured in different cities",
+          "Buildings on the Same riverfront",
+          "None of the above"
+        ],
+        "correctAnswer": "Different vehicles insured in different cities",
+        "explanation": "Different vehicles in different cities are independent risks and do not pose an accumulation risk."
+      },
+      {
+        "id": "t5q70",
+        "question": "In which of the cases is the loss payable?",
+        "options": [
+          "The train of insured Perils is broken by a new independent force arising from an excluded Peril",
+          "The train of uninsured Perils is broken by a new independent force arising from an Insured Peril",
+          "Excluded Peril and Uninsured Peril acting independently",
+          "Excluded Peril and Insured Peril acting interdependently",
+          "None of the above"
+        ],
+        "correctAnswer": "The train of uninsured Perils is broken by a new independent force arising from an Insured Peril",
+        "explanation": "The Proximate cause is the Insured Peril, hence the claim is payable."
+      },
+      {
+        "id": "t5q71",
+        "question": "What does Contra Proferentem mean?",
+        "options": [
+          "Contracts should always be interpreted in favour of the Insurer.",
+          "Contracts should always be interpreted in favour of the Insured.",
+          "In case of ambiguity in the contract, an interpretation that favours the party who did not draft the contract is preferred.",
+          "The reasonable expectation of the customer is respected.",
+          "Customer suggestions are always given first priority."
+        ],
+        "correctAnswer": "In case of ambiguity in the contract, an interpretation that favours the party who did not draft the contract is preferred.",
+        "explanation": "In case there is an ambiguity in a phrase or clause of the contract, and such ambiguity could lead to two possible interpretations, that interpretation which favours the party who did not draft the contract should be preferred. This is known as the Rule of Contra Proferentem."
+      },
+      {
+        "id": "t5q72",
+        "question": "Which of the following is a speculative risk?",
+        "options": [
+          "Damage to property by rioters",
+          "Damage to the information system by hackers",
+          "Loss of market due to change in fashion",
+          "Loss of Profit due to reduced turnover following a fire loss",
+          "All of the above"
+        ],
+        "correctAnswer": "Loss of market due to change in fashion",
+        "explanation": "Loss of market due to change in fashion is a speculative risk. Others are Pure Risks and Insurable."
+      },
+      {
+        "id": "t5q73",
+        "question": "What is difference between sum insured and retention known as?",
+        "options": [
+          "Deductible",
+          "Excess",
+          "Cover limit",
+          "Surplus",
+          "Quota"
+        ],
+        "correctAnswer": "Surplus",
+        "explanation": "The difference between the Sum Insured and the Retention Limit is called Surplus. Thus, in all those risks where the Sum Insured is higher than the Retention Limit, the Reinsurer takes the risks to the extent of the Surplus."
+      },
+      {
+        "id": "t5q74",
+        "question": "In a Surplus Treaty, when a risk whose sum insured is less than the retention, it is ______________.",
+        "options": [
+          "retained by the insurer",
+          "reinsured by the insurer",
+          "taken to the quota share treaty",
+          "reinsured facultatively",
+          "taken to another surplus treaty"
+        ],
+        "correctAnswer": "retained by the insurer",
+        "explanation": "In a Surplus Treaty, the Direct Insurer first decides the limit upto which they would retain the risk. All Risks where the Sum Insured is less than the chosen limit is retained by the Insurer. These Risks are not reinsured. The limit chosen is called the Retention Limit."
+      },
+      {
+        "id": "t5q75",
+        "question": "If an enterprise makes losses year after year ________________.",
+        "options": [
+          "its market share will improve",
+          "its market will improve",
+          "it will lead to bankruptcy",
+          "banks will lend money required for capital",
+          "its investors will bring in more capital"
+        ],
+        "correctAnswer": "it will lead to bankruptcy",
+        "explanation": "Continued losses year after year would result in the enterprise becoming bankrupt. Therefore the health and well being of the enterprise is measured by the profit it earns."
+      },
+      {
+        "id": "t5q76",
+        "question": "Identify the dispute resolution forum included in most of the insurance contracts.",
+        "options": [
+          "Supreme Court",
+          "High Court",
+          "Motor vehicle Tribunal",
+          "Arbitration",
+          "Consumers forum"
+        ],
+        "correctAnswer": "Arbitration",
+        "explanation": "The Arbitration and Conciliation Act, 1996 is also relevant to Insurance contracts. Most of the Insurance contracts contain a clause on arbitration. Arbitration is a dispute resolution process that is considerably less time consuming and less cumbersome as compared to filing a case before the Court of Law."
+      },
+      {
+        "id": "t5q77",
+        "question": "Underinsurance = ______________.",
+        "options": [
+          "Sum insured - Loss",
+          "Exposure - Sum insured",
+          "Exposure - Loss",
+          "Sum insured – Exposure",
+          "Sum insured + Exposure"
+        ],
+        "correctAnswer": "Exposure - Sum insured",
+        "explanation": "Underinsurance arises wherever the sum insured is less than the value at risk. Underinsurance = Value at risk - Sum Insured."
+      },
+      {
+        "id": "t5q78",
+        "question": "If an insurance company is in its 12th year of operations, explain the difference between Net premium and Net earned premium.",
+        "options": [
+          "Half of net premium",
+          "Reserve for unearned premium at year end - Reserve for unearned premium at the starting of the year",
+          "Reserve for unearned premium at year end + Reserve for unearned premium at the starting of the year",
+          "Reserve for unearned premium at year end",
+          "Reserve for unearned premium at the starting of the year"
+        ],
+        "correctAnswer": "Reserve for unearned premium at year end - Reserve for unearned premium at the starting of the year",
+        "explanation": "Net Premium refers to the total premium earned from underwriting insurance policies, before considering adjustments for unearned premium reserves. Net Earned Premium accounts for the portion of premium that has actually been earned by the insurer based on the coverage provided during the period. The difference between Net Premium and Net Earned Premium is determined by adjustments in unearned premium reserves."
+      },
+      {
+        "id": "t5q79",
+        "question": "Calculate the Net Commission, if the commission on direct business is Rs.650 crores, the commission on reinsurance accepted is Rs.85 crores and the commission on reinsurance ceded is Rs. 155 crores.",
+        "options": [
+          "Rs.580 crores",
+          "Rs.720 crores",
+          "Rs.830 crores",
+          "Rs.290 crores",
+          "Rs.530 crores"
+        ],
+        "correctAnswer": "Rs.580 crores",
+        "explanation": "Net Commission = Commission on direct business + Commission on reinsurance accepted - Commission on reinsurance ceded = Rs.650 crores + Rs.85 crores – Rs.155 crores = Rs.735 crores – Rs.155 crores = Rs.580 crores."
+      },
+      {
+        "id": "t5q80",
+        "question": "Underwriting is considered critical as it __________.",
+        "options": [
+          "rejects all risks",
+          "accepts all risks",
+          "chooses the right risks",
+          "reduces premium",
+          "brings more business"
+        ],
+        "correctAnswer": "chooses the right risks",
+        "explanation": "The Insurer does not accept each and every risk that is offered for insurance. They evaluate the risks and find out whether these risks conform to the characteristics of an insurable risk. The process of evaluating, selecting and assuming risks is called Underwriting. Underwriting, thus, is the most critical function in insurance."
+      },
+      {
+        "id": "t5q81",
+        "question": "Pay and Recover is applicable in _____________ claims.",
+        "options": [
+          "fire",
+          "health",
+          "liability",
+          "marine",
+          "motor"
+        ],
+        "correctAnswer": "motor",
+        "explanation": "The 'Pay and Recover' principle is applicable in Motor Third Party insurance claims. This principle allows the insurance company to pay the compensation amount to the third party and then recover the same from the insured vehicle owner."
+      },
+      {
+        "id": "t5q82",
+        "question": "______________ as a peril is not applicable to property.",
+        "options": [
+          "Liability",
+          "Fire",
+          "Flood",
+          "Storm",
+          "Earthquake"
+        ],
+        "correctAnswer": "Liability",
+        "explanation": "Liability is not considered a 'peril' in property insurance. A peril refers to a specific event or risk that causes damage to property (like fire, flood, earthquake, or storm). Liability typically refers to the legal responsibility for damages caused to another person or their property, and it is generally covered under liability insurance, not property insurance."
+      },
+      {
+        "id": "t5q83",
+        "question": "Identify the CORRECT statement. a. Subrogation is not applicable to Benefit contracts. b. Contribution is not applicable to Benefit contracts.",
+        "options": [
+          "Neither a nor b",
+          "Either a or b",
+          "Both a & b",
+          "Only a",
+          "Only b"
+        ],
+        "correctAnswer": "Both a & b",
+        "explanation": "Subrogation arises only in Indemnity Contracts. It does not arise in Benefit Contracts. Contribution will arise only if all the following conditions are present: Two or more Policies of Indemnity exist (Contribution would not apply for Benefit Policies). The Policies cover a common interest."
+      },
+      {
+        "id": "t5q84",
+        "question": "Immediate intimation is required so that ______________.",
+        "options": [
+          "claims could be denied for delayed intimation",
+          "higher premium for higher losses could be charged by insurers",
+          "policy conditions could be revised",
+          "the reason and extent of loss could be correctly ascertained",
+          "the policy could be cancelled"
+        ],
+        "correctAnswer": "the reason and extent of loss could be correctly ascertained",
+        "explanation": "Most Insurance Policies have a Condition that the Insured customer should immediately inform the Insurer of any loss. The evidence on the nature of loss and extent of loss is available immediately after a loss. This would provide the Insurer the opportunity to properly judge the cause, nature and extent of loss."
+      },
+      {
+        "id": "t5q85",
+        "question": "Identify the condition that is not necessary for applying Contribution.",
+        "options": [
+          "There should be more than one indemnity policy",
+          "There should be more than one loss",
+          "The peril covered by the policies should be common",
+          "The interest served by the policies should be common",
+          "The subject matter covered by the policies should be the same"
+        ],
+        "correctAnswer": "There should be more than one loss",
+        "explanation": "Contribution is a right of the Insurer under Indemnity Policies to restrict their liability to a proportionate share of the loss, if there is more than one Indemnity Policy covering the loss. Contribution will arise only if all the following conditions are present: Two or more Policies of Indemnity exist; The Policies cover a common interest; The Policies cover a common subject matter; The loss is caused by a Peril covered by all these Policies; The Policies are liable for the loss."
+      },
+      {
+        "id": "t5q86",
+        "question": "High end products should have higher severity as __________.",
+        "options": [
+          "losses are higher",
+          "customers are poor",
+          "customers are rich",
+          "there is wider coverage",
+          "there is narrow coverage"
+        ],
+        "correctAnswer": "losses are higher",
+        "explanation": "Attention needs to be paid to differing loss experiences across different variants of the same product. High end products would have higher severity than low end products. Buyers who buy high end health insurance products could also be expecting the insurers to pay all health care expenses without demur."
+      },
+      {
+        "id": "t5q87",
+        "question": "Calculate the total amount of claims, given Severity: 80,000 and claims: 1,000.",
+        "options": [
+          "11,000",
+          "3,50,000",
+          "80,000,000",
+          "18,000,000",
+          "1,900"
+        ],
+        "correctAnswer": "80,000,000",
+        "explanation": "Given, Severity: 80,000 and Claims: 1,000. Total amount of claims = Severity × Claims = 80,000 × 1,000 = 80,000,000."
+      },
+      {
+        "id": "t5q88",
+        "question": "In the case of two causes acting concurrently, but independently, wherein both the causes are insured, the claim is ______________.",
+        "options": [
+          "payable upto 50%",
+          "not payable",
+          "payable",
+          "payable upto the limit of the loss due to the uninsured peril",
+          "payable upto 75%"
+        ],
+        "correctAnswer": "payable",
+        "explanation": "Concurrent Causes acting independently means there are two or more causes acting independent of each other. In this case, where there are concurrent Perils, acting independently, the loss, to the extent caused by the Insured Peril is payable, and any other loss caused by an excluded Peril or by an uninsured Peril is not payable."
+      },
+      {
+        "id": "t5q89",
+        "question": "Identify the INCORRECT statement from the following.",
+        "options": [
+          "The claim can be settled by the insurer for a sum lower than that assessed by the Surveyor",
+          "The claim can be settled by the insurer for a sum higher than that assessed by the Surveyor",
+          "The surveyor's assessment is not binding for the insurer",
+          "Deviations from the amounts assessed by the surveyor should not be done arbitrarily",
+          "The surveyor's assessment is binding for the insurer"
+        ],
+        "correctAnswer": "The surveyor's assessment is binding for the insurer",
+        "explanation": "Though it is mandatory that a Surveyor should assess the loss, it is the Insurer who decides whether a claim is payable or not. The Insurer also decides the amount of claim payable. Though the Surveyor might have quantified the amount of claim payable, the Insurer is not bound by such an assessment."
+      },
+      {
+        "id": "t5q90",
+        "question": "______________ could be termed as an unfair risk classification.",
+        "options": [
+          "Motor risks charged as per the nature of use of the vehicle",
+          "Health premium charged on the basis of the insured's age",
+          "Taxis and Cars charged at varied rates",
+          "Residences and hotels charged at the same rate",
+          "Life risks charged on the basis of the insured's age"
+        ],
+        "correctAnswer": "Residences and hotels charged at the same rate",
+        "explanation": "Charging residences and hotels at the same rate could be considered an unfair risk classification because these two types of properties typically represent significantly different levels of risk. Hotels may have higher foot traffic, stricter safety regulations, and higher exposure to certain risks compared to private residences."
+      },
+      {
+        "id": "t5q91",
+        "question": "__________________ is not a fire hazard.",
+        "options": [
+          "Location",
+          "Construction",
+          "Insured's age",
+          "Storage",
+          "Seismic zone"
+        ],
+        "correctAnswer": "Insured's age",
+        "explanation": "Location, Construction, Storage, and Seismic zone are all fire hazards. Insured's age: While the age of the insured can be relevant to insurance risk in general (e.g., health insurance), it is not a direct hazard for fire."
+      },
+      {
+        "id": "t5q92",
+        "question": "What is meant by long tail liability?",
+        "options": [
+          "Insurance for animals having a long tail",
+          "Projects having a lengthy corridor",
+          "Insurance for pets having a long tail",
+          "The final outgo would be known much before the risk is over",
+          "The final outgo would be known much after the risk is over"
+        ],
+        "correctAnswer": "The final outgo would be known much after the risk is over",
+        "explanation": "In some insurance products like long tail liability, the final amount of total claims paid on policies sold during a year would be known many years later. Yet, the insurer should price it when they sell it, no matter what the ultimate cost of claims and other expenses could be."
+      },
+      {
+        "id": "t5q93",
+        "question": "What is the amount payable on the death of the life insured known as?",
+        "options": [
+          "Insured",
+          "Life insured",
+          "Sum insured",
+          "Indemnity",
+          "Loss amount"
+        ],
+        "correctAnswer": "Sum insured",
+        "explanation": "In Life insurance, the amount of loss payable on the occurrence of an insured event is specified in the Policy. The Sum Insured is usually paid in case of the death of the Life Assured."
+      },
+      {
+        "id": "t5q94",
+        "question": "There is a flat deductible of Rs.1,20,000 for each and every claim in a policy. In a loss amounting to Rs.1,00,000, calculate the amount that the insurer would pay.",
+        "options": [
+          "Rs.1,00,000",
+          "Rs.1,20,000",
+          "Rs.2,20,000",
+          "The customer is required to pay an amount of Rs.12,000 to the insurer",
+          "Nil"
+        ],
+        "correctAnswer": "Nil",
+        "explanation": "Flat Deductible per claim = Rs.1,20,000. Loss Amount = Rs.1,00,000. In insurance, a flat deductible means the insured must bear that fixed amount before the insurer pays anything. Here, the loss (Rs.1,00,000) is less than the deductible (Rs.1,20,000). The insurer will not pay anything because the loss does not exceed the deductible."
+      },
+      {
+        "id": "t5q95",
+        "question": "In a Marine Valued Policy, when there is total loss the ______________.",
+        "options": [
+          "value payable depends on import duty and foreign exchange rate",
+          "sum insured would be paid",
+          "value as at the place of loss would be paid",
+          "value as on the date of loss would be paid",
+          "value as on the date and as at the place of loss would be paid"
+        ],
+        "correctAnswer": "sum insured would be paid",
+        "explanation": "In Marine Insurance, most of the Policies are Valued Policies. In the case of a total loss under a Marine Valued Policy, the sum insured is paid in full, regardless of the value at the time and place of loss."
+      },
+      {
+        "id": "t5q96",
+        "question": "The term 'Retention' means retaining ____________, in risk management.",
+        "options": [
+          "the volatility in the market",
+          "profits",
+          "the financial consequences of a risk",
+          "capital",
+          "control"
+        ],
+        "correctAnswer": "the financial consequences of a risk",
+        "explanation": "Not all losses could be avoided, prevented, or reduced. Not all risks could be transferred. Risks have to be undertaken. The enterprise should have adequate Risk Financing tools to finance losses arising out of retained risks."
+      },
+      {
+        "id": "t5q97",
+        "question": "Which of the following holds true in a Benefit contract?",
+        "options": [
+          "The amount of loss or sum insured whichever is lower is paid",
+          "The amount of loss or sum insured whichever is higher is paid",
+          "The amount of sum insured is paid",
+          "Nothing is paid",
+          "The actual loss is paid"
+        ],
+        "correctAnswer": "The amount of sum insured is paid",
+        "explanation": "In a Benefit contract, the insurer agrees to pay a predefined benefit amount (i.e., the sum insured) upon the occurrence of a specified event, regardless of the actual financial loss incurred. This is common in personal accident insurance, life insurance, and critical illness policies."
+      },
+      {
+        "id": "t5q98",
+        "question": "______________ is not considered to be a characteristics of an insurable risk.",
+        "options": [
+          "Certainty",
+          "Economic feasibility",
+          "Homogenity",
+          "Random",
+          "Independent"
+        ],
+        "correctAnswer": "Certainty",
+        "explanation": "Characteristics that determine whether a risk is insurable or not include: Large Number of Homogeneous Exposure Units, Independence among Exposure Units, Expected Losses should be calculable in monetary terms, The loss should be definite as to Time, Place, Amount and Cause, Fortuitous Events, Economic Feasibility, and Losses should not be catastrophic in nature. Certainty is not a characteristic of an insurable risk."
+      },
+      {
+        "id": "t5q99",
+        "question": "What is the Ultimate claims cost, considering the data given below? Claims cost Rs.2,550 cr. Survey fee and advocate fee Rs.350 cr. Recovery from reinsurers Rs.600 cr.",
+        "options": [
+          "2,300 crores",
+          "1,800 crores",
+          "2,500 crores",
+          "2,550 crores",
+          "3,200 crores"
+        ],
+        "correctAnswer": "2,300 crores",
+        "explanation": "Ultimate Claims Cost = (Claims Cost + Associated Expenses) − Recoveries = (2,550 + 350) − 600 = 2,900 − 600 = Rs.2,300 crores."
+      },
+      {
+        "id": "t5q100",
+        "question": "_________________ is not considered to be a material fact.",
+        "options": [
+          "The age of the machinery in Machinery breakdown insurance",
+          "The construction quality of the building in Fire insurance",
+          "The construction quality of the building under Burglary insurance",
+          "The construction quality of the building in Health insurance",
+          "Past loss experience in Motor insurance"
+        ],
+        "correctAnswer": "The construction quality of the building in Health insurance",
+        "explanation": "In health insurance, the construction quality of a building is generally not considered a material fact because it doesn't influence the underwriting decision or risk assessment related to the insured individual's health. Material facts are those that directly affect the insurer's decision to accept the risk or determine the premium—such as medical history, age, lifestyle habits, or pre-existing conditions."
+      }
+    ]
   }
-
 ]
